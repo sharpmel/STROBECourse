@@ -6,7 +6,7 @@ This repository holds all of the information for an educational expansion of the
 This site is uses the [R Bookdown package](https://bookdown.org/), which is built using [R Markdown](http://rmarkdown.rstudio.com). All content is stored in the [GitHub repository](https://github.com/sharpmel/STROBECourse) of Melissa Sharp, a doctoral student working on observational research methods. Please [contact her](mailto:melissaksharp@gmail.com) if you have any comments, questions, or concerns. 
 
 
-## How can you contribute? 
+## How can I contribute? 
 
 
 
@@ -22,4 +22,8 @@ Citations go inside square brackets and are separated by semicolons.
   In text, citations should be written as: 
     TEXT TEXT [@smith2001; @smith2002, ch. 1]
   A minus sign ( - ) before the @ will suppress mention of the author in the citation. This can be useful when the author is already    mentioned in the text. (e.g., Research from Smith et al. found… [-@smith2001].)
+  @article
+  @book
+  @misc
+  @techreport
 

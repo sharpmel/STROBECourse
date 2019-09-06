@@ -1,0 +1,68 @@
+---
+title: "13-StatisticalMethods"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 12: Statistical Methods
+
+3.12 – Methods: Statistical methods (Week 3, Module 4)
+3.12.1 – STROBE
+The items from STROBE state that you should report: 
+•	Describe all statistical methods, including those used to control for confounding
+•	Describe any methods used to examine subgroups and interactions
+•	Explain how missing data were addressed
+•	Cohort study If applicable, explain how loss to follow up was addressed
+•	Case-control study If applicable, explain how matching of cases and controls was addressed
+•	Cross-sectional study If applicable, describe analytical methods taking account of sampling strategy
+•	(e) Describe any sensitivity analyses
+
+3.12.2 – Objectives
+Specific examples from QA:
+•	EULAR12(A) Deﬁne and justify the risk window. Whenever possible, categorise as (1) on drug, (2) on drug + lag window or (3) ever treated
+•	EULAR12(B) The use of multiple risk attribution models and lag windows is encouraged if appropriate, but needs to be accompanied by a description of numbers and relative risks for each model
+•	RECORD 12.1: Authors should describe the extent to which the investigators had access to the database population used to create the study population
+•	STREGA12 (f) State whether Hardy-Weinberg equilibrium was considered and, if so, how.
+•	STREGA12 (g) Describe any methods used for inferring genotypes or haplotypes.
+•	nut-12.2. Describe and justify the method for energy adjustments, intake modeling, and use of weighting factors, if applicable.
+•	RDS12 (f) Report any criteria used to support statements on whether estimator conditions or assumptions were appropriate
+•	RDS12 (g) Explain how seeds were handled in analysis
+•	ROSES-I 12.2: if relevant, report methods used to account for the probability of seropositivity or seroconversion if infected, and to account for decay in antibody titers over time
+•	ROSES-I 12a.1: Describe the sample type—serum or plasma. If plasma is used, specify the anticoagulant used (heparin, sodium citrate, EDTA, etc.)
+•	ROSES-I 12a.2: Describe the specimen storage conditions (4°C, −20 °C, −80 °C). If frozen prior to the analysis, describe the time to freezing and the number of freeze/thaw cycles prior to testing
+•	ROSES-I 12a.3: Specify the assay type (e.g., hemagglutination inhibition; virus neutralization/microneutralization; ELISA; other) and methods used to determine the endpoint titer
+•	ROSES-I 12a.4: Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials
+•	ROSES-I 12a.5: State what is known about the determinants of the variability of the antibody detection assay being used
+•	ROSES-I 12a.6: Specify the antigen(s) used in the assay, including virus strain name, subtype, lineage or clade, with standardized nomenclature and reference; specify whether live virus or inactivated virus was used (where applicable)
+•	ROSES-I 12a.7: Report if antigen(s) from potentially cross-reactive pathogens/strains were used in order to identify cross-reactivity, and specify which antigen was used, including virus name, subtype, strain, lineage and clade, with standardized nomenclature and reference
+•	ROSES-I 12a.8: If red blood cells were used for a hemagglutinin inhibition assay, specify the animal species from which they were obtained and concentration (v/v) used
+•	ROSES-I 12a.9: Describe positive and negative controls used
+•	ROSES-I 12a.10: Describe starting and end dilutions
+•	ROSES-I 12a.11: Specify laboratory biosafety conditions
+•	ROSES-I 12a.12: Specify whether replication was performed, and if so, the acceptable replication parameters
+•	ROSES-I 12a.13: Specify whether a confirmatory assay was performed and all specifics of this assay, at the same level of detail
+•	ROSES-I 12a.14: Specify international standards used, if appropriate
+
+Nonspecific examples from QA:
+•	ROSES-I 12.1: if relevant, state how the non-independence of data was managed
+•	ME-12.1 Report on the validity and reliability of measurement of the biomarker(s) coming from the literature and any internal or external validation used in the study
+•	ME-12 Describe how biomarkers were introduced into statistical models
+•	STROME-ID 12.1: state how the study took account of the non-independence of sample data, if appropriate
+•	STROME-ID 12.2: state how the study dealt with missing data
+•	EULAR(C) If the same association under study has previously been published, consider using a similar analysis model and deﬁnitions for replicative purposes
+•	RECORD 12.2: Authors should provide information on the data cleaning methods used in the study
+•	RECORD 12.3: State whether the study included person level, institutional-level, or other data linkage across two or more databases. The methods of linkage and methods of linkage quality evaluation should be provided.
+•	STREGA12 State software version used and options (or settings) chosen.
+•	STREGA 12 (h) Describe any methods used to assess or address population stratification.
+•	STREGA 12 (i) Describe any methods used to address multiple comparisons or to control risk of false positive findings.
+•	STREGA 12 (j) Describe any methods used to address and correct for relatedness among subjects
+•	nut-12.1. Describe any statistical method used to combine dietary or nutritional data, if applicable.
+•	nut-12.3. Report any adjustments for measurement error, i.e., from a validity or calibration study.
+•	SBR12 Clearly indicate the unit of analysis (e.g., individual, team, system), identify repeated measures on subjects, and describe how these issues were addressed.
+•	RDS12 (a) Describe all statistical methods, including those to account for sampling strategy (e.g., the estimator used) and, if applicable, those used to control for confounding
+•	RDS12 (b) State data analysis software, version number, and specific analysis settings used
+•	VET12 (a) Describe all statistical methods for each objective, at a level of detail suﬃcient for a knowledgeable reader to replicate the methods. Include a description of the approaches to variable selection, control of confounding, and methods used to control for non-independence of observations
+•	VET12 (b) Describe the rationale for examining subgroups and interactions and the methods used
+•	VET12 (d) If applicable, describe the analytical approach to loss to follow-up, matching, complex sampling, and multiplicity of analyses
+•	VET12 (e) Describe any methods used to assess the robustness of the analyses (e.g, sensitivity analyses or quantitative bias assessment)
+

@@ -1,0 +1,54 @@
+---
+title: "07-Participants"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 6: Participants
+3.6 – Methods: Participants (Week 2, Module 3)
+3.6.1 – STROBE
+The items from STROBE state that you should report: 
+•	Cohort study 
+o	Give the eligibility criteria, and the sources and methods of selection of participants. Describe methods of follow up. 
+o	For matched studies, give matching criteria and number of exposed and unexposed
+•	Case-control study
+o	Give the eligibility criteria, and the sources and methods of case ascertainment and control selection. Give the rationale for the choice of cases and controls
+o	For matched studies, give matching criteria and the number of controls per case
+•	Cross-sectional study Give the eligibility criteria, and the sources and methods of selection of participants
+
+3.6.2 – Objectives
+Specific examples from QA: 
+•	EULAR 6(D) Describe whether treatment reﬂects ﬁrst start until ﬁrst stop of therapy or multiple treatment episodes. If the latter, discuss deﬁnition of duration of exposure and any implications for combining treatment intervals
+•	RECORD 6.1: The methods of study population selection (such as codes or algorithms used to identify subjects) should be listed in detail. If this is not possible, an explanation should be provided.
+•	RECORD 6.2: Any validation studies of the codes or algorithms used to select the population should be referenced. If validation was conducted for this study and not published elsewhere, detailed methods and results should be provided
+•	RECORD 6.3: If the study involved linkage of databases, consider use of a ﬂow diagram or other graphical display to demonstrate the data linkage process, including the number of individuals with linked data at each stage.
+•	ROSES-I 6.1: For case-ascertained transmission studies, describe the method of case ascertainment and criteria for defining a “case”
+•	ROSES-I 6.2: For household-or institution-based transmission studies, describe the definition of a household or the institution
+•	ROSES-I 6.3: For outbreak investigations involving serologic sampling, describe the setting in which the cases were identified, for example, village/residential setting, occupational workplace
+•	ROSES-I 6.4: To aid the interpretation of seroepidemiologic studies of novel influenza A virus subtypes, the results from exposed populations should be compared with the results from unexposed populations. Efforts to validate the assay in virologically confirmed cases should be reported
+•	STROBE-NI 6.1: state age of participants (eg, 0–27 days deﬁ nes neonates; day 0 as day of birth). Disaggregate neonatal data from that of older infants and from stillbirths
+•	MARES6–1 Detail the range of gestational age for participants determined a priori to be included in the research, including a lower limit when applicable.
+•	MARES6–2 Explain the methods used to determine gestational age (e.g., physical examination, last menstrual period, ultrasonography). Ifultrasonography is used, detail the type (vaginal and/or abdominal) and consider describing the criteria used for determination of gestational age.
+•	RDS6a Describe how participants were trained/instructed to recruit others, number of coupons issued per person, any time limits for referral
+•	RDS(b) Describe methods of seed selection and state number at start of study and number added later
+•	RDS(c) State if there was any variation in study procedures during data collection (e.g., changing numbers of coupons per recruiter, interruptions in sampling, or stopping recruitment chains)
+•	RDS(d) Report wording of personal network size question(s)
+•	VET6 (b) Describe the sources and methods of selection for the owners/managers and for the animals, at each relevant level of organization
+•	VET6 (a) Describe the eligibility criteria for the owners/ managers and for the animals, at each relevant level of organization
+
+Nonspecific examples from QA:
+•	ME-6 Report any habit, clinical condition, physiological factor or working or living condition that might affect the characteristics or concentrations of the biomarker
+•	STROME-ID 6.1: state the source of participants and clinical specimens, and clearly describe sampling frame and strategy
+•	EULAR(A) Provide a clear deﬁnition of the exposed and nonexposed cohorts. Justify the choice of comparator
+•	EULAR(B) Describe whether treatment is restricted to new starts or encompasses all individuals with ongoing treatment
+•	EULAR(C) Describe the conditions where subjects may change from one cohort to the other
+•	STREGA6a Give information on the criteria and methods for selection of subsets of participants from a larger study, when relevant.
+•	nut-6. Report particular dietary, physiological, or nutritional characteristics that were considered when selecting the target population.
+•	AMS6.1 Define unit analysed (person, department or other)
+•	AMS6.2 Provide reasons (epidemiological and clinical) for choosing matching criteria
+•	RDS6 (e) Describe incentives for participation and recruitment
+•	VET6 (c) Describe the method of follow-up
+•	VET6 (d) For matched studies, describe matching criteria and the number of matched individuals per subject (e.g, number of controls per case)
+
+For case-control study designs, the range of disease can affect estimates of diagnostic accuracy,16,17 and choice of population (derived from randomised or observational datasets) can affect estimates of predictive discrimination for biomarkers.18
+

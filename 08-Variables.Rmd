@@ -1,0 +1,52 @@
+---
+title: "08-Variables"
+author: "Melissa K Sharp"
+date: "6/4/2019"
+output: html_document
+---
+
+# Item 7: Variables
+
+3.7 – Methods: Variables (Week 3, Module 1)
+3.7.1 – STROBE
+The items from STROBE state that you should report: 
+•	Clearly define all outcomes, exposures, predictors, potential confounders, and effect modifiers. Give diagnostic criteria, if applicable.
+
+3.7.2 – Objectives
+Specific examples from QA: 
+•	RECORD 7.1: A complete list of codes and algorithms used to classify exposures, outcomes, confounders, and effect modiﬁers should be provided. If these cannot be reported, an explanation should be provided.
+•	STREGA 7 (b) Clearly define genetic exposures (genetic variants) using a widely-used nomenclature system. Identify variables likely to be associated with population stratification (confounding by ethnic origin)
+•	nut-7.1. Clearly deﬁne foods, food groups, nutrients, or other food components.
+•	nut-7.2. When using dietary patterns or indices, describe the methods to obtain them and their nutritional properties.
+•	ROSES-I 7.4: Describe illness definitions and methods for ascertaining the presence or absence of clinical illness in subjects
+•	ROSES-I 7.2: Describe the potential for immunization (specify vaccine and timing of vaccination in relationship to collection of serum), if applicable, to affect the outcome measures
+•	ROSES-I 7.3: Describe any known or potential immunological cross-reactivity that may bias the outcome measures
+•	STROBE-NI 7.1: state criteria used to deﬁne clinically signiﬁcant organisms for each sample type
+•	AMS7.1 Specify antimicrobial usage according to: type, dosage, duration and route of administration
+•	AMS7.2 Provide information using defined daily dosages (DDDs) and, in addition, other definitions closer to local reality (packages, prescriptions). Provide justification for the measurement presented
+•	AMS7.3 Address antimicrobial combinations
+•	AMS7.4 Explain rationale for grouping of antimicrobials
+•	AMS7.5 Define time at risk for antimicrobial exposure and for resistance development
+•	AMS7.7 Provide definition of resistance, multidrug resistance, including pattern of co-resistance; whether studies performed to identify location or resistance eg, plasmid, chromosome, integron, transposon
+•	AMS7.8 Definition of infection and/or colonisation. If not a validated reference, provide evidence of robustness of the new definition
+•	MARES7–1 Exposure: Detail the medications used, including dose(s) and route(s) of administration. If more than one medication is used, state the planned time interval between medications, preferably in hours
+•	MARES7–2 Outcome: Define successful medical abortion (should most commonly be considered as successful expulsion of the intrauterine pregnancy without need for surgical intervention).
+•	MARES7–3 Outcome: Define the types of medical abortion failure (e.g., ongoing pregnancy, incomplete abortion, participant symptoms). Continuing pregnancy should be defined as a viable pregnancy following treatment (to be differentiated from a non-viable [i.e., retained gestational sac]).
+•	RDS7 (b) State how recruiter–recruit relationship was tracked
+
+Nonspecific examples from QA: 
+•	EULAR Clearly deﬁne start and stop of therapy
+•	ROSES- I 7.2: Describe the potential for immunization (specify vaccine and timing of vaccination in relationship to collection of serum), if applicable, to affect the outcome measures 
+•	ROSES- I 7.3: Describe any known or potential immunological cross- reactivity that may bias the outcome measures
+•	ROSES-I 7.1 The median age and range for each exposure group should be reported 
+•	SBR7 Describe the theoretical and/or conceptual rationale for the design of the intervention/ exposure.
+•	SBR7 Describe the theoretical and/or conceptual rationale for the design of the intervention/ exposure
+•	SBR7 Describe the intervention/exposure with sufficient detail to permit replication.
+•	SBR7 Clearly describe all simulation-specific exposures, potential confounders, and effect modifiers.
+•	AMS7.6 Include description of potential confounders (other than epidemiological variables)
+•	RDS 7 (a) If applicable, clearly define all outcomes, correlates, predictors, potential confounders, effect modifiers, and diagnostic criteria
+•	VET7 (c) For hypothesis-driven studies, the putative causal structure among variables should be described (a diagram is strongly encouraged)
+•	7 (a) For each variable of interest, give sources of data and details of methods of assessment (measurement). If applicable, describe comparability of assessment methods among groups and over time
+•	For each variable of interest, give sources of data and details of methods of assessment
+(measurement). Describe comparability of assessment methods if there is more than one group
+•	VET7 (b) Describe the level of organization at which each variable was measured

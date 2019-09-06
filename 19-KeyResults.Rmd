@@ -1,0 +1,11 @@
+---
+title: "19-KeyResults"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 18: Key Results
+The items from STROBE state that you should report: 
+•	Summarize key results with reference to study objectives
+
+3.18.2 – Objectives

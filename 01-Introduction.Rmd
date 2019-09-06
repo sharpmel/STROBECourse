@@ -1,0 +1,12 @@
+---
+title: "01-Introduction"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Overview of Epidemiology 
+Topics to cover – Methodology: Brief introduction of epidemiology (a relatively young field that has methods that are constantly advancing. There are controversies and differing viewpoints in the field. We try to take an unbiased approach and are always open to engaging with our students in healthy debate about epidemiological concepts), and observational studies. 
+
+Topics to cover -- Writing: structured reporting/guidelines, general writing guidance (watch causal language, do not spin your results, etc.). 
+
+#Importance of Reporting Guidelines 

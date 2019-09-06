@@ -1,0 +1,32 @@
+---
+title: "17-MainResults"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 16: Main Results 
+The items from STROBE state that you should report: 
+•	Give unadjusted estimates and, if applicable, confounder-adjusted estimates and their precision (e.g., 95% confidence interval). Make clear which confounders were adjusted for and why they were included
+•	Report category boundaries when continuous variables were categorized
+•	If relevant, consider translating estimates of relative risk into absolute risk for a meaningful time period
+
+3.16.2 – Objectives
+Specific examples from QA:
+•	STROME-ID 16.1: consider showing molecular relatedness of strain types by means of a dendrogram or phylogenetic tree
+•	nut-16. Specify if nutrient intakes are reported with or without inclusion of dietary supplement intake, if applicable.
+•	STROBE-NI 16.1: for incidence, give risk per 1000 livebirths, or if alternative denominator used (eg, total births or bed days), deﬁne this clearly
+•	MARES16a-1 Present treatment success for each cohort and by gestational age.†
+•	MARES16a-2 Present continuing pregnancies for each cohort and by gestational age.†
+•	MARES16a-3 Present reasons for surgical intervention other than continuing pregnancy for each cohort and by gestational age.†
+•	ROSES-I 16.1: Report unadjusted estimates of distribution of titers by age group
+
+Nonspecific examples from QA:
+•	EULAR(A) Present both relative risks and absolute measures such as event rates per person-time, risk differences or numbers needed to treat/numbers needed to harm
+•	EULAR(B) Provide information on crude as well as all adjusted measures of the main effect as well as the intrinsic effects of key confounders
+•	EULAR(C) Present results per time period of follow-up, if applicable, so as to indicate any time dependence of the association between exposure and outcome
+•	STREGA16 (d) Report results of any adjustments for multiple comparisons.
+•	ROSES-I 16.2: Report methods to standardize the results from the study sample to the target population
+•	SBR16 For assessments involving >1 rater, interrater reliability should be reported.
+•	RDS16 (a) Give unadjusted and study design–adjusted estimates and, if applicable, confounder?adjusted estimates and their precision (e.g., 95% confidence intervals). Make clear which confounders were adjusted for and why they were included
+•	RDS16 (c) If adjustment of primary outcome leads to marked changes, report information on factors influencing the adjustments (e.g., personal network sizes, recruitment patterns by group, key confounders)
+•	VET16 (a) Give unadjusted estimates and, if applicable, adjusted estimates and their precision (e.g, 95% conﬁdence interval). Make clear which confounders and interactions were adjusted. Report all relevant parameters that were part of the model

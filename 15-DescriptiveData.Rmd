@@ -1,0 +1,33 @@
+---
+title: "15-DescriptiveData"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 14: Descriptive Data
+The items from STROBE state that you should report: 
+•	Give characteristics of study participants (e.g., demographic, clinical, social) and information on exposures and potential confounders
+•	Indicate the number of participants with missing data for each variable of interest
+•	Cohort study Summarize follow-up time (e.g., average and total amount)
+
+3.14.2 – Objectives
+Specific examples from QA:
+•	STROME-ID 14.1: give information by strain type if appropriate, with use of standardised nomenclature
+•	STREGA14a Consider giving information by genotype.
+•	nut-14. Give the distribution of participant characteristics across the exposure variables if applicable. Specify if food consumption of total population or consumers only were used to obtain results.
+•	SBR14 In describing characteristics of study participants, include their previous experience with simulation and other relevant features as related to the intervention(s).
+•	STROBE-NI 14.1: describe maternal infections (clinical or on screening—eg, group B streptococcus or HIV) or risk factors for infection (eg, premature rupture of membranes, peripartum fever)
+•	STROBE-NI 14.2: describe key neonatal characteristics, including sex, postnatal and gestational age categories (range and median), birthweight categories (range and median), birth place, feeding (breastmilk or other), and comorbidities
+•	STROBE-NI 14.3: report data on occurrence of individual signs, according to case deﬁnitions
+•	STROBE-NI 14.4: give proportion of mothers and neonates with peripartum antibiotic exposure (with or without pre-admission exposusure for neonates). Report details of antimicrobial drugs (or supportive care) given during the study
+•	AMS14.1 Specify among the exposure: previous stay in long-term care facilities, nursing home and other healthcare settings
+•	VET14 (a) Give characteristics of study participants (e.g, demographic, clinical, social) and information on exposures and potential confounders by group and level of organization, if applicable
+•	VET14 (b) Indicate number of participants with missing data for each variable of interest and at all relevant levels of organization
+
+Nonspecific examples from QA:
+•	ME-14.1 Give the distribution of the biomarker measurement (including mean, median, range and variance)
+•	EULAR(A) Provide additional information on average treatment duration for both treated and comparison cohorts
+•	EULAR(B) Describe subjects who changed exposure status 
+•	EULAR(C) Provide numbers eligible for follow-up, numbers with completed follow-up and numbers remaining on treatment and/or in analysis at relevant time points during follow-up (eg, at yearly intervals). The use of tabular or graphical presentations of numbers exposed, outcomes and relative risks over time is encouraged
+•	RDS14 Report unweighted sample size and percentages, estimated population proportions or means with estimated precision (e.g., 95% confidence interval)
+•	VET14 (c) Summarize follow-up time (e.g, average and total amount), if appropriate to the study design

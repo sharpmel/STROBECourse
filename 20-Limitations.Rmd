@@ -1,0 +1,26 @@
+---
+title: "20-Limitations"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 19: Limitations
+The items from STROBE state that you should report: 
+•	Discuss limitations of the study, taking into account sources of potential bias or imprecision.
+•	Discuss both direction and magnitude of any potential bias
+
+3.19.2 – Objectives
+Specific examples from QA:
+•	STROME-ID 19.1: consider alternative explanations for ﬁndings when transmission chains are being investigated, and report the consistency between molecular and epidemiological evidence 
+•	STROBE-NI 19.1: discuss sources of recruitment bias, particularly regarding the period of time shortly after birth. State source of denominator data and discuss possible related biases
+•	AMS19.1 Provide description of sources of selection bias, including infection control measures, audit and confounding
+•	ROSES-I 19.1 Discuss limitations and strengths of the study with reference to Table 1
+
+Nonspecific examples from QA: 
+•	ME-19 Describe main limitations in laboratory procedures
+•	EULAR(A) Selection factors for treatment should be considered and discussed 
+•	EULAR(B) Discuss implication of unmeasured/residual confounding
+•	RECORD 19.1: Discuss the implications of using data that were not created or collected to answer the speciﬁc research question(s). Include discussion of misclassiﬁcation bias, unmeasured confounding, missing data, and changing eligibility over time, as they pertain to the study being reported
+•	nut-19. Describe the main limitations of the data sources and assessment methods used and implications for the interpretation of the ﬁndings.
+•	SBR19 Specifically discuss the limitations of SBR.
+•	VET19 Discuss strengths and limitations of the study, taking into account sources of potential bias or imprecision. Discuss both direction and magnitude of any potential bias

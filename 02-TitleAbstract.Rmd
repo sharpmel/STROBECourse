@@ -1,0 +1,34 @@
+---
+title: "02-Title and Abstract"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 1: Title and abstract
+3.1 – (Week 1, Module 1)
+3.1.1 – STROBE
+The items from STROBE state that you should report: 
+•	Indicate the study’s design with a commonly used term in the title or the abstract; AND
+•	Provide in the abstract, an informative and balanced summary of what was done and what was found
+
+3.1.2 – Objectives
+First and foremost, thoughtful consideration must be given to the title of your work and the abstract. 
+
+Based on which journal you plan on submitting your work to, they might provide restrictions on how many words you can use, so be as concise and unambiguous as possible. Yes, you are trying to sell your work but tell the truth, do not spin your results to make them seem like they are more than they are. Science is a search for the truth. Now is not the time for role-playing as a used car salesperson trying to convince readers that an old jalopy is a Tesla.  
+
+Although this is the first item in the checklist, some people find that it is the easiest to write these at or near the end of your work as it contains the key messages that you want to focus on. 
+
+Specific examples from QA: 
+•	ME-1 State the use of speciﬁc biomarker(s) in the title and ⁄or in the abstract if they contribute substantially to the ﬁndings 
+•	STROME-ID 1.1: the term molecular epidemiology should be applied to the study in the title or abstract and the keywords when molecular and epidemiological methods contribute substantially to the study 
+•	RECORD 1.1: The type of data used should be speciﬁed in the title or abstract. When possible, the name of the databases used should be included
+•	RECORD 1.2: If applicable, the geographic region and time frame within which the study took place should be reported in the title or abstract.
+•	RECORD 1.3: If linkage between databases was conducted for the study, this should be clearly stated in the title or abstract.
+•	NUT-1. State the dietary/nutritional assessment method(s) used in the title, abstract, or keywords.
+•	ROSES-I 1.1: The term “seroepidemiologic,” “seroepidemiology,” “seroprevalence,” or “seroincidence” should be applied to the study in the title or abstract, and the medical subject heading “Seroepidemiologic Studies” be used when the report is of a population-based serological survey
+•	SBR-1 In abstract or key terms, the MESH or searchable keyword term must have the word simulation or simulated. Sbr
+•	RDS-1(a) Indicate “respondent-driven sampling” in the title or abstract
+
+Non-specific examples from QA:
+•	VET1 (a) Indicate that the study was an observational study and, if applicable, use a common study design term
+•	VET1 (b) Indicate why the study was conducted, the design, the results, the limitations, and the relevance of the ﬁndings

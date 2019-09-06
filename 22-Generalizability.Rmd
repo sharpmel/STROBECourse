@@ -1,0 +1,14 @@
+---
+title: "22-Generalizability"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 21: Generalizability
+The items from STROBE state that you should report: 
+•	Discuss the generalizability (external validity) of the study results
+
+3.11.2 – Objectives
+Specific examples from QA:
+•	21 Describe generalizability of simulation-based outcomes to patient-based outcomes (if applicable).
+•	21.1 Discuss study setting, type of hospital, local epidemiology for the generalisability

@@ -1,0 +1,22 @@
+---
+title: "04-Objectives"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 3: Objectives
+3.3 – Introduction: Objectives (Week 1, Module 3)
+3.3.1 – STROBE
+The items from STROBE state that you should report: 
+•	State specific objectives, including any prespecified hypotheses
+
+3.3.2 – Objectives
+Specific examples from QA: 
+•	ME-3 A priori hypothesis: if one or more biomarkers are used as proxy measures, state the a priori hypothesis on the expected values of the biomarker(s)
+•	STROME-ID 3.1: state the epidemiological objectives of using molecular typing
+•	STREGA 3 State if the study is the first report of a genetic association, a replication effort, or both.
+•	VET 3 (b) Ensure that the level of organization is clear for each objective and hypothesis
+•	ROSES-I 3.1: State the specific measure of occurrence that is being estimated, for example, point seroprevalence, cumulative incidence of infection, secondary infection risk
+
+Non-specific examples from QA:
+•	VET3 (a) State speciﬁc objectives, including any primary or secondary prespeciﬁed hypotheses or their absence

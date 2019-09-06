@@ -1,0 +1,36 @@
+---
+title: "14-ParticipantResults"
+author: "Melissa K Sharp"
+output: html_document
+---
+
+# Item 13: Results: Participants
+The items from STROBE state that you should report: 
+•	Report the numbers of individuals at each stage of the study e.g., numbers potentially eligible, examined for eligibility, confirmed eligible, included in the study, completing follow up, and analyzed
+•	Give reasons for nonparticipation at each stage
+•	Consider use of a flow diagram
+
+3.13.2 – Objectives
+Specific examples from QA:
+•	STROME-ID 13.1: Report numbers of participants and samples at each stage of the study, including the number of samples obtained, the number typed, and the number yielding data
+•	STROME-ID 13.2: if the study investigates groups of genetically indistinguishable pathogens (molecular clusters), state the sampling fraction, the distribution of cluster sizes, and the study population turnover, if known
+•	RECORD 13.1: Describe in detail the selection of the persons included in the study (i.e., study population selection), including ﬁltering based on data quality, data availability, and linkage. The selection of included persons can be described in the text and/or by means of the study ﬂow diagram.
+•	STREGA13a Report numbers of individuals in whom genotyping was attempted and 
+•	numbers of individuals in whom genotyping was successful.
+•	STROBE-NI 13.1: see ﬁgure 2 for suggested components of a ﬂ ow diagram for neonatal infections
+•	MARES13a-1 Report the number of participants who started medical abortion treatment and the number who did not complete any follow-up for each cohort and by gestational age.†
+•	MARES13a-2 Report the number of participants used in the denominator for outcome evaluation for each cohort and by gestational age†, which most commonly will be the number of women with any follow-up.†
+•	MARES13a-3 Include a description of the number of women who used the drug(s) as planned in the protocol (treatment adherence)
+•	MARES13a-4 When more than one drug is used (e.g. mifepristone and a prostaglandin analog), the actual time interval between the agents should be reported, preferably in hours.
+•	RDS13 (d) Report number of coupons issued and returned
+•	RDS13 (e) Report number of recruits by seed and number of RDS recruitment waves for each seed. Consider showing graph of entire recruitment network
+•	RDS13 (f) Report recruitment challenges (e.g., commercial exchange of coupons, imposters, duplicate recruits) and how addressed 
+•	VET13 (a) Report the numbers of owners/managers and animals at each stage of study and at each relevant level of organization - e.g, numbers eligible, included in the study, completing follow-up, and analyzed
+•	VET13 (b) Give reasons for non-participation at each stage and at each relevant level of organization
+
+Nonspecific examples from QA:
+•	ME-13 Give reason for loss of biological samples at each stage 
+•	nut-13. Report the number of individuals excluded based on missing, incomplete, or implausible dietary/nutritional data.
+•	RDS(g) Consider reporting estimated design effect for outcomes of interest
+•	13 (c) Consider use of a ﬂow diagram, a diagram of the organizational structure or both
+

@@ -1,0 +1,22 @@
+---
+title: "24-AdditionalInformation"
+author: "Melissa K Sharp"
+date: "6/4/2019"
+output: html_document
+---
+
+# Additional Information 
+Specific examples from QA:
+•	sbr22 List simulator brand and if conflict of interest for intellectual property exists.
+
+Nonspecific examples from QA:
+•	ME-22.1 Describe informed consent and approval from ethical committee(s). Specify whether samples were anonymous, anonymized or identiﬁable
+•	STROME-ID 23.1: report any ethical considerations with speciﬁc implications for infectious-disease molecular epidemiology
+•	RECORD 22.1: Authors should provide information on how to access any supplemental information such as the study protocol, raw data, or programming code.
+•	nut-22.1. Describe the procedure for consent and study approval from ethics committee(s).
+•	nut-22.2. Provide data collection tools and data as online material or explain how they can be accessed.
+•	ROSES-I 22.1: Specify if institutional review board approval was received; if not, specify reason (e.g., public health outbreak response/non-research designation)
+•	STROBE-NI 23.1: report any ethical considerations, including the recruitment of young mothers (minors), and the consent process for early recruitment of neonates after delivery. Provide details of research ethics approval or state why not required
+•	vet22 (b) Conﬂicts of interest— Describe any conﬂicts of interest, or lack thereof, for each author(c) Describe the authors’ roles— Provision of an authors’ declaration of transparency is recommended
+•	vet22 d) Ethical approval—Include information on ethical approval for use of animal and human subjects
+•	vet22 e) Quality standards—Describe any quality standards used in the conduct of the research

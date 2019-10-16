@@ -1,50 +1,56 @@
 ---
-title: "Strengthening the Reporting of Observational Studies in Epidemiology STROBE (STROBE) Educational Expansion"
-author: "Melissa K Sharp"
-date: "`r Sys.Date()`"
-delete_merged_file: true
-site: bookdown::bookdown_site
+title: "Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) Educational Expansion"
+site: "bookdown::bookdown_site"
 output:
-  bookdown::gitbook:
-    number_sections: false 
-    includes: 
-      after_body: disqus.html
-bibliography: bibliography.bib
-csl: vancouver.csl
+  bookdown::gitbook: default
+  documentclass: book
+  css: style.css
+  numbered_sections: false 
+  delete_merged_file: TRUE
+bibliography: bibliography.bibtex
 link-citations: yes
-edit: https://github.com/sharpmel/STROBECourse
+csl: biomed-central.csl 
 ---
 
 # Introduction {- #intro}
-The purpose of this book/site is to create a public, open-source repository for epidemiological research methods and reporting skills for observational studies. Epidemiology, the study of diseases and population health, is a broad field with ever-changing methods and often heated debates about proper designs, analyses, and approaches. Therefore, we think it is important that there is a place where epidemiologists can share their knowledge in an open and transparent manner. Drawing inspiration from the [Epi Twitter community](https://twitter.com/hashtag/epitwitter?lang=en) [@epitwitter] and the [Open Science Massive Online Course](https://opensciencemooc.eu/), we hope that this will become a living site which can be used and modified by the epidemiology community and those interested in sharing epidemiological knowledge in accessible ways. 
+The purpose of this book/site is to create a public, open-source repository for epidemiological research methods and reporting skills for observational studies. Epidemiology, the study of diseases and population health, is a broad field with ever-changing methods and often heated debates about proper designs, analyses, and approaches. Therefore, we think it is important that there is a place where epidemiologists can share their knowledge in an open and transparent manner. Drawing inspiration from the @epitwitter [#epitwitter community](https://twitter.com/hashtag/epitwitter?lang=en) and the [Open Science Massive Online Course](https://opensciencemooc.eu/), we hope that this will become a living site which can be used and modified by the epidemiology community and those interested in sharing epidemiological knowledge in accessible ways. 
  <br />
  
-> This site is uses the [R Bookdown package](https://bookdown.org/), which is built using [R Markdown](http://rmarkdown.rstudio.com). All content is stored in the [GitHub repository](https://github.com/sharpmel/STROBECourse) of Melissa Sharp, a doctoral student working on STROBE and observational research methods. Please [e-mail her](mailto:melissaksharp@gmail.com) if you have any comments, questions, or concerns. 
+> This site is uses the [R Bookdown package](https://bookdown.org/), which is built using [R Markdown](http://rmarkdown.rstudio.com). All content is stored in the [GitHub repository](https://github.com/sharpmel/STROBECourse) of Melissa Sharp, a doctoral student working on observational research methods. Please [contact her](mailto:melissaksharp@gmail.com) if you have any comments, questions, or concerns. 
 
 ## Structure {-}
-The aim of this site is to be as inclusive as possible but this book is based off of the **[Strengthening the Reporting of Observational studies in Epidemiology (STROBE) reporting guideline](http://strobe-statement.org)** [@vonelm2007_strobe]. STROBE was created in 2007 and is comprised of a 22-item checklist of essential items to report when discussing the results from a cohort, cross-sectional, or case-control study. It has been endorsed by the [International Commitee of Journal Editors](www.icmje.org/) and hundreds of journals and has spawned at least another 13 field or -method specific extensions.
+We aim to be as inclusive as possible but are structuring this book on the **[Strengthening the Reporting of Observational studies in Epidemiology (STROBE) reporting guideline](http://strobe-statement.com).** STROBE was created in 2007 and is comprised of a 22-item checklist of essential items to report when discussing the results from a cohort, cross-sectional, or case-control study. It has been endorsed by the [International Commitee of Journal Editors](www.icmje.org/) and hundreds of journals and has spawned at least another 13 field- or -method specific extensions.
 <br />
 
 ```{r STROBEChecklist, echo=FALSE, fig.cap="STROBE Checklist", out.width = '100%'}
 knitr::include_graphics("images/strobe.png")
 ```
 
-STROBE and this book follows the IMRaD (Introduction, Methods, Results, and Discussion) style of reporting research and we will cover the important items that authors must think and write about when discussing their research. The intial content will be largely guided by information from Content STROBE's Explanation and Elaboration document [@vandenbroucke2007_EE] which gives examples of "good reporting" and from a qualitative assessment of the content in the STROBE Extensions.
+STROBE and this book follows the IMRaD (Introduction, Methods, Results, and Discussion) style of reporting research and we will cover the important items that authors must think and write about when discussing their research. The intial content will be largely guided by information from Content STROBE's Explanation and Elaboration document [@vandenbroucke2007EE] which gives examples of "good reporting" and from a [qualitative assessment of the content in the STROBE Extensions] (https://journals.lww.com/epidem/Fulltext/2018/11000/The_STROBE_Extensions__Considerations_for.25.aspx)
 <br />
 
 Content is designed in a modular format that is aligned with the design of the STROBE Checklist. 
 •	If you are familiar with epidemiological research methods, you can pick and choose what items to explore. 
-•	Otherwise, if you are more unexperienced, you can follow the book in a more linear fashion, beginning with an introduction on the concept of reporting guidelines and their use. 
+•	Otherwise, if you are unexperienced, you can follow the course in a more linear fashion, beginning with an introduction on the concept of reporting guidelines and their use. 
 <br />
 
 ## Audience {-}
-The content on this book will appeal to those who work in observational research, need a refresher on certain epidemiological topics, or want to improve their scientific writing skills. Some baseline understanding of clinical or public health research may be helpful, although it is not required to have prior knowledge or experience in research in order to use this book. That being said, epidemiology is extremely extensive. Critical thinking and proper analytical skills need to be developed and honed over time. While this book aims to be relatively comprehensive, it will not go in-depth into things such as the proper estimates to use for certain study designs or designing causal pathways and model development. 
+The content on this book will appeal to those who work in observational research, need a refresher on certain epidemiological topics, or want to improve their scientific writing skills. Some baseline understanding of clinical or public health research may be helpful, although we do not require prior knowledge or experience in research in order to take this course. That being said, epidemiology is extremely extensive. Critical thinking and proper analytical skills need to be developed and honed over time. 
 <br />
 
 ## Content {-}
-We hope to help you develop your understanding of study designs, data collection, statistical analysis, and interpretations of results. This site will not cover key aspects of the conduct of research, such as the skills needed for personal interactions with patients and participants, detailed analytical skills, regulatory frameworks, nor science communication skills needed to disseminate your work to the general public. All are important areas influencing items covered in this course but the breadth is too great to go over each area in depth. Rather, we aim to provide supplementary information along the way that will help you explore and grow in these areas if you so wish.
+We hope to help you develop your understanding of study designs, data collection, statistical analysis, and interpretation of results. This site will not cover key aspects of the conduct of research, such as the skills needed for personal interactions with patients and participants, detailed analytical skills, regulatory frameworks, nor science communication skills needed to disseminate your work to the general public. All are important areas influencing items covered in this course but the breadth is too great to go over each area in depth. Rather, we aim to provide supplementary information along the way that will help you explore and grow in these areas if you so wish.
 <br />
 
 ### Funding Satement and Licensing {-}
 *This site is a project of the Methods in Research on Research programme, supported by the European Union Horizon 2020 research and innovation program. The online version of this book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).* 
 <br />
+
+
+## Helpful Related References {-}
+---
+nocite: |
+  @item1, @item2
+...
+
+## Cited References {-}

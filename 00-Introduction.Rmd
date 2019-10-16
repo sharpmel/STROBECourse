@@ -1,6 +1,7 @@
 ---
 title: "00-Introduction"
 author: "Melissa K Sharp"
+date: "`r Sys.Date()`"
 delete_merged_file: true
 site: bookdown::bookdown_site
 output:
@@ -15,7 +16,7 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 #  Observational Studies {-}
-Careful design and analysis of observational studies is essential because they are not structured to control for these external factors, thus they are especially prone to bias and confounding [37]. In an ideal world, people would be able to use randomized control trials more often, however, sometimes it is simply unethical or impractical to conduct an RCT. For example, when investigating socioeconomic impacts on health or surgical procedures.
+Careful design and analysis of observational studies is essential because they cannot control for certain external factors, thus they are especially prone to bias and confounding [37]. In an ideal world, people would be able to use randomized control trials more often, however, sometimes it is simply unethical or impractical to conduct an RCT. For example, when investigating socioeconomic impacts on health or surgical procedures.
 
 Due to the complex design and conduct of observational studies, they have been deemed to be “the most necessary and difficult” studies to conduct [38]. Observational studies are conducted in real-world settings and can investigate the impact of health policies on populations and explore the distribution of health outcomes across groups. RCTs simply cannot achieve these same results. Observational research also allows participants to be followed for longer periods of time meaning that one can evaluate changes in health outcomes throughout the lifespan. Furthermore, observational studies affordably provide a larger number of participants in comparison to RCTs. This allows investigations into differences between subgroups in the population (e.g., different age groups, disease subtypes). Given the breadth of topics that observational studies can cover, it is no surprise that it is the most common study design used in biomedical research [27–30]. 
 
@@ -25,7 +26,3 @@ Due to a high prevalence of observational studies in the literature, widespread 
 ## General Writing Advice {-}
 general writing guidance (watch causal language, do not spin your results, etc.).
 [@epitwitter]
-
-
-
-

@@ -1,0 +1,42 @@
+---
+title: "08-DataSources"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Methods: Data/Measurement (8)  
+> The items from STROBE state that you should report:  
+-	For each variable of interest, give sources of data and details of methods of assessment (measurement). Describe comparability of assessment methods if there is more than one group.   
+
+-	nut-8.6. Report on the validity of the dietary or nutritional assessment methods and any internal or external validation used in the study, if applicable.  
+-	sbr8 In describing the details of methods of assessment, include (when applicable) the setting, instrument, simulator type, timing in relation to the intervention, along with any methods used to enhance the quality of measurements   
+-	SBR8 Provide evidence to support the validity and reliability of assessment tools in this context (if available).  
+-	MARES 8–2 Assessment: Explain the length of time planned to follow participants for determination of outcomes.  
+-	VET(a) For each variable of interest, give sources of data and details of methods of assessment (measurement). If applicable, describe comparability of assessment methods among groups and over time  
+-	VET8 (b) If a questionnaire was used to collect data, describe its development, validation, and administration  
+-	VET8 (c) Describe whether or not individuals involved in data collection were blinded, when applicable  
+-	VET8 (d) Describe any eﬀorts to assess the accuracy of the data (including methods used for “data cleaning” in primary research, or methods used for validating secondary data)  
+
+
+**Specific examples from QA:** 
+-	ME-8 Laboratory methods: report type of assay used, detection limit, quantity of biological sample used, outliers, timing in the assay procedures (when applicable) and calibration procedures or any standard used  
+-	STROME-ID 8.1: describe any methods used to detect multiple-strain infections and measure their eﬀect on the study ﬁndings  
+-	STREGA8 (b) Describe laboratory methods, including source and storage of DNA, genotyping methods and platforms (including the allele calling algorithm used, and its version), error rates and call rates.  State the laboratory/centre where genotyping was done. Describe comparability of laboratory methods if there is more than one group. Specify whether genotypes were assigned using all of the data from the study simultaneously or in smaller batches.  
+-	nut-8.1. Describe the dietary assessment method(s), e.g., portion size estimation, number of days and items recorded, how it was developed and administered, and how quality was assured. Report if and how supplement intake was assessed  
+-	nut-8.2. Describe and justify food composition data used. Explain the procedure to match food composition with consumption data. Describe the use of conversion factors, if applicable.  
+-	nut-8.3. Describe the nutrient requirements, recommendations, or dietary guidelines and the evaluation approach used to compare intake with the dietary reference values, if applicable.  
+-	nut-8.4. When using nutritional biomarkers, additionally use the STROBE Extension for Molecular Epidemiology (STROBE-ME). Report the type of biomarkers used and their usefulness as dietary exposure markers.  
+-	nut-8.5. Describe the assessment of nondietary data (e.g., nutritional status and inﬂuencing factors) and timing of the assessment of these variables in relation to dietary assessment.  
+-	ROSES-I 8.1: If relevant, describe measures taken to identify and record immunization history  
+-	AMS8.1 Describe how antimicrobial consumption data were obtained (pharmacy, patients’ charts, etc) and if it was actually used or purchased/ dispensed  
+-	RDS8 (b) Describe methods to assess eligibility and reduce repeat enrollment (e.g., coupon manager software, biometrics)  

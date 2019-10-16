@@ -1,0 +1,23 @@
+---
+title: "21-Generalizability"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Discussion: Generalizability (21)
+> The items from STROBE state that you should report: 
+-	Discuss the generalizability (external validity) of the study results
+
+Specific examples from QA:
+•	21 Describe generalizability of simulation-based outcomes to patient-based outcomes (if applicable).
+•	21.1 Discuss study setting, type of hospital, local epidemiology for the generalisability

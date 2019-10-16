@@ -1,0 +1,30 @@
+---
+title: "02-BackgroundRationale"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Intro: Background and Rationale (2) {-}  
+> The items from STROBE state that you should report:  
+- Explain the scientific background and rationale for the investigation being reported  
+
+Topics to cover. Do your research. Cite/discuss systematic reviews if possible. Highlight the gap in research that your work is aiming to fill.   
+
+**Examples of Good Reporting**  
+
+**Specific examples from QA:**  
+-	ME-2 Explain in the scientiﬁc background of the paper how ⁄why the speciﬁc biomarker(s) have been chosen, potentially among many others (e.g. others are studied but reported elsewhere or not studied at all)  
+-	STROME-ID 2.1: provide background information about the pathogen population and the distribution of pathogen strains within the host population at risk  
+-	SBR 2 Clarify whether simulation is subject of research or investigational method for research  
+-	ROSES-I 2.1: State what is known about the kinetics of antibody rise, decay, and persistence following infection for the particular virus being studied and the justification for threshold antibody titers or changes in titers used to define evidence of infection  
+-	ROSES-I 2.2: State what is known about the sensitivity and specificity of the antibody detection assay being used  

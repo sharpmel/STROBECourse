@@ -1,0 +1,32 @@
+---
+title: "17-OtherAnalyses"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Results: Other Analyses (17)
+> The items from STROBE state that you should report: 
+-	Report other analyses done e.g., analyses of subgroups and interactions, and sensitivity analyses
+
+-	EULAR(A) Consider performing analyses to explore possible effect modiﬁcation
+-	EULAR(B) Consider performing sensitivity analyses for differing deﬁnitions of exposure (item 12A) and outcome or different statistical models, if applicable
+-	strega17 (c) If detailed results are available elsewhere, state how they can be accessed.
+-	nut-17. Report any sensitivity analysis (e.g., exclusion of misreporters or outliers) and data imputation, if applicable.
+-	vet17 Report other analyses done, such as sensitivity/ robustness analysis and analysis of subgroups
+
+
+
+Specific examples from QA:
+•	STREGA17 (b) If numerous genetic exposures (genetic variants) were examined, summarize results from all analyses undertaken.
+•	AMS17.1 Report subgroup analysis by type of patients and type of microorganism, if applicable
+•	RDS17 Report other analyses done—for example, analyses of subgroups and interactions, sensitivity analyses, different RDS estimators and definitions of personal network size

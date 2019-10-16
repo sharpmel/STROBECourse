@@ -1,0 +1,28 @@
+---
+title: "10-StudySize"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Methods: Study Size (10)
+> The items from STROBE state that you should report:   
+-	Explain how the study size was arrived at
+
+-	STROME-ID 10.1: describe any unique restrictions placed on the study sample size
+-	vet10 (a) Describe how the study size was arrived at for each relevant level of organization
+-	vet10 (b) Describe how non-independence of measurements was incorporated into sample-size considerations, if applicable
+-	vet10 (c) If a formal sample-size calculation was used, describe the parameters, assumptions, and methods that were used, including a justiﬁcation for the eﬀect size selected
+
+The sample size needed for a study depends on many factors including the size of the model, distribution of the variables, amount of missing data, reliability of the variables, and strength of the relationships among the variables. 
+
+ROSES-I 10.1: Describe the baseline estimated seroprevalence at given antibody titers or incidence of infection and cite published literature to support these estimates

@@ -1,0 +1,46 @@
+---
+title: "FAQ"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Frequently Asked Questions (FAQ)
+<h2> How can I contribute? </h2>   
+There are three main ways that you can contribute.  
+
+  1. If you know RMarkdown and GitHub you can contribute directly via GitHub pull requests. Basically, navigate to the Rmd file that you want to change, edit the content, and submit the changes for approval. The repository owner  [Melissa Sharp](http://melissaksharp.wordpress.com) will choose to integrate your comments by merging the changes into a new version.  
+  2. Each page should also be set up with a Disqus comment section where you can share any comments, concerns, or questions. If you don't have a Disqus account already, you may need to make one prior to commenting. 
+  
+  3. Lastly,  the main author is reachable via [e-mail](mailto:melissaksharp@gmail.com) or [Twitter](https://twitter.com/sharpmelk). When contact is made via these mechanisms it will be reported as such in the documentation. 
+
+<h2>  How is the book merged/compiled? </h2> 
+The book uses a "Merge and Knit" approach which runs all code chunks in all chapters in the same R session. This allows objects created in previous chapters to be used in later chapters. (https://bookdown.org/yihui/bookdown/new-session.html)
+
+<h2> Why are the pages blank when I try to knit the book? </h2>
+If there is an issue in your page's code, the book will appear to continue processing the pages afterwards but they will be blank and 0kb. Find the error in the last page that contains information and fix it. Then you should be able to reknit and the other pages will show up. 
+
+<h2> Can I suggest a resource/reference? </h2>
+Similar to editing other files in the repository, you can propose edits to the .bib file. After a reference is added to the bib file, the reference can then be cited in the Rmd files. Each citation has a key which is composed of: @ and a citation identifier (e.g., @ name year). Common types of additions are:  @ article, book, misc (like websites), and techreport. 
+*Note: Please do not use non-English characters if you are editing the .bib file.*   
+
+In the R Markdown files, citations go inside square brackets and are separated by semicolons. 
+In text, citations should be written as: TEXT TEXT [ @ smith2001; @ smith2002, ch. 1 ]
+
+A minus sign ( - ) before the @ will suppress mention of the author in the citation. This can be useful when the author is already mentioned in the text. (e.g., Research from Smith et al. found… )
+
+<h2> Can I download the references? </h2>
+Yes! You can download the .bib file if you would like and import it into your reference software manager.
+
+<h2>  I'm having difficulties formatting the text </h2>
+The basics of text formatting in RMarkdown can be found here:  
+https://bookdown.org/yihui/bookdown/markdown-syntax.html

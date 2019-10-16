@@ -1,0 +1,28 @@
+---
+title: "11-QuantitativeVariables"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Methods: Quantitative variables (11)
+> The items from STROBE state that you should report:   
+-	Explain how quantitative variables were handled in the analyses. If applicable, describe which groupings were chosen, and why 
+
+strega11 If applicable, describe how effects of treatment were dealt with.
+
+Specific examples from QA:
+- 	nut-11. Explain the categorization of dietary/nutritional data (e.g., use of N-tiles and handling of nonconsumers) and the choice of reference category, if applicable.
+- 	ams11.1 Provide subgroup analyses for immunocompromised, surgical/medical patients and patients in intensive care units, if applicable
+- 	ROSES-I 11.1: Describe the serological assay’s limit of detection and how this limit is defined or calculated. Describe how samples with a result below or on the borderline of the limit were handled in the analysis
+- 	ROSES-I 11.2: Describe and justify the titer or other result used to define “seropositivity,” or the antibody titer change or change in other assay result used to define “seroconversion.” Avoid the term “seroconversion” unless referring to change from undetectable to detectable antibody level. Otherwise report the fold-rise in titer. Avoid the term “infection” but report “seroprevalence at a titer of ….”
+- 	ROSES-I 11.3: If statements or inferences are made about protection from infection, describe what is known about the correlation between the assay results and protection from infection and illness

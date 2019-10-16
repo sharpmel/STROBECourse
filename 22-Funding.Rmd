@@ -1,0 +1,19 @@
+---
+title: "22-Funding"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Other: Funding 
+> The items from STROBE state that you should report: 
+-	Give the source of funding and the role of the funders for the present study and, if applicable, for the original study on which the present article is based

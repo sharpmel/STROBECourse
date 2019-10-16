@@ -1,0 +1,43 @@
+---
+title: "04-StudyDesign"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Methods: Study Design (4)
+> The items from STROBE state that you should report:   
+- Present key elements of study design early in the paper
+
+RDS4 (b) State why RDS was chosen as the sampling method
+
+**Examples of Good Reporting**
+
+**Specific examples from QA: ** 
+- ME-4 Describe the special study designs for molecular epidemiology (in particular, nested case ⁄control and case ⁄cohort) and how they were implemented
+- ME-4.1 Report on the setting of the biological sample collection; amount of sample; nature of collecting procedures; participant conditions; time between sample collection and relevant clinical or physiological endpoints
+- ME-4.4 Report the half-life of the biomarker and chemical and physical characteristics (e.g. solubility)
+- ME-4Æ2 Describe sample processing (centrifugation, timing, additives, etc.)
+- ME-4Æ3 Describe sample storage until biomarker analysis (storage, thawing, manipulation, etc.)
+- STROME-ID 4.1: deﬁne or cite deﬁnitions for key molecular terms used within the study (eg, strain, isolate, and clone)
+- STROME-ID 4.2: clearly deﬁne the molecular markers that were used with a standard nomenclature
+- STROME-ID 4.3: clearly state the infectious-disease case deﬁnitions
+- STROME-ID 4.4: describe sample collection and laboratory methods, including any methods used to minimise and measure cross-contamination, and give the criteria used to interpret strain classiﬁcation
+- ROSES-I 4.1: State which specific seroepidemiologic study design was chosen and why (see Table 1)
+- STROBE-NI 4.1: clearly state case ascertainment methods (eg, physician diagnosis, clinical algorithm), documenting individual clinical signs used for diagnosis of possible serious bacterial infection. Give microbiological and/or laboratory and/or radiological criteria for other infectious syndromes (eg, meningitis, sepsis, pneumonia). Include indications for clinical investigations (eg, lumbar puncture)
+- STROBE-NI 4.2: give criteria used to diﬀ erentiate between new infection episodes and relapses
+- STROBE-NI 4.3: for facility-based studies, indicate if the study is of community and/ or hospital-acquired infections (HAI), deﬁ ning HAI using an international standard and presenting speciﬁ c HAI clinical syndromes separately
+- STROBE-NI 4.4: state whether this is an outbreak study, and if so deﬁ ne an outbreak, with reference to an international standard
+- STROBE-NI 4.5: describe sampling strategy (eg, clinical indication vs routine surveillance) and sampling details (eg, minimum volumes; timing in relation to antimicrobial administration
+- STROBE-NI 4.6: describe conventional and/or molecular microbiological methods used, with details (eg, automation, enrichment steps), and the use of controls
+- STROBE-NI 4.7: list pathogens that are likely to be identiﬁ ed by microbiological methods used
+- STROBE-NI 4.8: describe antimicrobial susceptibility tests and thresholds used, with reference to an international standard (eg, CLSI or EUCAST)

@@ -1,0 +1,28 @@
+---
+title: "00-Introduction"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+#  Observational Studies {-}
+
+## Why STROBE? {-}
+
+
+## General Writing Advice {-}
+general writing guidance (watch causal language, do not spin your results, etc.).
+[@epitwitter]
+
+
+
+

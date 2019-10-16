@@ -1,0 +1,30 @@
+---
+title: "20-Interpretation"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Discussion: Interpretation (20)
+> The items from STROBE state that you should report: 
+-	Give a cautious overall interpretation of results considering objectives, limitations, multiplicity of analyses, results from similar studies, and other relevant evidence
+
+Nonspecific examples from QA:
+•	nut-20. Report the nutritional relevance of the ﬁndings, given the complexity of diet or nutrition as an exposure.
+
+
+
+
+
+
+•	ME-20 Give an interpretation of results in terms of a priori biological plausibility
+•	ROSES-I 20.1: Discuss the interpretation of the results in the context of known or potential cross-reactivity

@@ -1,0 +1,75 @@
+---
+title: "01-Title and Abstract"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Intro: Title and abstract 
+> The items from STROBE state that you should report:    
+- Indicate the study’s design with a commonly used term in the title or the abstract; AND    
+- Provide in the abstract, an informative and balanced summary of what was done and what was found  
+  
+First and foremost, thoughtful consideration must be given to the title of your work and the abstract. 
+Based on which journal you plan on submitting your work to, they might provide restrictions on how many words you can use, so be as concise and unambiguous as possible. Yes, you are trying to sell your work but tell the truth, do not spin your results to make them seem like they are more than they are. Science is a search for the truth. Try to be as objective as possible and frame your findings correctly.   
+
+Although this is the first item in the checklist, some people find that it is the easiest to write these at or near the end of your work as it contains the key messages that you want to focus on.   
+</br>
+
+**Explanation [@vandenbroucke2007]**</br>
+> Readers should be able to easily identify the design that
+was used from the title or abstract. An explicit, commonly
+used term for the study design also helps ensure correct
+indexing of articles in electronic databases.19,20
+
+</br>
+
+**Some key items to consider adding:**  
+- The study design (e.g., cohort, cross-sectional, case-control).   
+- Information about the data source (e.g., bibliometric, patient registry, etc.)  
+- Information about the timing of data collection (e.g., longitudinal, date ranges)  
+- The main results (e.g., "found high rates of x", " )  
+</br>
+</br>
+**Example structures**  
+  - "*Key finding/exposures*" among/in "*sample/population*" during "*time period of study/data collection*" : "*study design*"  
+  - "*Study design*" investigating "*exposures*" among "*sample/population*" during "*time period of study/data collection*" found "*key findings*"    
+</br>
+</br>
+**Examples of Good Reporting**   
+- "Leukemia incidence among workers in the shoe and boot manufacturing industry: a case-control study" [@vandenbroucke2007; @Forand2004]  
+- “The consumption of sugar-sweetened beverages was derived from 7 repeated FFQs administered between 1980 and 2002” [@hornell2017; @fung2009]
+</p>
+</p>
+<h2> Field-specific guidance:</h2>
+**Infectious disease molecular epidemiology [@field2014]**   
+  -	The term molecular epidemiology should be applied to the study in the title or abstract and the keywords when molecular and epidemiological methods contribute substantially to the study  
+  
+**Molecular epidemiology [@gallo2012]**   
+  - State the use of speciﬁc biomarker(s) in the title and ⁄or in the abstract if they contribute substantially to the ﬁndings
+
+**Nutritional data [@lachat2016]**  
+-	State the dietary/nutritional assessment method(s) used in the title, abstract, or keywords    
+
+**Response-driven sampling [@white2015]**  
+-	Indicate “respondent-driven sampling” in the title or abstract 
+
+**Routinely collected health data ['@benchimol2015]**  
+-	The type of data used should be speciﬁed in the title or abstract. When possible, the name of the databases used should be included    
+-	If applicable, the geographic region and time frame within which the study took place should be reported in the title or abstract    
+-	If linkage between databases was conducted for the study, this should be clearly stated in the title or abstract  
+
+**Serology [@horby2017]**  
+- The term “seroepidemiologic,” “seroepidemiology,” “seroprevalence,” or “seroincidence” should be applied to the study in the title or abstract, and the medical subject heading “Seroepidemiologic Studies” be used when the report is of a population-based serological survey  
+
+**Simulation-based research [@cheng2016]**  
+- In abstract or key terms, the MESH or searchable keyword term must have the word simulation or simulated 

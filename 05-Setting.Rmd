@@ -1,0 +1,46 @@
+---
+title: "05-Setting"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: vancouver.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
+# Methods: Setting (5)
+> The items from STROBE state that you should report:  
+- Describe the setting, locations, and relevant dates, including periods of recruitment, exposure, follow up, and data collection  
+
+Describe formative research findings used to inform RDS study
+EULAR (C) Indicate the time points for assessment of serial follow-up
+nut-5. Describe any characteristics of the study settings that might affect the dietary intake or nutritional status of the participants, if applicable
+
+**Examples of Good Reporting**  
+
+**Specific examples from QA:**  
+-	STROME-ID 5.1: clearly state the timeframe of the study; consider and appropriately reference the molecular clock of markers if known, and the natural history of the infection
+-	nut-5. Describe any characteristics of the study settings that might affect the dietary intake or nutritional status of the participants, if applicable.
+-	EULAR 5(A) Provide an estimation of drug penetration in source population
+-	EULAR 5B) Describe eligibility for, and access to, treatment
+-	EULAR 5(D) Outline calendar trends in availability of biologic/ awareness of outcome
+-	ROSES-I 5.1: Describe the timing of the biological sampling in relation to the disease epidemiology in the study population (the beginning, peak, and end of virus transmission)  
+-	ROSES-I 5.2: Where known, describe the timing of biological sampling in individuals in relation to disease onset and to exposures of interest  
+-	ROSES-I 5.3: State the interval between sequential biological samples (serial cross-sectional or longitudinal studies), or specify whether only a single sample was collected (cross-sectional study)  
+-	STROBE-NI 5.1: describe the study context in terms of incidence of neonatal mortality, stillbirth, and preterm birth  
+-	STROBE-NI 5.2: describe the population included (eg, facility births, referrals from home, referrals from another facility)   
+-	STROBE-NI 5.3: for community-based studies, describe care-seeking and adherence and time to referral  
+-	STROBE-NI 5.4: for facility-based studies, describe obstetric care (basic or comprehensive), including proportion of births by caesarean section. Report annual number of livebirths per facility and state proportion of births in the study area that occur in hospital (vs community)  
+-	STROBE-NI 5.5: for facility-based studies, indicate if the facility is public or private, and give the number of health-care staﬀ and their training. Indicate the level of neonatal care available (eg, ventilatory support, indwelling catheters) and investigations available (eg, biochemistry, radiology). Report antimicrobial guidelines used for the empiric management of neonatal sepsis  
+-	STROBE-NI 5.6: state the laboratory location and capacity to process diﬀ erent sample types, and give quality control and assurance measures in place  
+-	AMS5.1 Describe if setting is epidemic or endemic (high, low, medium) for the study outcome  
+-	AMS5.2 Specify type of hospital or unit and characteristics of population served by the healthcare setting  
+-	AMS5.3 Describe antimicrobial formulary in use at the study location related to the analysed antibiotics
+-	AMS5.4 Describe infection control measures dedicated to the target resistant bacteria applied at the study location  
+-	VET5 (b) If applicable, include information at each level of organization  

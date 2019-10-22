@@ -30,5 +30,5 @@ Nonspecific examples from QA:
 
 
 
-Specific examples from QA:
+<h2> Field-specific guidance:</h2>
 - sbr22 List simulator brand and if conflict of interest for intellectual property exists.

@@ -18,6 +18,6 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report: 
 -	Discuss the generalizability (external validity) of the study results
 
-Specific examples from QA:
+<h2> Field-specific guidance:</h2>
 •	21 Describe generalizability of simulation-based outcomes to patient-based outcomes (if applicable).
 •	21.1 Discuss study setting, type of hospital, local epidemiology for the generalisability

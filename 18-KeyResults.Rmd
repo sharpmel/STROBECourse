@@ -17,3 +17,6 @@ edit: https://github.com/sharpmel/STROBECourse
 # Discussion: Key Results (18)
 > The items from STROBE state that you should report: 
 -	Summarize key results with reference to study objectives
+
+
+It is good practice to begin the discussion with a short summary of  main findings of the study. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications offered by the authors are supported by the findings. 

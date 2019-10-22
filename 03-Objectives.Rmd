@@ -20,11 +20,23 @@ edit: https://github.com/sharpmel/STROBECourse
 
 VET3 (a) State speciﬁc objectives, including any primary or secondary prespeciﬁed hypotheses or their absence
 
-**Examples of Good Reporting**
+**Explanation [@vandenbroucke2007]**</br>
+Objectives are the detailed aims of the study. Well crafted objectives specify populations, exposures and outcomes, and parameters that will be estimated. They may be formulated as specific hypotheses or as questions that the study was designed to address. In some situations objectives may be less specific, for example, in early discovery phases.
+Regardless, the report should clearly reflect the investigators’ intentions. For example, if important subgroups or additional
+analyses were not the original aim of the study but arose during data analysis, they should be described accordingly (see also items 4, 17 and 20).
 
-**Specific examples from QA:** 
-- ME-3 A priori hypothesis: if one or more biomarkers are used as proxy measures, state the a priori hypothesis on the expected values of the biomarker(s)
-- STROME-ID 3.1: state the epidemiological objectives of using molecular typing
+<h2> Field-specific guidance:</h2>
+**Molecular epidemiology [@gallo2012]** 
+- A priori hypothesis: if one or more biomarkers are used as proxy measures, state the a priori hypothesis on the expected values of the biomarker(s)
+
+**Infectious disease molecular epidemiology [@field2014]**
+- state the epidemiological objectives of using molecular typing
+
+**Genetic association studies [@little2009]**
 - STREGA 3 State if the study is the first report of a genetic association, a replication effort, or both.
+
+**Seroepidemiologic studies for influenza [@horby2017]**
+- State the specific measure of occurrence that is being estimated, for example, point seroprevalence, cumulative incidence of infection, secondary infection risk
+
+**Veterinary epidemiology [oconnor2016]**
 - VET 3 (b) Ensure that the level of organization is clear for each objective and hypothesis
-- ROSES-I 3.1: State the specific measure of occurrence that is being estimated, for example, point seroprevalence, cumulative incidence of infection, secondary infection risk

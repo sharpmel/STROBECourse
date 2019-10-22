@@ -20,11 +20,19 @@ edit: https://github.com/sharpmel/STROBECourse
 
 Topics to cover. Do your research. Cite/discuss systematic reviews if possible. Highlight the gap in research that your work is aiming to fill.   
 
-**Examples of Good Reporting**  
+**Explanation [@vandenbroucke2007]**</br>
+The scientific background of the study provides important context for readers. It sets the stage for the study and describes its focus. It gives an overview of what is known on a topic and what gaps in current knowledge are addressed by the study. Background material should note recent pertinent studies and any systematic reviews of pertinent studies.
 
-**Specific examples from QA:**  
--	ME-2 Explain in the scientiﬁc background of the paper how ⁄why the speciﬁc biomarker(s) have been chosen, potentially among many others (e.g. others are studied but reported elsewhere or not studied at all)  
--	STROME-ID 2.1: provide background information about the pathogen population and the distribution of pathogen strains within the host population at risk  
--	SBR 2 Clarify whether simulation is subject of research or investigational method for research  
--	ROSES-I 2.1: State what is known about the kinetics of antibody rise, decay, and persistence following infection for the particular virus being studied and the justification for threshold antibody titers or changes in titers used to define evidence of infection  
--	ROSES-I 2.2: State what is known about the sensitivity and specificity of the antibody detection assay being used  
+<h2> Field-specific guidance:</h2>
+**Molecular epidemiology [@gallo2012]** 
+-	Explain in the scientiﬁc background of the paper how ⁄why the speciﬁc biomarker(s) have been chosen, potentially among many others (e.g. others are studied but reported elsewhere or not studied at all)  
+
+**Infectious disease molecular epidemiology [@field2014]** 
+-	Provide background information about the pathogen population and the distribution of pathogen strains within the host population at risk  
+
+**Seroepidemiologic studies for influenza [@horby2017]**
+-	State what is known about the kinetics of antibody rise, decay, and persistence following infection for the particular virus being studied and the justification for threshold antibody titers or changes in titers used to define evidence of infection  
+-	State what is known about the sensitivity and specificity of the antibody detection assay being used
+
+**Simulation-based research [@cheng2016]**  
+-	Clarify whether simulation is subject of research or investigational method for research  

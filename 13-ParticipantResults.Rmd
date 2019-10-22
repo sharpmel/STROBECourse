@@ -25,19 +25,106 @@ Nonspecific examples from QA:
 - nut-13. Report the number of individuals excluded based on missing, incomplete, or implausible dietary/nutritional data.  
 - RDS(g) Consider reporting estimated design effect for outcomes of interest  
 - 13 (c) Consider use of a ﬂow diagram, a diagram of the organizational structure or both  
+**Explanation [@vandenbroucke2007]**</br>
+Detailed information on the process of recruiting study
+participants is important for several reasons. Those included
+in a study often differ in relevant ways from the target
+population to which results are applied. This may result in
+estimates of prevalence or incidence that do not reflect the
+experience of the target population. For example, people who
+agreed to participate in a postal survey of sexual behaviour
+attended church less often, had less conservative sexual
+attitudes and earlier age at first sexual intercourse, and were
+more likely to smoke cigarettes and drink alcohol than people
+who refused.130 These differences suggest that postal surveys
+may overestimate sexual liberalism and activity in the population.
+Such response bias (see box 3) can distort exposuredisease
+associations if associations differ between those eligible
+for the study and those included in the study. As another
+example, the association between young maternal age and
+leukemia in offspring, which has been observed in some
+case-control studies,131,132 was explained by differential participation
+of young women in case and control groups. Young
+women with healthy children were less likely to participate
+than those with unhealthy children.133 Although low participation
+does not necessarily compromise the validity of a
+study, transparent information on participation and reasons
+for nonparticipation is essential. Also, as there are no universally
+agreed definitions for participation, response or follow-
+up rates, readers need to understand how authors calculated
+such proportions.134
+Ideally, investigators should give an account of the numbers
+of individuals considered at each stage of recruiting study
+participants, from the choice of a target population to the
+inclusion of participants’ data in the analysis. Depending on the
+type of study, this may include the number of individuals
+considered to be potentially eligible, the number assessed for
+eligibility, the number found to be eligible, the number included
+in the study, the number examined, the number followed up and
+the number included in the analysis. Information on different
+sampling units may be required, if sampling of study participants
+is carried out in two or more stages as in the example above
+(multistage sampling). In case-control studies, we advise that
+authors describe the flow of participants separately for case and
+control groups.135 Controls can sometimes be selected from
+several sources, including, for example, hospitalized patients
+and community dwellers. In this case, we recommend a separate
+account of the numbers of participants for each type of control
+group. Olson and colleagues proposed useful reporting guidelines
+for controls recruited through random-digit dialling and
+other methods.136
+A recent survey of epidemiological studies published in
+10 general epidemiology, public health and medical journals
+found that some information regarding participation was
+provided in 47 of 107 case-control studies (59%), 49 of 154
+cohort studies (32%), and 51 of 86 cross-sectional studies
+(59%).137 Incomplete or absent reporting of participation and
+nonparticipation in epidemiological studies was also documented
+in two other surveys of the literature.4,5 Finally, there
+is evidence that participation in epidemiological studies may
+have declined in recent decades,137,138 which underscores the
+need for transparent reporting.139
+participated
+in a study or why they were excluded from statistical
+analyses helps readers judge whether the study population
+was representative of the target population and whether bias
+was possibly introduced. For example, in a cross-sectional
+health survey, non-participation due to reasons unlikely to be
+related to health status (for example, the letter of invitation was
+not delivered because of an incorrect address) will affect
+the precision of estimates but will probably not introduce
+bias. Conversely, if many individuals opt out of the survey
+because of illness, or perceived good health, results may
+underestimate or overestimate the prevalence of ill health
+in the population.
+An informative and well-structured flow diagram can
+readily and transparently convey information that might otherwise
+require a lengthy description,142 as in the example
+above. The diagram may usefully include the main results,
+such as the number of events for the primary outcome. While
+we recommend the use of a flow diagram, particularly for
+complex observational studies, we do not propose a specific
+format for the diagram.
 
-Specific examples from QA:
+
+<h2> Field-specific guidance:</h2>
 - STROME-ID 13.1: Report numbers of participants and samples at each stage of the study, including the number of samples obtained, the number typed, and the number yielding data  
 - STROME-ID 13.2: if the study investigates groups of genetically indistinguishable pathogens (molecular clusters), state the sampling fraction, the distribution of cluster sizes, and the study population turnover, if known  
-- RECORD 13.1: Describe in detail the selection of the persons included in the study (i.e., study population selection), including ﬁltering based on data quality, data availability, and linkage. The selection of included persons can be described in the text and/or by means of the study ﬂow diagram.  
+
+- RECORD 13.1: Describe in detail the selection of the persons included in the study (i.e., study population selection), including ﬁltering based on data quality, data availability, and linkage. The selection of included persons can be described in the text and/or by means of the study ﬂow diagram. 
+
 - STREGA13a Report numbers of individuals in whom genotyping was attempted and numbers of individuals in whom genotyping was successful.  
+
 - STROBE-NI 13.1: see ﬁgure 2 for suggested components of a ﬂow diagram for neonatal infections  
+
 - MARES13a-1 Report the number of participants who started medical abortion treatment and the number who did not complete any follow-up for each cohort and by gestational age.  
 - MARES13a-2 Report the number of participants used in the denominator for outcome evaluation for each cohort and by gestational age, which most commonly will be the number of women with any follow-up.  
 - MARES13a-3 Include a description of the number of women who used the drug(s) as planned in the protocol (treatment adherence)  
 - MARES13a-4 When more than one drug is used (e.g. mifepristone and a prostaglandin analog), the actual time interval between the agents should be reported, preferably in hours.  
+
 - RDS13 (d) Report number of coupons issued and returned  
 - RDS13 (e) Report number of recruits by seed and number of RDS recruitment waves for each seed. Consider showing graph of entire recruitment network  
 - RDS13 (f) Report recruitment challenges (e.g., commercial exchange of coupons, imposters, duplicate recruits) and how addressed  
+
 - VET13 (a) Report the numbers of owners/managers and animals at each stage of study and at each relevant level of organization - e.g, numbers eligible, included in the study, completing follow-up, and analyzed  
 - VET13 (b) Give reasons for non-participation at each stage and at each relevant level of organization  

@@ -26,10 +26,7 @@ Although this is the first item in the checklist, some people find that it is th
 </br>
 
 **Explanation [@vandenbroucke2007]**</br>
-> Readers should be able to easily identify the design that
-was used from the title or abstract. An explicit, commonly
-used term for the study design also helps ensure correct
-indexing of articles in electronic databases.19,20
+> Readers should be able to easily identify the design that was used from the title or abstract. An explicit, commonly used term for the study design also helps ensure correct indexing of articles in electronic databases.19,20 
 
 </br>
 
@@ -40,22 +37,25 @@ indexing of articles in electronic databases.19,20
 - The main results (e.g., "found high rates of x", " )  
 </br>
 </br>
+
 **Example structures**  
   - "*Key finding/exposures*" among/in "*sample/population*" during "*time period of study/data collection*" : "*study design*"  
   - "*Study design*" investigating "*exposures*" among "*sample/population*" during "*time period of study/data collection*" found "*key findings*"    
 </br>
 </br>
+
 **Examples of Good Reporting**   
 - "Leukemia incidence among workers in the shoe and boot manufacturing industry: a case-control study" [@vandenbroucke2007; @Forand2004]  
 - “The consumption of sugar-sweetened beverages was derived from 7 repeated FFQs administered between 1980 and 2002” [@hornell2017; @fung2009]
 </p>
 </p>
+
 <h2> Field-specific guidance:</h2>
 **Infectious disease molecular epidemiology [@field2014]**   
-  -	The term molecular epidemiology should be applied to the study in the title or abstract and the keywords when molecular and epidemiological methods contribute substantially to the study  
+-	The term molecular epidemiology should be applied to the study in the title or abstract and the keywords when molecular and epidemiological methods contribute substantially to the study  
   
 **Molecular epidemiology [@gallo2012]**   
-  - State the use of speciﬁc biomarker(s) in the title and ⁄or in the abstract if they contribute substantially to the ﬁndings
+- State the use of speciﬁc biomarker(s) in the title and ⁄or in the abstract if they contribute substantially to the ﬁndings
 
 **Nutritional data [@lachat2016]**  
 -	State the dietary/nutritional assessment method(s) used in the title, abstract, or keywords    
@@ -66,9 +66,9 @@ indexing of articles in electronic databases.19,20
 **Routinely collected health data ['@benchimol2015]**  
 -	The type of data used should be speciﬁed in the title or abstract. When possible, the name of the databases used should be included    
 -	If applicable, the geographic region and time frame within which the study took place should be reported in the title or abstract    
--	If linkage between databases was conducted for the study, this should be clearly stated in the title or abstract  
+-	If linkage between databases was conducted for the study, this should be clearly stated in the title or abstract 
 
-**Serology [@horby2017]**  
+**Seroepidemiologic studies for influenza [@horby2017]**  
 - The term “seroepidemiologic,” “seroepidemiology,” “seroprevalence,” or “seroincidence” should be applied to the study in the title or abstract, and the medical subject heading “Seroepidemiologic Studies” be used when the report is of a population-based serological survey  
 
 **Simulation-based research [@cheng2016]**  

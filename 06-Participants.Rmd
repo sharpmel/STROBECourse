@@ -30,6 +30,7 @@ Just because your study has cases and controls *does not mean* that you have a c
 
 For case-control study designs, the range of disease can affect estimates of diagnostic accuracy,16,17 and choice of population (derived from randomised or observational datasets) can affect estimates of predictive discrimination for biomarkers.18  
 
+**Some key items to consider adding:** 
 -	ME-6 Report any habit, clinical condition, physiological factor or working or living condition that might affect the characteristics or concentrations of the biomarker  
 -	STROME-ID 6.1: state the source of participants and clinical specimens, and clearly describe sampling frame and strategy  
 -	EULAR(A) Provide a clear deﬁnition of the exposed and nonexposed cohorts. Justify the choice of comparator  
@@ -43,27 +44,73 @@ For case-control study designs, the range of disease can affect estimates of dia
 -	VET6 (c) Describe the method of follow-up  
 -	VET6 (d) For matched studies, describe matching criteria and the number of matched individuals per subject (e.g, number of controls per case)  
 
+**Explanation [@vandenbroucke2007]**</br>
+Detailed descriptions of the study participants help readers understand the applicability of the results. Investigators
+usually restrict a study population by defining clinical, demographic and other characteristics of eligible participants.
+Typical eligibility criteria relate to age, gender, diagnosis and comorbid conditions. Despite their importance, eligibility
+criteria often are not reported adequately. In a survey of observational stroke research, 17 of 49 reports (35%) did not
+specify eligibility criteria.5
+Eligibility criteria may be presented as inclusion and exclusion criteria, although this distinction is not always
+necessary or useful. Regardless, we advise authors to report all eligibility criteria and also to describe the group from
+which the study population was selected (eg, the general population of a region or country), and the method of recruitment
+(eg, referral or self-selection through advertisements). 
+
+Knowing details about follow-up procedures, including whether procedures minimized nonresponse and loss to follow-
+up and whether the procedures were similar for all participants, informs judgments about the validity of results.
+For example, in a study that used IgM antibodies to detect acute infections, readers needed to know the interval between blood tests for IgM antibodies so that they could judge whether some infections likely were missed because the
+interval between blood tests was too long.41 In other studies where follow-up procedures differed between exposed and
+unexposed groups, readers might recognize substantial bias due to unequal ascertainment of events or differences in
+nonresponse or loss to follow-up.42 Accordingly, we advise that researchers describe the methods used for following
+participants and whether those methods were the same for all participants, and that they describe the completeness of ascertainment of variables (see also item 14).
+In case-control studies, the choice of cases and controls is crucial to interpreting the results, and the method of their
+selection has major implications for study validity. In general controls should reflect the population from which the cases
+arose. Various methods are used to sample controls, all with advantages and disadvantages: for cases that arise from a
+general population, population roster sampling, random digit dialling, neighborhood or friend controls are used. Neighborhood
+or friend controls may present intrinsic matching on exposure.17 Controls with other diseases may have advantages
+over population-based controls, in particular for hospital-based cases, because they better reflect the catchment
+population of a hospital, have greater comparability of recall and ease of recruitment. However, they can present problems
+if the exposure of interest affects the risk of developing or being hospitalized for the control condition(s).43,44 To remedy
+this problem often a mixture of the best defensible control diseases is used.45
+
+Explanation
+Matching is much more common in case-control studies, but occasionally, investigators use matching in cohort studies to
+make groups comparable at the start of follow-up. Matching in cohort studies presents fewer intricacies than with case-control
+studies. For example, it is not necessary to take the matching into account for the estimation of the relative risk.48 Because matching in cohort studies may increase statistical precision investigators might allow for the matching in their analyses and thus obtain narrower confidence intervals.
+In case-control studies matching is done to increase a study’s efficiency by ensuring similarity in the distribution of
+variables between cases and controls, in particular the distribution of potential confounding variables.48,49 Because matching can be done in various ways, with one or more controls per case, the rationale for the choice of matching variables and the details of the method used should be described. Commonly used forms of matching are frequency matching (also called group matching) and individual matching. In frequency matching, investigators choose controls so that the distribution of matching variables becomes identical or similar to that of cases. Individual matching involves matching one or several controls to each case. Although intuitively appealing and sometimes useful, matching in case-control studies has a number of disadvantages, is not always appropriate, and needs to be taken into account in the analysis (see box 2).
+Even apparently simple matching procedures may be poorly reported. For example, authors may state that controls were matched to cases ‘within five years’, or using ‘five year age bands’. Does this mean that, if a case was 54 years old, the respective control needed to be in the five-year age band 50 to 54, or aged 49 to 59, which is within five years of age 54? If a wide (eg, 10-year) age band is chosen, there is a danger of residual confounding by age (see also box 4), for example because controls may then be younger than cases on average.
+
+
+
 **Examples of Good Reporting**
 
 **Case-Control Studies**
 **Cross-Sectional Studies**
 **Cohort Studies**
 
-**Specific examples from QA:** 
+<h2> Field-specific guidance:</h2>
+
 -	EULAR 6(D) Describe whether treatment reﬂects ﬁrst start until ﬁrst stop of therapy or multiple treatment episodes. If the latter, discuss deﬁnition of duration of exposure and any implications for combining treatment intervals  
+
 -	RECORD 6.1: The methods of study population selection (such as codes or algorithms used to identify subjects) should be listed in detail. If this is not possible, an explanation should be provided  
 -	RECORD 6.2: Any validation studies of the codes or algorithms used to select the population should be referenced. If validation was conducted for this study and not published elsewhere, detailed methods and results should be provided  
 -	RECORD 6.3: If the study involved linkage of databases, consider use of a ﬂow diagram or other graphical display to demonstrate the data linkage process, including the number of individuals with linked data at each stage  
+
 -	ROSES-I 6.1: For case-ascertained transmission studies, describe the method of case ascertainment and criteria for defining a “case”  
 -	ROSES-I 6.2: For household-or institution-based transmission studies, describe the definition of a household or the institution  
 -	ROSES-I 6.3: For outbreak investigations involving serologic sampling, describe the setting in which the cases were identified, for example, village/residential setting, occupational workplace  
 -	ROSES-I 6.4: To aid the interpretation of seroepidemiologic studies of novel influenza A virus subtypes, the results from exposed populations should be compared with the results from unexposed populations.  Efforts to validate the assay in virologically confirmed cases should be reported  
+
 -	STROBE-NI 6.1: state age of participants (eg, 0–27 days deﬁ nes neonates; day 0 as day of birth). Disaggregate neonatal data from that of older infants and from stillbirths  
+
 -	MARES6–1 Detail the range of gestational age for participants determined a priori to be included in the research, including a lower limit when applicable.  
 -	MARES6–2 Explain the methods used to determine gestational age (e.g., physical examination, last menstrual period, ultrasonography). Ifultrasonography is used, detail the type (vaginal and/or abdominal) and consider describing the criteria used for determination of gestational age.  
+
 -	RDS6a Describe how participants were trained/instructed to recruit others, number of coupons issued per person, any time limits for referral  
 -	RDS(b) Describe methods of seed selection and state number at start of study and number added later  
 -	RDS(c) State if there was any variation in study procedures during data collection (e.g., changing numbers of coupons per recruiter, interruptions in sampling, or stopping recruitment chains)  
 -	RDS(d) Report wording of personal network size question(s)  
+
+**Veterinary epidemiology [oconnor2016]**
 -	VET6 (b) Describe the sources and methods of selection for the owners/managers and for the animals, at each relevant level of organization  
 -	VET6 (a) Describe the eligibility criteria for the owners/ managers and for the animals, at each relevant level of organization  

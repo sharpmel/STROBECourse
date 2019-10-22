@@ -31,7 +31,7 @@ Nonspecific examples from QA:
 
 
 
-
+<h2> Field-specific guidance:</h2>
 •	STROME-ID 19.1: consider alternative explanations for ﬁndings when transmission chains are being investigated, and report the consistency between molecular and epidemiological evidence 
 •	STROBE-NI 19.1: discuss sources of recruitment bias, particularly regarding the period of time shortly after birth. State source of denominator data and discuss possible related biases
 •	AMS19.1 Provide description of sources of selection bias, including infection control measures, audit and confounding

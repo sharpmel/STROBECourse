@@ -63,7 +63,7 @@ Although this is the first item in the checklist, some people find that it is th
 **Response-driven sampling [@white2015]**  
 -	Indicate “respondent-driven sampling” in the title or abstract 
 
-**Routinely collected health data ['@benchimol2015]**  
+**Routinely collected health data [@benchimol2015]**  
 -	The type of data used should be speciﬁed in the title or abstract. When possible, the name of the databases used should be included    
 -	If applicable, the geographic region and time frame within which the study took place should be reported in the title or abstract    
 -	If linkage between databases was conducted for the study, this should be clearly stated in the title or abstract 

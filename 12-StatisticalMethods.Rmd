@@ -78,3 +78,7 @@ Nonspecific examples from QA:
 -	ROSES-I 12a.12: Specify whether replication was performed, and if so, the acceptable replication parameters  
 -	ROSES-I 12a.13: Specify whether a confirmatory assay was performed and all specifics of this assay, at the same level of detail  
 -	ROSES-I 12a.14: Specify international standards used, if appropriate  
+
+Relevant resources: 
+van smede 2019 https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyz251/5671729?guestAccessKey=561d355c-6d73-4a80-8e9f-5e6155afce87
+Reflection on modern methods: five myths about measurement error in epidemiological research

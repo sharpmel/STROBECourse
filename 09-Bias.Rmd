@@ -31,7 +31,9 @@ authors always assess the likelihood of relevant biases. Specifically, the direc
 discussed and, if possible, estimated. For instance, in casecontrol studies information bias can occur, but may be
 reduced by selecting an appropriate control group, as in the first example.64 Differences in the medical surveillance of
 participants were a problem in the second example.65
+
 Consequently, the authors provide more detail about the additional data they collected to tackle this problem. When investigators have set up quality control programs for data collection to counter a possible “drift” in measurements of variables in longitudinal studies, or to keep variability at a minimum when multiple observers are used, these should be described.
+
 Unfortunately, authors often do not address important biases when reporting their results. Among 43 case-control
 and cohort studies published from 1990 to 1994 that investigated the risk of second cancers in patients with a history of
 cancer, medical surveillance bias was mentioned in only 5 articles.66 A survey of reports of mental health research

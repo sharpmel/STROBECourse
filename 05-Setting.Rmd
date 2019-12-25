@@ -18,17 +18,14 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:  
 - Describe the setting, locations, and relevant dates, including periods of recruitment, exposure, follow up, and data collection  
 
-Describe formative research findings used to inform RDS study
-EULAR (C) Indicate the time points for assessment of serial follow-up
+Describe formative research findings used to inform RDS study 
+EULAR (C) Indicate the time points for assessment of serial follow-up 
 nut-5. Describe any characteristics of the study settings that might affect the dietary intake or nutritional status of the participants, if applicable
 
 **Explanation [@vandenbroucke2007]**</br>
-Readers need information on setting and locations to assess the context and generalizability of a study’s results.
-Exposures such as environmental factors and therapies can change over time. Also, study methods may evolve over time.
-Knowing when a study took place and over what period participants were recruited and followed up places the study in historical context and is important for the interpretation of results.
+Readers need information on setting and locations to assess the context and generalizability of a study’s results. Exposures such as environmental factors and therapies can change over time. Also, study methods may evolve over time. Knowing when a study took place and over what period participants were recruited and followed up places the study in historical context and is important for the interpretation of results.
 
-Information about setting includes recruitment sites or sources (eg, electoral roll, outpatient clinic, cancer registry, or
-tertiary care centre). Information about location may refer to the countries, towns, hospitals or practices where the investigation took place. We advise stating dates rather than only describing the length of time periods. There may be different sets of dates for exposure, disease occurrence, recruitment, beginning and end of follow-up, and data collection. Of note, nearly 80% of 132 reports in oncology journals that used survival analysis included the starting and ending dates for
+Information about setting includes recruitment sites or sources (eg, electoral roll, outpatient clinic, cancer registry, or tertiary care centre). Information about location may refer to the countries, towns, hospitals or practices where the investigation took place. We advise stating dates rather than only describing the length of time periods. There may be different sets of dates for exposure, disease occurrence, recruitment, beginning and end of follow-up, and data collection. Of note, nearly 80% of 132 reports in oncology journals that used survival analysis included the starting and ending dates for
 accrual of patients, but only 24% also reported the date on which follow-up ended.37
 
 **Specific examples from QA:**  

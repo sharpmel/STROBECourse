@@ -18,6 +18,81 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report: 
 -	Give a cautious overall interpretation of results considering objectives, limitations, multiplicity of analyses, results from similar studies, and other relevant evidence
 
+Example
+“Any explanation for an association between death
+from myocardial infarction and use of second generation oral
+contraceptives must be conjectural. There is no published
+evidence to suggest a direct biologic mechanism, and there
+are no other epidemiologic studies with relevant results. (. . .)
+The increase in absolute risk is very small and probably
+applies predominantly to smokers. Due to the lack of corroborative
+evidence, and because the analysis is based on relatively
+small numbers, more evidence on the subject is needed.
+We would not recommend any change in prescribing practice
+on the strength of these results.”120
+Explanation
+The heart of the discussion section is the interpretation
+of a study’s results. Over-interpretation is common
+and human: even when we try hard to give an objective
+assessment, reviewers often rightly point out that we went
+too far in some respects. When interpreting results, authors
+should consider the nature of the study on the discovery to
+verification continuum and potential sources of bias, including
+loss to follow-up and non-participation (see also
+items 9, 12 and 19). Due consideration should be given to
+confounding (item 16a), the results of relevant sensitivity
+analyses, and to the issue of multiplicity and subgroup
+analyses (item 17). Authors should also consider residual
+confounding due to unmeasured variables or imprecise
+measurement of confounders. For example, socioeconomic
+status (SES) is associated with many health outcomes and
+often differs between groups being compared. Variables
+used to measure SES (income, education, or occupation)
+are surrogates for other undefined and unmeasured exposures,
+and the true confounder will by definition be measured
+with error.208 Authors should address the real range
+of uncertainty in estimates, which is larger than the statistical
+uncertainty reflected in confidence intervals. The
+latter do not take into account other uncertainties that arise
+from a study’s design, implementation, and methods of
+measurement.209
+To guide thinking and conclusions about causality,
+some may find criteria proposed by Bradford Hill in 1965
+helpful.164 How strong is the association with the exposure?
+Did it precede the onset of disease? Is the association consistently
+observed in different studies and settings? Is there
+supporting evidence from experimental studies, including
+laboratory and animal studies? How specific is the exposure’s
+putative effect, and is there a dose-response relationship? Is
+the association biologically plausible? These criteria should
+not, however, be applied mechanically. For example, some
+have argued that relative risks below 2 or 3 should be
+ignored.210,211 This is a reversal of the point by Cornfield et
+al about the strength of large relative risks (see item 12b).127
+Although a causal effect is more likely with a relative risk of
+9, it does not follow that one below 3 is necessarily spurious.
+For instance, the small increase in the risk of childhood
+leukemia after intrauterine irradiation is credible because it
+concerns an adverse effect of a medical procedure for which
+no alternative explanations are obvious.212 Moreover, the
+carcinogenic effects of radiation are well established. The
+doubling in the risk of ovarian cancer associated with eating
+2 to 4 eggs per week is not immediately credible, since
+dietary habits are associated with a large number of lifestyle
+factors as well as SES.213 In contrast, the credibility of much
+debated epidemiologic findings of a difference in thrombosis
+risk between different types of oral contraceptives was
+greatly enhanced by the differences in coagulation found in a
+randomized cross-over trial.214 A discussion of the existing
+external evidence, from different types of studies, should
+always be included, but may be particularly important for
+studies reporting small increases in risk. Further, authors
+should put their results in context with similar studies and
+explain how the new study affects the existing body of
+evidence, ideally by referring to a systematic review.
+
+
+
 Nonspecific examples from QA:
 •	nut-20. Report the nutritional relevance of the ﬁndings, given the complexity of diet or nutrition as an exposure.
 

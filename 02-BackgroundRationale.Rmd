@@ -18,10 +18,12 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:  
 - Explain the scientific background and rationale for the investigation being reported  
 
-Topics to cover. Do your research. Cite/discuss systematic reviews if possible. Highlight the gap in research that your work is aiming to fill.   
+**Some key items to consider adding:**  
+- Cite/discuss systematic reviews and meta-analyses if possible. 
+- Highlight the gap in research that your work is aiming to fill. </br>  
 
-**Explanation [@vandenbroucke2007]**</br>
-The scientific background of the study provides important context for readers. It sets the stage for the study and describes its focus. It gives an overview of what is known on a topic and what gaps in current knowledge are addressed by the study. Background material should note recent pertinent studies and any systematic reviews of pertinent studies.
+## Explanation and Elaboration </br>
+> The scientific background of the study provides important context for readers. It sets the stage for the study and describes its focus. It gives an overview of what is known on a topic and what gaps in current knowledge are addressed by the study. Background material should note recent pertinent studies and any systematic reviews of pertinent studies.
 
 <h2> Field-specific guidance:</h2>
 **Molecular epidemiology [@gallo2012]** 
@@ -35,4 +37,4 @@ The scientific background of the study provides important context for readers. I
 -	State what is known about the sensitivity and specificity of the antibody detection assay being used
 
 **Simulation-based research [@cheng2016]**  
--	Clarify whether simulation is subject of research or investigational method for research  
+-	Clarify whether simulation is subject of research or investigational method for research

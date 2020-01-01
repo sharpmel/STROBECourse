@@ -8,5 +8,5 @@ All content is stored within this [GitHub repository](https://github.com/sharpme
 ## How can I contribute?
 First, please read the [Contributor Covenant Code of Conduct](https://github.com/sharpmel/STROBECourse/blob/master/26-CodeOfConduct.Rmd) prior to making any changes. 
 
-For information on how to contribute, you can read the [Frequently Asked Questions](https://github.com/sharpmel/STROBECourse/blob/master/01_1-FAQ.Rmd) file. 
+For information on how to contribute, you can read the [Frequently Asked Questions](https://github.com/sharpmel/STROBECourse/blob/master/25-FAQ.Rmd) file. 
 

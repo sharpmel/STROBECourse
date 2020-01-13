@@ -18,18 +18,7 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:   
 -	Clearly define all outcomes, exposures, predictors, potential confounders, and effect modifiers. Give diagnostic criteria, if applicable.
 
-**Explanation [@vandenbroucke2007]**</br>
-Authors should define all variables considered for and included in the analysis, including outcomes, exposures,
-predictors, potential confounders and potential effect modifiers. Disease outcomes require adequately detailed description
-of the diagnostic criteria. This applies to criteria for cases in a case-control study, disease events during follow-up in a cohort study and prevalent disease in a cross-sectional study.
-
-Clear definitions and steps taken to adhere to them are particularly important for any disease condition of primary
-interest in the study. For some studies, ‘determinant’ or ‘predictor’ may be appropriate terms for exposure variables and outcomes may  be called ‘endpoints’. In multivariable models, authors sometimes use ‘dependent variable’ for an outcome and ‘independent variable’ or ‘explanatory variable’ for exposure and confounding variables. The latter is not precise as it does not distinguish exposures from confounders.
-
-If many variables have been measured and included in exploratory analyses in an early discovery phase, consider
-providing a list with details on each variable in an appendix, additional table or separate publication. Of note, the International Journal of Epidemiology recently launched a new section with ‘cohort profiles’, that includes detailed information on what was measured at different points in time in particular studies.56,57 Finally, we advise that authors declare all ‘candidate variables’ considered for statistical analysis, rather than selectively reporting only those included in the final models (see also item 16a).58,59
-
-
+**Some key items to consider adding:** 
 -	EULAR Clearly deﬁne start and stop of therapy    
 -	ROSES-I 7.1 The median age and range for each exposure group should be reported   
 -	SBR7 Describe the theoretical and/or conceptual rationale for the design of the intervention/ exposure  
@@ -43,6 +32,17 @@ providing a list with details on each variable in an appendix, additional table 
 (measurement). Describe comparability of assessment methods if there is more than one group  
 -	VET7 (b) Describe the level of organization at which each variable was measured  
 -	ROSES- I 7.2: Describe the potential for immunization (specify vaccine and timing of vaccination in relationship to collection of serum), if applicable, to affect the outcome measures   
+
+**Explanation [@vandenbroucke2007]**
+>Authors should define all variables considered for and included in the analysis, including outcomes, exposures,
+predictors, potential confounders and potential effect modifiers. Disease outcomes require adequately detailed description
+of the diagnostic criteria. This applies to criteria for cases in a case-control study, disease events during follow-up in a cohort study and prevalent disease in a cross-sectional study.
+</br>
+Clear definitions and steps taken to adhere to them are particularly important for any disease condition of primary
+interest in the study. For some studies, ‘determinant’ or ‘predictor’ may be appropriate terms for exposure variables and outcomes may  be called ‘endpoints’. In multivariable models, authors sometimes use ‘dependent variable’ for an outcome and ‘independent variable’ or ‘explanatory variable’ for exposure and confounding variables. The latter is not precise as it does not distinguish exposures from confounders.
+</br>
+If many variables have been measured and included in exploratory analyses in an early discovery phase, consider
+providing a list with details on each variable in an appendix, additional table or separate publication. Of note, the International Journal of Epidemiology recently launched a new section with ‘cohort profiles’, that includes detailed information on what was measured at different points in time in particular studies.56,57 Finally, we advise that authors declare all ‘candidate variables’ considered for statistical analysis, rather than selectively reporting only those included in the final models (see also item 16a).58,59
 
 <h2> Field-specific guidance:</h2>  
 **Anti-microbial stewardship programs [@tacconelli2016]**

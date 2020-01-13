@@ -20,7 +20,8 @@ edit: https://github.com/sharpmel/STROBECourse
 
 **Some key items to consider adding:**  
 - Cite/discuss systematic reviews and meta-analyses if possible. 
-- Highlight the gap in research that your work is aiming to fill. </br>  
+- Highlight the gap in research that your work is aiming to fill.
+</br>  
 
 ## Explanation and Elaboration </br>
 > The scientific background of the study provides important context for readers. It sets the stage for the study and describes its focus. It gives an overview of what is known on a topic and what gaps in current knowledge are addressed by the study. Background material should note recent pertinent studies and any systematic reviews of pertinent studies.
@@ -28,13 +29,13 @@ edit: https://github.com/sharpmel/STROBECourse
 <h2> Field-specific guidance:</h2>
 **Molecular epidemiology [@gallo2012]** 
 -	Explain in the scientiﬁc background of the paper how ⁄why the speciﬁc biomarker(s) have been chosen, potentially among many others (e.g. others are studied but reported elsewhere or not studied at all)  
-
+</br>
 **Infectious disease molecular epidemiology [@field2014]** 
 -	Provide background information about the pathogen population and the distribution of pathogen strains within the host population at risk  
-
+</br>
 **Seroepidemiologic studies for influenza [@horby2017]**
 -	State what is known about the kinetics of antibody rise, decay, and persistence following infection for the particular virus being studied and the justification for threshold antibody titers or changes in titers used to define evidence of infection  
 -	State what is known about the sensitivity and specificity of the antibody detection assay being used
-
+</br>
 **Simulation-based research [@cheng2016]**  
 -	Clarify whether simulation is subject of research or investigational method for research

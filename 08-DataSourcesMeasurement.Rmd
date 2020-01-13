@@ -18,15 +18,7 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:  
 -	For each variable of interest, give sources of data and details of methods of assessment (measurement). Describe comparability of assessment methods if there is more than one group.   
 
-**Explanation [@vandenbroucke2007]**</br>
-The way in which exposures, confounders and outcomes were measured affects the reliability and validity of a study. Measurement error and misclassification of exposures or outcomes can make it more difficult to detect cause-effect
-relationships, or may produce spurious relationships. Error in measurement of potential confounders can increase the risk of residual confounding.62,63 It is helpful, therefore, if authors report the findings of any studies of the validity or reliability of assessments or measurements, including details of the reference standard that was used. Rather than simply citing validation studies (as in the first example), we advise that authors give the estimated validity or reliability, which can then be used for measurement error adjustment or sensitivity analyses (see items 12e and 17).
-</br>
-In addition, it is important to know if groups being compared differed with respect to the way in which the data were collected. This may be important for laboratory examinations (as in the second example) and other situations. For instance, if an interviewer first questions all the cases and then the controls, or vice versa, bias is possible because of the learning curve; solutions such as randomizing the order of interviewing may avoid this problem. Information bias may
-also arise if the compared groups are not given the same diagnostic tests or if one group receives more tests of the
-same kind than another (see also item 9).
-
-
+**Some key items to consider adding:** 
 -	nut-8.6. Report on the validity of the dietary or nutritional assessment methods and any internal or external validation used in the study, if applicable.  
 -	sbr8 In describing the details of methods of assessment, include (when applicable) the setting, instrument, simulator type, timing in relation to the intervention, along with any methods used to enhance the quality of measurements   
 -	SBR8 Provide evidence to support the validity and reliability of assessment tools in this context (if available).  
@@ -35,7 +27,16 @@ same kind than another (see also item 9).
 -	VET8 (b) If a questionnaire was used to collect data, describe its development, validation, and administration  
 -	VET8 (c) Describe whether or not individuals involved in data collection were blinded, when applicable  
 -	VET8 (d) Describe any eﬀorts to assess the accuracy of the data (including methods used for “data cleaning” in primary research, or methods used for validating secondary data)  
-S
+
+**Explanation [@vandenbroucke2007]**
+>The way in which exposures, confounders and outcomes were measured affects the reliability and validity of a study. Measurement error and misclassification of exposures or outcomes can make it more difficult to detect cause-effect
+relationships, or may produce spurious relationships. Error in measurement of potential confounders can increase the risk of residual confounding.62,63 It is helpful, therefore, if authors report the findings of any studies of the validity or reliability of assessments or measurements, including details of the reference standard that was used. Rather than simply citing validation studies (as in the first example), we advise that authors give the estimated validity or reliability, which can then be used for measurement error adjustment or sensitivity analyses (see items 12e and 17).
+</br>
+In addition, it is important to know if groups being compared differed with respect to the way in which the data were collected. This may be important for laboratory examinations (as in the second example) and other situations. For instance, if an interviewer first questions all the cases and then the controls, or vice versa, bias is possible because of the learning curve; solutions such as randomizing the order of interviewing may avoid this problem. Information bias may
+also arise if the compared groups are not given the same diagnostic tests or if one group receives more tests of the
+same kind than another (see also item 9).
+
+
 <h2> Field-specific guidance:</h2>
 **Anti-microbial stewardship programs [@tacconelli2016]**
 -	Describe how antimicrobial consumption data were obtained (pharmacy, patients’ charts, etc) and if it was actually used or purchased/ dispensed  

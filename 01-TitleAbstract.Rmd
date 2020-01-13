@@ -8,7 +8,7 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
-bibliography: bibliography.bib
+bibliography: zoterolibrary.bib
 csl: vancouver.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
@@ -16,10 +16,10 @@ edit: https://github.com/sharpmel/STROBECourse
 
 # Intro: Title and abstract 
 > The items from STROBE state that you should report:    
-- Indicate the study’s design with a commonly used term in the title or the abstract; AND    
+- Indicate the study’s design with a commonly used term in the title or the abstract; AND 
 - Provide in the abstract, an informative and balanced summary of what was done and what was found  
   
-First and foremost, thoughtful consideration must be given to the title of your work and the abstract. Based on which journal you plan on submitting your work to, they might provide restrictions on how many words you can use, so be as concise and unambiguous as possible. Yes, you are trying to sell your work but tell the truth, do not spin your results to make them seem like they are more than they are. Science is a search for the truth. Try to be as objective as possible and frame your findings correctly.
+First and foremost, thoughtful consideration must be given to the title of your work and the abstract. Based on which journal you plan on submitting your work to, they might provide restrictions on how many words you can use, so be as concise and unambiguous as possible. Try to be as objective as possible and frame your findings correctly.
 </br>
 Although this is the first item in the checklist, some people find that it is the easiest to write these at or near the end of your work as it contains the key messages that you want to focus on.
 </br>
@@ -32,7 +32,7 @@ Although this is the first item in the checklist, some people find that it is th
 </br>
 
 ## Explanation and Elaboration 
-> Readers should be able to easily identify the design that was used from the title or abstract. An explicit, commonly used term for the study design also helps ensure correct indexing of articles in electronic databases.19,20 
+> Readers should be able to easily identify the design that was used from the title or abstract. An explicit, commonly used term for the study design also helps ensure correct indexing of articles in electronic databases.[@benson2000]
 </br>
 
 **Examples of Good Reporting**   

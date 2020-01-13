@@ -19,9 +19,7 @@ edit: https://github.com/sharpmel/STROBECourse
 -	Give a cautious overall interpretation of results considering objectives, limitations, multiplicity of analyses, results from similar studies, and other relevant evidence
 
 Example
-“Any explanation for an association between death
-from myocardial infarction and use of second generation oral
-contraceptives must be conjectural. There is no published
+“Any explanation for an association between death from myocardial infarction and use of second generation oral contraceptives must be conjectural. There is no published
 evidence to suggest a direct biologic mechanism, and there
 are no other epidemiologic studies with relevant results. (. . .)
 The increase in absolute risk is very small and probably
@@ -102,4 +100,6 @@ Nonspecific examples from QA:
 
 
 •	ME-20 Give an interpretation of results in terms of a priori biological plausibility
+
+**Seroepidemiologic studies for influenza [@horby2017]**
 •	ROSES-I 20.1: Discuss the interpretation of the results in the context of known or potential cross-reactivity

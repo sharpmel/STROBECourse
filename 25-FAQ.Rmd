@@ -14,7 +14,7 @@ link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
-# Frequently Asked Questions (FAQ)
+# Frequently Asked Questions {#faq}
 <h2> How can I contribute? </h2>   
 There are three main ways that you can contribute.  
 

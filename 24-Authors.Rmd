@@ -16,5 +16,5 @@ edit: https://github.com/sharpmel/STROBECourse
 
 # About the Author
 Melissa Sharp completed this project as part of her work as a Marie Skłodowska-Curie doctoral research fellow at The University of Split and Université de Paris within the Methods in Research on Research (MiRoR) Project. Her PhD, funded by the European Union Horizon 2020 research and innovation program, focuses on the STrengthening the Reporting of OBservational studies in Epidemiology (STROBE) reporting guideline. It looks into micro- and macro-level facilitators and barriers that influence the use of STROBE and reporting guidelines like it.
-
+</br>
 She previously earned a Masters in Public Health in Epidemiology with a Graduate Certificate in Public Health Informatics from Columbia University Mailman School of Public Health and a Bachelor of Science in Psychology and Minor in Women and Gender Studies from Michigan State University. For more information such as CV, research interests, and contact information, please [visit her website] (http://www.melissaksharp.wordpress.com). 

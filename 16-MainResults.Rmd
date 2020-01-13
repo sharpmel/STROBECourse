@@ -64,4 +64,6 @@ title or abstract, compared to 18,955 using relative risk or odds ratio, for a r
 •	MARES16a-1 Present treatment success for each cohort and by gestational age.†
 •	MARES16a-2 Present continuing pregnancies for each cohort and by gestational age.†
 •	MARES16a-3 Present reasons for surgical intervention other than continuing pregnancy for each cohort and by gestational age.†
-•	ROSES-I 16.1: Report unadjusted estimates of distribution of titers by age group
+
+**Seroepidemiologic studies for influenza [@horby2017]**
+ROSES-I 16.1: Report unadjusted estimates of distribution of titers by age group

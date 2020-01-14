@@ -8,23 +8,13 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
-bibliography: zoterolibrary.bib
-csl: vancouver.csl
+bibliography: bibliography.bib
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Additional Information 
-Concluding Remarks
-The STROBE Statement aims to provide helpful recommendations for reporting observational studies in epidemiology. Good reporting reveals the strengths and weaknesses of a study and facilitates sound interpretation and application of study results. The STROBE Statement may also aid in planning observational studies, and guide peer reviewers and editors in their evaluation of manuscripts.
-</br>
-We wrote this explanatory article to discuss the importance of transparent and complete reporting of observational studies, to explain the rationale behind the different items included in the checklist, and to give examples from published articles of what we consider good reporting. We hope that the material presented here will assist authors and editors in using STROBE.
-</br>
-We stress that STROBE and other recommendations on the reporting of research13,233,234 should be seen as evolving documents that require continual assessment, refinement, and, if necessary, change.235,236 For example, the CONSORT Statement for the reporting of parallel-group randomized trials was first developed in the mid 1990s.237 Since then members of the group have met regularly to review the need to revise the recommendations; a revised version appeared in 2001233 and a further version is in development. Similarly, the principles presented in this article and the STROBE checklist are open to change as new evidence and critical comments accumulate. The STROBE web site (http://www.strobe-statement.org) provides a forum for discussion and suggestions for improvements of the checklist, this explanatory document and information about the good reporting of epidemiological studies.
-</br>
-Several journals ask authors to follow the STROBE Statement in their instructions to authors (see web site for current list). We invite other journals to adopt the STROBE Statement and contact us through our web site to let us know.The journals publishing the STROBE recommendations provide open access. The STROBE Statement is therefore widely accessible to the biomedical community.
-
-
 Nonspecific examples from QA:
 - ME-22.1 Describe informed consent and approval from ethical committee(s). Specify whether samples were anonymous, anonymized or identiﬁable
 - STROME-ID 23.1: report any ethical considerations with speciﬁc implications for infectious-disease molecular epidemiology
@@ -37,7 +27,16 @@ Nonspecific examples from QA:
 -	vet22 d) Ethical approval—Include information on ethical approval for use of animal and human subjects
 -	vet22 e) Quality standards—Describe any quality standards used in the conduct of the research
 
-
+## Explanation and Elaboration [@vandenbroucke2007]
+> Concluding Remarks </br>
+STROBE Statement aims to provide helpful recommendations for reporting observational studies in epidemiology. Good reporting reveals the strengths and weaknesses of a study and facilitates sound interpretation and application of study results. The STROBE Statement may also aid in planning observational studies, and guide peer reviewers and editors in their evaluation of manuscripts.
+</br>
+We wrote this explanatory article to discuss the importance of transparent and complete reporting of observational studies, to explain the rationale behind the different items included in the checklist, and to give examples from published articles of what we consider good reporting. We hope that the material presented here will assist authors and editors in using STROBE.
+</br>
+We stress that STROBE and other recommendations on the reporting of research13,233,234 should be seen as evolving documents that require continual assessment, refinement, and, if necessary, change.235,236 For example, the CONSORT Statement for the reporting of parallel-group randomized trials was first developed in the mid 1990s.237 Since then members of the group have met regularly to review the need to revise the recommendations; a revised version appeared in 2001233 and a further version is in development. Similarly, the principles presented in this article and the STROBE checklist are open to change as new evidence and critical comments accumulate. The STROBE web site (http://www.strobe-statement.org) provides a forum for discussion and suggestions for improvements of the checklist, this explanatory document and information about the good reporting of epidemiological studies.
+</br>
+Several journals ask authors to follow the STROBE Statement in their instructions to authors (see web site for current list). We invite other journals to adopt the STROBE Statement and contact us through our web site to let us know.The journals publishing the STROBE recommendations provide open access. The STROBE Statement is therefore widely accessible to the biomedical community.
 
 <h2> Field-specific guidance:</h2>
-- sbr22 List simulator brand and if conflict of interest for intellectual property exists.
+**Simulation-based research [@cheng2016]**
+- List simulator brand and if conflict of interest for intellectual property exists.

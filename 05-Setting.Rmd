@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -23,14 +23,17 @@ edit: https://github.com/sharpmel/STROBECourse
 - Indicate the time points for assessment of serial follow-up 
 - Describe any characteristics of the study settings that might affect the exposures of the participants, if applicable
 
-**Explanation [@vandenbroucke2007]**
+## Explanation and Elaboration [@vandenbroucke2007]
 > Readers need information on setting and locations to assess the context and generalizability of a study’s results. Exposures such as environmental factors and therapies can change over time. Also, study methods may evolve over time. Knowing when a study took place and over what period participants were recruited and followed up places the study in historical context and is important for the interpretation of results.
 </br>
 Information about setting includes recruitment sites or sources (eg, electoral roll, outpatient clinic, cancer registry, or tertiary care centre). Information about location may refer to the countries, towns, hospitals or practices where the investigation took place. We advise stating dates rather than only describing the length of time periods. There may be different sets of dates for exposure, disease occurrence, recruitment, beginning and end of follow-up, and data collection. Of note, nearly 80% of 132 reports in oncology journals that used survival analysis included the starting and ending dates for
 accrual of patients, but only 24% also reported the date on which follow-up ended.37
 
+**Examples of Good Reporting**
+- E & E examples
+
 </br>
-**Specific examples from QA:**  
+<h2> Field-specific guidance:</h2>
 **Anti-microbial stewardship programs [@tacconelli2016]**
 -	Describe if setting is epidemic or endemic (high, low, medium) for the study outcome  
 -	Specify type of hospital or unit and characteristics of population served by the healthcare setting  

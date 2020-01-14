@@ -1,3 +1,19 @@
+---
+title: "CodeOfConduct"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+bibliography: bibliography.bib
+csl: apa-annotated.csl
+link-citations: yes
+edit: https://github.com/sharpmel/STROBECourse
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge {-}

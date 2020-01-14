@@ -24,13 +24,10 @@ edit: https://github.com/sharpmel/STROBECourse
 </br> 
 
 ## Explanation and Elaboration
-> Objectives are the detailed aims of the study. Well crafted objectives specify populations, exposures and outcomes, and parameters that will be estimated. They may be formulated as specific hypotheses or as questions that the study was designed to address. In some situations objectives may be less specific, for example, in early discovery phases.
-</br> 
-Regardless, the report should clearly reflect the investigators’ intentions. For example, if important subgroups or additional
-analyses were not the original aim of the study but arose during data analysis, they should be described accordingly (see also items 4, 17 and 20).
-
-</br> 
+> Objectives are the detailed aims of the study. Well crafted objectives specify populations, exposures and outcomes, and parameters that will be estimated. They may be formulated as specific hypotheses or as questions that the study was designed to address. In some situations objectives may be less specific, for example, in early discovery phases.</br> 
+Regardless, the report should clearly reflect the investigators’ intentions. For example, if important subgroups or additional analyses were not the original aim of the study but arose during data analysis, they should be described accordingly (see also items 4, 17 and 20).</br> 
 </br>
+
 <h2> Field-specific guidance:</h2>
 **Molecular epidemiology [@gallo2012]** 
 - A priori hypothesis: if one or more biomarkers are used as proxy measures, state the a priori hypothesis on the expected values of the biomarker(s)

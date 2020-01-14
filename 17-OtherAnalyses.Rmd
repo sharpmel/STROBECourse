@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -24,8 +24,8 @@ edit: https://github.com/sharpmel/STROBECourse
 -	nut-17. Report any sensitivity analysis (e.g., exclusion of misreporters or outliers) and data imputation, if applicable.
 -	vet17 Report other analyses done, such as sensitivity/ robustness analysis and analysis of subgroups
 
-**Explanation [@vandenbroucke2007]**</br>
-In addition to the main analysis other analyses are often done in observational studies. They may address specific subgroups, the potential interaction between risk factors, the calculation of attributable risks, or use alternative definitions of study variables in sensitivity analyses.
+## Explanation and Elaboration [@vandenbroucke2007]
+> In addition to the main analysis other analyses are often done in observational studies. They may address specific subgroups, the potential interaction between risk factors, the calculation of attributable risks, or use alternative definitions of study variables in sensitivity analyses.
 </br>
 There is debate about the dangers associated with subgroup analyses, and multiplicity of analyses in general. 4,104 In our opinion, there is too great a tendency to look for evidence of subgroup-specific associations, or effect-measure modification, when overall results appear to suggest little or no effect. On the other hand, there is value in exploring 
 whether an overall association appears consistent across several, preferably pre-specified subgroups especially when a 
@@ -40,6 +40,11 @@ Sensitivity analyses are helpful to investigate the influence of choices made in
 Pocock and colleagues found that 43 out of 73 articles reporting observational studies contained subgroup analyses. The majority claimed differences across groups but only eight articles reported a formal evaluation of interaction (see item 12b).4
 
 <h2> Field-specific guidance:</h2>
-•	STREGA17 (b) If numerous genetic exposures (genetic variants) were examined, summarize results from all analyses undertaken.
-•	AMS17.1 Report subgroup analysis by type of patients and type of microorganism, if applicable
-•	RDS17 Report other analyses done—for example, analyses of subgroups and interactions, sensitivity analyses, different RDS estimators and definitions of personal network size
+**Anti-microbial stewardship programs [@tacconelli2016]**
+- Report subgroup analysis by type of patients and type of microorganism, if applicable </br>
+
+**Genetic association studies [@little2009]**
+- If numerous genetic exposures (genetic variants) were examined, summarize results from all analyses undertaken. </br>
+
+**Response-driven sampling [@white2015]**
+- Report other analyses done—for example, analyses of subgroups and interactions, sensitivity analyses, different RDS estimators and definitions of personal network size </br>

@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -33,13 +33,12 @@ edit: https://github.com/sharpmel/STROBECourse
 -	VET7 (b) Describe the level of organization at which each variable was measured  
 -	ROSES- I 7.2: Describe the potential for immunization (specify vaccine and timing of vaccination in relationship to collection of serum), if applicable, to affect the outcome measures   
 
-**Explanation [@vandenbroucke2007]**
+## Explanation and Elaboration [@vandenbroucke2007]
 >Authors should define all variables considered for and included in the analysis, including outcomes, exposures,
 predictors, potential confounders and potential effect modifiers. Disease outcomes require adequately detailed description
 of the diagnostic criteria. This applies to criteria for cases in a case-control study, disease events during follow-up in a cohort study and prevalent disease in a cross-sectional study.
 </br>
-Clear definitions and steps taken to adhere to them are particularly important for any disease condition of primary
-interest in the study. For some studies, ‘determinant’ or ‘predictor’ may be appropriate terms for exposure variables and outcomes may  be called ‘endpoints’. In multivariable models, authors sometimes use ‘dependent variable’ for an outcome and ‘independent variable’ or ‘explanatory variable’ for exposure and confounding variables. The latter is not precise as it does not distinguish exposures from confounders.
+Clear definitions and steps taken to adhere to them are particularly important for any disease condition of primary interest in the study. For some studies, ‘determinant’ or ‘predictor’ may be appropriate terms for exposure variables and outcomes may  be called ‘endpoints’. In multivariable models, authors sometimes use ‘dependent variable’ for an outcome and ‘independent variable’ or ‘explanatory variable’ for exposure and confounding variables. The latter is not precise as it does not distinguish exposures from confounders.
 </br>
 If many variables have been measured and included in exploratory analyses in an early discovery phase, consider
 providing a list with details on each variable in an appendix, additional table or separate publication. Of note, the International Journal of Epidemiology recently launched a new section with ‘cohort profiles’, that includes detailed information on what was measured at different points in time in particular studies.56,57 Finally, we advise that authors declare all ‘candidate variables’ considered for statistical analysis, rather than selectively reporting only those included in the final models (see also item 16a).58,59
@@ -58,31 +57,33 @@ providing a list with details on each variable in an appendix, additional table 
 -	Clearly define genetic exposures (genetic variants) using a widely-used nomenclature system. Identify variables likely to be associated with population stratification (confounding by ethnic origin)
 
 **Medical Abortion [@creinin2016]**
--	MARES7–1 Exposure: Detail the medications used, including dose(s) and route(s) of administration. If more than one medication is used, state the planned time interval between medications, preferably in hours
--	MARES7–2 Outcome: Define successful medical abortion (should most commonly be considered as successful expulsion of the intrauterine pregnancy without need for surgical intervention).
--	MARES7–3 Outcome: Define the types of medical abortion failure (e.g., ongoing pregnancy, incomplete abortion, participant symptoms). Continuing pregnancy should be defined as a viable pregnancy following treatment (to be differentiated from a non-viable [i.e., retained gestational sac]).
+-	Exposure: Detail the medications used, including dose(s) and route(s) of administration. If more than one medication is used, state the planned time interval between medications, preferably in hours
+-	Outcome: Define successful medical abortion (should most commonly be considered as successful expulsion of the intrauterine pregnancy without need for surgical intervention).
+-	Outcome: Define the types of medical abortion failure (e.g., ongoing pregnancy, incomplete abortion, participant symptoms). Continuing pregnancy should be defined as a viable pregnancy following treatment (to be differentiated from a non-viable [i.e., retained gestational sac]).
 
 **Neonatal infections [@fitchett2016]**
--	state criteria used to deﬁne clinically signiﬁcant organisms for each sample type
+-	State criteria used to deﬁne clinically signiﬁcant organisms for each sample type </br>
 
 **Nutritional data [@lachat2016]**
 -	Clearly deﬁne foods, food groups, nutrients, or other food components.  
--	When using dietary patterns or indices, describe the methods to obtain them and their nutritional properties.
+-	When using dietary patterns or indices, describe the methods to obtain them and their nutritional properties. </br>
 
 **Seroepidemiologic studies for influenza [@horby2017]**
 -	Describe illness definitions and methods for ascertaining the presence or absence of clinical illness in subjects
 -	Describe the potential for immunization (specify vaccine and timing of vaccination in relationship to collection of serum), if applicable, to affect the outcome measures
--	Describe any known or potential immunological cross-reactivity that may bias the outcome measures
+-	Describe any known or potential immunological cross-reactivity that may bias the outcome measures </br>
 
 **Response-driven sampling [@white2015]**  
--	State how recruiter–recruit relationship was tracked  
+-	State how recruiter–recruit relationship was tracked  </br>
 
 **Routinely collected health data [@benchimol2015]**  
--	A complete list of codes and algorithms used to classify exposures, outcomes, confounders, and effect modiﬁers should be provided. If these cannot be reported, an explanation should be provided.  
+-	A complete list of codes and algorithms used to classify exposures, outcomes, confounders, and effect modiﬁers should be provided. If these cannot be reported, an explanation should be provided.  </br>
 
 **Seroepidemiologic studies for influenza [@horby2017]**  
--	Describe any known or potential immunological cross- reactivity that may bias the outcome measures  
+-	Describe any known or potential immunological cross- reactivity that may bias the outcome measures  </br>
 
 ### Useful Resources
 Beginner's Guide to Confounding
 https://www.students4bestevidence.net/blog/2018/10/01/a-beginners-guide-to-confounding/?utm_source=S4BE+Contributors&utm_campaign=8ddeb7e39a-November+2019+S4BE+newsletter_COPY_01&utm_medium=email&utm_term=0_161fc8fd57-8ddeb7e39a-108747505&mc_cid=8ddeb7e39a&mc_eid=0e472ae39a
+[@Vanderweele2019]
+

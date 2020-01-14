@@ -20,22 +20,23 @@ edit: https://github.com/sharpmel/STROBECourse
 -	Report category boundaries when continuous variables were categorized
 -	If relevant, consider translating estimates of relative risk into absolute risk for a meaningful time period
 
-
-
-
 Nonspecific examples from QA:
-•	EULAR(A) Present both relative risks and absolute measures such as event rates per person-time, risk differences or numbers needed to treat/numbers needed to harm
-•	EULAR(B) Provide information on crude as well as all adjusted measures of the main effect as well as the intrinsic effects of key confounders
-•	EULAR(C) Present results per time period of follow-up, if applicable, so as to indicate any time dependence of the association between exposure and outcome
+-	EULAR(A) Present both relative risks and absolute measures such as event rates per person-time, risk differences or numbers needed to treat/numbers needed to harm
+
+-	EULAR(C) Present results per time period of follow-up, if applicable, so as to indicate any time dependence of the association between exposure and outcome
+
+-	ROSES-I 16.2: Report methods to standardize the results from the study sample to the target population
+
+-	SBR16 For assessments involving >1 rater, interrater reliability should be reported.
+
+- VET16 (a) Give unadjusted estimates and, if applicable, adjusted estimates and their precision (e.g, 95% conﬁdence interval). Make clear which confounders and interactions were adjusted. Report all relevant parameters that were part of the model
 •	STREGA16 (d) Report results of any adjustments for multiple comparisons.
-•	ROSES-I 16.2: Report methods to standardize the results from the study sample to the target population
-•	SBR16 For assessments involving >1 rater, interrater reliability should be reported.
 •	RDS16 (a) Give unadjusted and study design–adjusted estimates and, if applicable, confounder?adjusted estimates and their precision (e.g., 95% confidence intervals). Make clear which confounders were adjusted for and why they were included
 •	RDS16 (c) If adjustment of primary outcome leads to marked changes, report information on factors influencing the adjustments (e.g., personal network sizes, recruitment patterns by group, key confounders)
-•	VET16 (a) Give unadjusted estimates and, if applicable, adjusted estimates and their precision (e.g, 95% conﬁdence interval). Make clear which confounders and interactions were adjusted. Report all relevant parameters that were part of the model
+•	EULAR(B) Provide information on crude as well as all adjusted measures of the main effect as well as the intrinsic effects of key confounders
 
-**Explanation [@vandenbroucke2007]**</br>
-In many situations, authors may present the results of unadjusted or minimally adjusted analyses and those from fully adjusted analyses. We advise giving the unadjusted analyses together with the main data, for example the number of cases
+## Explanation and Elaboration [@vandenbroucke2007]
+> In many situations, authors may present the results of unadjusted or minimally adjusted analyses and those from fully adjusted analyses. We advise giving the unadjusted analyses together with the main data, for example the number of cases
 and controls that were exposed or not. This allows the reader to understand the data behind the measures of association (see also item 15). For adjusted analyses, report the number of persons in the analysis, as this number may differ because of missing values in covariates (see also item 12c). Estimates should be given with confidence intervals. Readers can compare unadjusted measures of association with those adjusted for potential confounders and judge by how much, and in what direction, they changed. 
 </br>
 Readers may think that ‘adjusted’ results equal the causal part of the measure of association, but adjusted results are
@@ -49,8 +50,7 @@ category boundaries; it is helpful also to report the range of the data and the 
 The results from studies examining the association between an exposure and a disease are commonly reported in
 relative terms, as ratios of risks, rates or odds (see box 8).
 </br>
-Relative measures capture the strength of the association between an exposure and disease. If the relative risk is a long way from 1 it is less likely that the association is due to confounding. 164,165 Relative effects or associations tend to be more consistent across studies and populations than absolute measures, but what often tends to be the case may be irrelevant in a particular instance. For example, similar relative risks were obtained for the classic cardiovascular risk factors for men living in Northern Ireland, France, the USA and Germany, despite the fact that the underlying risk of coronary heart disease varies substantially between these countries.166,167 In contrast, in a study of hypertension as a risk factor for cardiovascular disease mortality, the data were more compatible with a constant rate difference than with a constant rate ratio.168 Widely used statistical models, including logistic169 and proportional hazards (Cox) regression170 are based on ratio measures. In these models, only departures from constancy of ratio effect measures are easily discerned. Nevertheless, measures which assess departures from additivity of risk differences, such as the Relative Excess Risk from
-Interaction (RERI, see item 12b and box 8), can be estimated in models based on ratio measures. In many circumstances, the absolute risk associated with an exposure is of greater interest than the relative risk. For example, if the focus is on adverse effects of a drug, one will want to know the number of additional cases per unit time of use (eg, days, weeks, or years). The example gives the additional number of breast cancer cases per 1000 women who used hormone-replacement therapy for 10 years.163 Measures such as the attributable risk or population attributable fraction may be useful to gauge how much disease can be prevented if the exposure is eliminated. They should preferably be presented together with a measure of statistical uncertainty (eg, confidence intervals, as in the example). Authors should be aware of the strong assumptions made in this context, including a causal relationship between a risk factor and disease (also see box 7).171 Because of the semantic ambiguity and complexities involved, authors should report in detail what methods were used to calculate attributable risks, ideally giving the formulae used.172
+Relative measures capture the strength of the association between an exposure and disease. If the relative risk is a long way from 1 it is less likely that the association is due to confounding. 164,165 Relative effects or associations tend to be more consistent across studies and populations than absolute measures, but what often tends to be the case may be irrelevant in a particular instance. For example, similar relative risks were obtained for the classic cardiovascular risk factors for men living in Northern Ireland, France, the USA and Germany, despite the fact that the underlying risk of coronary heart disease varies substantially between these countries.166,167 In contrast, in a study of hypertension as a risk factor for cardiovascular disease mortality, the data were more compatible with a constant rate difference than with a constant rate ratio.168 Widely used statistical models, including logistic169 and proportional hazards (Cox) regression170 are based on ratio measures. In these models, only departures from constancy of ratio effect measures are easily discerned. Nevertheless, measures which assess departures from additivity of risk differences, such as the Relative Excess Risk from Interaction (RERI, see item 12b and box 8), can be estimated in models based on ratio measures. In many circumstances, the absolute risk associated with an exposure is of greater interest than the relative risk. For example, if the focus is on adverse effects of a drug, one will want to know the number of additional cases per unit time of use (eg, days, weeks, or years). The example gives the additional number of breast cancer cases per 1000 women who used hormone-replacement therapy for 10 years.163 Measures such as the attributable risk or population attributable fraction may be useful to gauge how much disease can be prevented if the exposure is eliminated. They should preferably be presented together with a measure of statistical uncertainty (eg, confidence intervals, as in the example). Authors should be aware of the strong assumptions made in this context, including a causal relationship between a risk factor and disease (also see box 7).171 Because of the semantic ambiguity and complexities involved, authors should report in detail what methods were used to calculate attributable risks, ideally giving the formulae used.172
 </br>
 A recent survey of abstracts of 222 articles published in leading medical journals found that in 62% of abstracts
 of randomized trials including a ratio measure absolute risks were given, but only in 21% of abstracts of cohort
@@ -58,12 +58,19 @@ studies.173 A free text search of Medline 1966 to 1997 showed that 619 items men
 title or abstract, compared to 18,955 using relative risk or odds ratio, for a ratio of 1 to 31.174
 
 <h2> Field-specific guidance:</h2>
-•	STROME-ID 16.1: consider showing molecular relatedness of strain types by means of a dendrogram or phylogenetic tree
-•	nut-16. Specify if nutrient intakes are reported with or without inclusion of dietary supplement intake, if applicable.
-•	STROBE-NI 16.1: for incidence, give risk per 1000 livebirths, or if alternative denominator used (eg, total births or bed days), deﬁne this clearly
-•	MARES16a-1 Present treatment success for each cohort and by gestational age.†
-•	MARES16a-2 Present continuing pregnancies for each cohort and by gestational age.†
-•	MARES16a-3 Present reasons for surgical intervention other than continuing pregnancy for each cohort and by gestational age.†
+**Infectious disease molecular epidemiology [@field2014]** 
+- Consider showing molecular relatedness of strain types by means of a dendrogram or phylogenetic tree
+
+**Medical abortion [@creinin2016]**
+- Present treatment success for each cohort and by gestational age
+- Present continuing pregnancies for each cohort and by gestational age
+- Present reasons for surgical intervention other than continuing pregnancy for each cohort and by gestational age
+
+**Neonatal infections [@fitchett2016]**
+- For incidence, give risk per 1000 livebirths, or if alternative denominator used (eg, total births or bed days), deﬁne this clearly
+
+**Nutritional data [@lachat2016]**
+- Specify if nutrient intakes are reported with or without inclusion of dietary supplement intake, if applicable.
 
 **Seroepidemiologic studies for influenza [@horby2017]**
 ROSES-I 16.1: Report unadjusted estimates of distribution of titers by age group

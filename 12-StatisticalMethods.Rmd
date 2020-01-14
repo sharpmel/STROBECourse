@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -25,60 +25,81 @@ edit: https://github.com/sharpmel/STROBECourse
 -	(e) Describe any sensitivity analyses
 
 **Some key items to consider adding:** 
--	ROSES-I 12.1: if relevant, state how the non-independence of data was managed  
+-	VET12 (a) Describe all statistical methods for each objective, at a level of detail suﬃcient for a knowledgeable reader to replicate the methods. Include a description of the approaches to variable selection, control of confounding, and methods used to control for non-independence of observations  
+-	RDS12 (a) Describe all statistical methods, including those to account for sampling strategy (e.g., the estimator used) and, if applicable, those used to control for confounding  
+
+
+-	ROSES-I 12.1: if relevant, state how the non-independence of data was managed 
+-	STROME-ID 12.1: state how the study took account of the non-independence of sample data, if appropriate 
+-	STREGA 12 (j) Describe any methods used to address and correct for relatedness among subjects  
+
 -	ME-12.1 Report on the validity and reliability of measurement of the biomarker(s) coming from the literature and any internal or external validation used in the study  
 -	ME-12 Describe how biomarkers were introduced into statistical models  
--	STROME-ID 12.1: state how the study took account of the non-independence of sample data, if appropriate  
+ 
 -	STROME-ID 12.2: state how the study dealt with missing data  
+
 -	EULAR(C) If the same association under study has previously been published, consider using a similar analysis model and deﬁnitions for replicative purposes  
--	RECORD 12.2: Authors should provide information on the data cleaning methods used in the study  
+
+-	RECORD 12.2: Authors should provide information on the data cleaning methods used in the study 
+
 -	RECORD 12.3: State whether the study included person level, institutional-level, or other data linkage across two or more databases. The methods of linkage and methods of linkage quality evaluation should be provided.  
 -	STREGA12 State software version used and options (or settings) chosen.  
+
 -	STREGA 12 (h) Describe any methods used to assess or address population stratification.  
+
 -	STREGA 12 (i) Describe any methods used to address multiple comparisons or to control risk of false positive findings.  
--	STREGA 12 (j) Describe any methods used to address and correct for relatedness among subjects  
+
 -	nut-12.1. Describe any statistical method used to combine dietary or nutritional data, if applicable.  
 -	nut-12.3. Report any adjustments for measurement error, i.e., from a validity or calibration study.  
--	SBR12 Clearly indicate the unit of analysis (e.g., individual, team, system), identify repeated measures on subjects, and describe how these issues were addressed.  
--	RDS12 (a) Describe all statistical methods, including those to account for sampling strategy (e.g., the estimator used) and, if applicable, those used to control for confounding  
--	RDS12 (b) State data analysis software, version number, and specific analysis settings used  
--	VET12 (a) Describe all statistical methods for each objective, at a level of detail suﬃcient for a knowledgeable reader to replicate the methods. Include a description of the approaches to variable selection, control of confounding, and methods used to control for non-independence of observations  
--	VET12 (b) Describe the rationale for examining subgroups and interactions and the methods used  
--	VET12 (d) If applicable, describe the analytical approach to loss to follow-up, matching, complex sampling, and multiplicity of analyses  
--	VET12 (e) Describe any methods used to assess the robustness of the analyses (e.g, sensitivity analyses or quantitative bias assessment)  
 
-**Explanation [@vandenbroucke2007]**
+-	SBR12 Clearly indicate the unit of analysis (e.g., individual, team, system), identify repeated measures on subjects, and describe how these issues were addressed.  
+
+-	RDS12 (b) State data analysis software, version number, and specific analysis settings used  
+
+-	VET12 (b) Describe the rationale for examining subgroups and interactions and the methods used  
+
+-	VET12 (d) If applicable, describe the analytical approach to loss to follow-up, matching, complex sampling, and multiplicity of analyses  
+
+-	VET12 (e) Describe any methods used to assess the robustness of the analyses (e.g, sensitivity analyses or quantitative bias assessment)
+
+## Explanation and Elaboration [@vandenbroucke2007]
 > In general, there is no one correct statistical analysis but, rather, several possibilities that may address the same question, but make different assumptions. Regardless, investigators should pre-determine analyses at least for the primary study objectives in a study protocol. Often additional analyses are needed, either instead of, or as well as, those originally envisaged, and these may sometimes be motivated by the data. When a study is reported, authors should tell readers whether particular analyses were suggested by data inspection. Even though the distinction between pre-specified and exploratory analyses may sometimes be blurred, authors should clarify reasons for particular analyses. If groups being compared are not similar with regard to some characteristics, adjustment should be made for possible confounding variables by stratification or by multivariable regression (see box 5).94 Often, the study design determines which type of regression analysis is chosen. For instance, Cox proportional hazard regression is commonly used in cohort studies,95 whereas logistic regression is often the method of choice in case-control studies.96,97 Analysts should fully describe specific procedures for variable selection and not only present results from the final model.98,99 If model comparisons are made to narrow down a list of potential confounders for inclusion in a final model, this process should be described. It is helpful to tell readers if one or two covariates are responsible for a great deal of the apparent confounding in a data analysis. Other statistical analyses such as imputation procedures, data transformation, and calculations of attributable risks should also be described. Nonstandard or novel approaches should be referenced and the statistical software used reported. As a guiding principle, we advise statistical methods be described “with enough detail to enable a knowledgeable reader with access to the original data to verify the reported results.”100 In an empirical study, only 93 of 169 articles (55%) reporting adjustment for confounding clearly stated how continuous and multi-category variables were entered into the statistical model.101 Another study found that among 67 articles in which statistical analyses were adjusted for confounders, it was mostly unclear how confounders were chosen.4 As discussed in detail under item 17, many debate the use and value of analyses restricted to subgroups of the study population.4,104 Subgroup analyses are nevertheless often done.4 Readers need to know which subgroup analyses were planned in advance, and which arose while analyzing the data. Also, it is important to explain what methods were used to examine whether effects or associations differed across groups (see item 17). Interaction relates to the situation when one factor modifies the effect of another (therefore also called ‘effect modification’). The joint action of two factors can be characterized in two ways: on an additive scale, in terms of risk differences; or on a multiplicative scale, in terms of relative risk (see box 8). Many authors and readers may have their own preference about the way interactions should be analyzed. Still, they may be interested to know to what extent the joint effect of exposures differs from the separate effects. There is consensus that the additive scale, which uses absolute risks, is more appropriate for public health and clinical decision making.105 Whatever view is taken, this should be clearly presented to the reader, as is done in the example above.103 A lay-out presenting separate effects of both exposures as well as their joint effect, each relative to no exposure, might be most informative. It is presented in the example for interaction under item 17, and the calculations on the different scales are explained in box 8. Missing data are common in observational research. Questionnaires posted to study participants are not always filled in completely, participants may not attend all follow-up visits and routine data sources and clinical databases are often incomplete. Despite its ubiquity and importance, few papers report in detail on the problem of missing data.5,107 Investigators may use any of several approaches to address missing data. We describe some strengths and limitations of various approaches in box 6. We advise that authors report the number of missing values for each variable of interest (exposures, outcomes, confounders) and for each step in the analysis. Authors should give reasons for missing values if possible, and indicate how many individuals were excluded because of missing data when describing the flow of participants through the study (see also item 13). For analyses that account for missing data, authors should describe the nature of the analysis (eg, multiple imputation) and the assumptions that were made (eg, missing at random, see box 6). Cohort studies are analyzed using life table methods or other approaches that are based on the person-time of follow- up and time to developing the disease of interest. Among individuals who remain free of the disease at the end of their observation period, the amount of follow-up time is assumed to be unrelated to the probability of developing the outcome. This will be the case if follow-up ends on a fixed date or at a particular age. Loss to follow-up occurs when participants withdraw from a study before that date. This may hamper the validity of a study if loss to follow-up occurs selectively in exposed individuals, or in persons at high risk of developing the disease ( informative censoring’). In the example above, patients lost to follow-up in treatment programs with no active follow-up had fewer CD4 helper cells than those remaining under observation and were therefore at higher risk of dying.116 It is important to distinguish persons who reach the end of the study from those lost to follow-up. Unfortunately, statistical software usually does not distinguish between the two situations: in both cases follow-up time is automatically truncated (‘censored’) at the end of the observation period. Investigators therefore need to decide, ideally at the stage of planning the study, how they will deal with loss to follow-up. When few patients are lost, investigators may either exclude individuals with incomplete follow-up, or treat them as if they withdrew alive at either the date of loss to follow-up or the end of the study. We advise authors to report how many patients were lost to follow-up and what censoring strategies they used. In individually matched case-control studies a crude analysis of the odds ratio, ignoring the matching, usually leads to an estimation that is biased towards unity (see box 2). A matched analysis is therefore often necessary. This can intuitively be understood as a stratified analysis: each case is seen as one stratum with his or her set of matched controls. The analysis rests on considering whether the case is more often exposed than the controls, despite having made them alike regarding the matching variables. Investigators can do such a stratified analysis using the Mantel-Haenszel method on a ‘matched’ 2 by 2 table. In its simplest form the odds ratio becomes the ratio of pairs that are discordant for the exposure variable. If matching was done for variables like age and sex that are universal attributes, the analysis needs not retain the individual, person-to-person matching: a simple analysis in categories of age and sex is sufficient.50 For other matching variables, such as neighborhood, sibship, or friendship, however, each matched set should be considered its own stratum. In individually matched studies, the most widely used method of analysis is conditional logistic regression, in which each case and their controls are considered together. The conditional method is necessary when the number of controls varies among cases, and when, in addition to the matching variables, other variables need to be adjusted for. To allow readers to judge whether the matched design was appropriately taken into account in the analysis, we recommend that authors describe in detail what statistical methods were used to analyse the data. If taking the matching into account does have little effect on the estimates, authors may choose to present an unmatched analysis. Most cross-sectional studies use a pre-specified sampling strategy to select participants from a source population. Sampling may be more complex than taking a simple random sample, however. It may include several stages and clustering of participants (eg, in districts or villages). Proportionate stratification may ensure that subgroups with a specific characteristic are correctly represented. Disproportionate stratification may be useful to over-sample a subgroup of particular interest. An estimate of association derived from a complex sample may be more or less precise than that derived from a simple random sample. Measures of precision such as standard error or confidence interval should be corrected using the design effect, a ratio measure that describes how much precision is gained or lost if a more complex sampling strategy is used instead of simple random sampling.119 Most complex sampling techniques lead to a decrease of precision, resulting in a design effect greater than 1. We advise that authors clearly state the method used to adjust for complex sampling strategies so that readers may understand how the chosen sampling method influenced the precision of the obtained estimates. For instance, with clustered sampling, the implicit trade-off between easier data collection and loss of precision is transparent if the design effect is reported. In the example, the calculated design effects of 1.9 for men indicates that the actual sample size would need to be 1.9 times greater than with simple random sampling for the resulting estimates to have equal precision. Sensitivity analyses are useful to investigate whether or not the main results are consistent with those obtained with alternative analysis strategies or assumptions.121 Issues that may be examined include the criteria for inclusion in analyses, the definitions of exposures or outcomes,122 which confounding variables merit adjustment, the handling of missing data,120,123 possible selection bias or bias from inaccurate or inconsistent measurement of exposure, disease and other variables, and specific analysis choices, such as the treatment of quantitative variables (see item 11). Sophisticated methods are increasingly used to simultaneously model the influence of several biases or assumptions.124–126 In 1959 Cornfield et al famously showed that a relative risk of 9 for cigarette smoking and lung cancer was extremely Epidemiology • Volume 18, Number 6, November 2007 STROBE Initiative © 2007 the authors 819 unlikely to be due to any conceivable confounder, since the confounder would need to be at least nine times as prevalent in smokers as in non-smokers.127 This analysis did not rule out the possibility that such a factor was present, but it did identify the prevalence such a factor would need to have. The same approach was recently used to identify plausible confounding factors that could explain the association between childhood leukemia and living near electric power lines.128 More generally, sensitivity analyses can be used to identify the degree of confounding, selection bias, or information bias required to distort an association. One important, perhaps under recognized, use of sensitivity analysis is when a study shows little or no association between an exposure and an outcome and it is plausible that confounding or other biases toward the null are present. 
 
 <h2> Field-specific guidance:</h2> 
--	EULAR12(A) Deﬁne and justify the risk window. Whenever possible, categorise as (1) on drug, (2) on drug + lag window or (3) ever treated  
--	EULAR12(B) The use of multiple risk attribution models and lag windows is encouraged if appropriate, but needs to be accompanied by a description of numbers and relative risks for each model  
+**Genetic association studies [@little2009]**
+-	State whether Hardy-Weinberg equilibrium was considered and, if so, how.
+-	Describe any methods used for inferring genotypes or haplotypes. </br> 
 
--	RECORD 12.1: Authors should describe the extent to which the investigators had access to the database population used to create the study population  
+**Nutritional data [@lachat2016]**
+-	Describe and justify the method for energy adjustments, intake modeling, and use of weighting factors, if applicable. </br>
 
--	STREGA12 (f) State whether Hardy-Weinberg equilibrium was considered and, if so, how.  
--	STREGA12 (g) Describe any methods used for inferring genotypes or haplotypes.  
+**Response-driven sampling [@white2015]**  
+-	Report any criteria used to support statements on whether estimator conditions or assumptions were appropriate  
+-	Explain how seeds were handled in analysis. </br>
 
--	nut-12.2. Describe and justify the method for energy adjustments, intake modeling, and use of weighting factors, if applicable.  
+**Rheumatology[@zavada2014]**
+-	Deﬁne and justify the risk window. Whenever possible, categorise as (1) on drug, (2) on drug + lag window or (3) ever treated  
+-	The use of multiple risk attribution models and lag windows is encouraged if appropriate, but needs to be accompanied by a description of numbers and relative risks for each model. </br>
+
+**Routinely collected health data [@benchimol2015]**
+-	Authors should describe the extent to which the investigators had access to the database population used to create the study population. </br>
+
 **Seroepidemiologic studies for influenza [@horby2017]**
--	RDS12 (f) Report any criteria used to support statements on whether estimator conditions or assumptions were appropriate  
--	RDS12 (g) Explain how seeds were handled in analysis  
+- If relevant, report methods used to account for the probability of seropositivity or seroconversion if infected, and to account for decay in antibody titers over time  
+-	Describe the sample type—serum or plasma. If plasma is used, specify the anticoagulant used (heparin, sodium citrate, EDTA, etc.)  
+-	Describe the specimen storage conditions (4°C, −20 °C, −80 °C). If frozen prior to the analysis, describe the time to freezing and the number of freeze/thaw cycles prior to testing  
+-	Specify the assay type (e.g., hemagglutination inhibition; virus neutralization/microneutralization; ELISA; other) and methods used to determine the endpoint titer  
+-	Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials  -	ROSES-I 12a.5: State what is known about the determinants of the variability of the antibody detection assay being used  
+-	Specify the antigen(s) used in the assay, including virus strain name, subtype, lineage or clade, with standardized nomenclature and reference; specify whether live virus or inactivated virus was used (where applicable)  
+-	Report if antigen(s) from potentially cross-reactive pathogens/strains were used in order to identify cross-reactivity, and specify which antigen was used, including virus name, subtype, strain, lineage and clade, with standardized nomenclature and reference  
+-	If red blood cells were used for a hemagglutinin inhibition assay, specify the animal species from which they were obtained and concentration (v/v) used  
+-	Describe positive and negative controls used  
+-	Describe starting and end dilutions  
+-	Specify laboratory biosafety conditions  
+-	Specify whether replication was performed, and if so, the acceptable replication parameters  
+-	Specify whether a confirmatory assay was performed and all specifics of this assay, at the same level of detail  
+-	Specify international standards used, if appropriate  
 
--	ROSES-I 12.2: if relevant, report methods used to account for the probability of seropositivity or seroconversion if infected, and to account for decay in antibody titers over time  
--	ROSES-I 12a.1: Describe the sample type—serum or plasma. If plasma is used, specify the anticoagulant used (heparin, sodium citrate, EDTA, etc.)  
--	ROSES-I 12a.2: Describe the specimen storage conditions (4°C, −20 °C, −80 °C). If frozen prior to the analysis, describe the time to freezing and the number of freeze/thaw cycles prior to testing  
--	ROSES-I 12a.3: Specify the assay type (e.g., hemagglutination inhibition; virus neutralization/microneutralization; ELISA; other) and methods used to determine the endpoint titer  
--	ROSES-I 12a.4: Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials  -	ROSES-I 12a.5: State what is known about the determinants of the variability of the antibody detection assay being used  
--	ROSES-I 12a.6: Specify the antigen(s) used in the assay, including virus strain name, subtype, lineage or clade, with standardized nomenclature and reference; specify whether live virus or inactivated virus was used (where applicable)  
--	ROSES-I 12a.7: Report if antigen(s) from potentially cross-reactive pathogens/strains were used in order to identify cross-reactivity, and specify which antigen was used, including virus name, subtype, strain, lineage and clade, with standardized nomenclature and reference  
--	ROSES-I 12a.8: If red blood cells were used for a hemagglutinin inhibition assay, specify the animal species from which they were obtained and concentration (v/v) used  
--	ROSES-I 12a.9: Describe positive and negative controls used  
--	ROSES-I 12a.10: Describe starting and end dilutions  
--	ROSES-I 12a.11: Specify laboratory biosafety conditions  
--	ROSES-I 12a.12: Specify whether replication was performed, and if so, the acceptable replication parameters  
--	ROSES-I 12a.13: Specify whether a confirmatory assay was performed and all specifics of this assay, at the same level of detail  
--	ROSES-I 12a.14: Specify international standards used, if appropriate  
-
-Relevant resources: 
-van smede 2019 https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyz251/5671729?guestAccessKey=561d355c-6d73-4a80-8e9f-5e6155afce87
+## Additional Resources {-}
+van smeden 2019 https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyz251/5671729?guestAccessKey=561d355c-6d73-4a80-8e9f-5e6155afce87
 Reflection on modern methods: five myths about measurement error in epidemiological research

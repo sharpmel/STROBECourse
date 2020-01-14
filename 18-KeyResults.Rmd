@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated..csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -18,11 +18,8 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report: 
 -	Summarize key results with reference to study objectives
 
-
-It is good practice to begin the discussion with a short summary of  main findings of the study. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications offered by the authors are supported by the findings. 
-
-Explanation
-It is good practice to begin the discussion with a short summary of the main findings of the study. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications offered by the authors are supported by the findings.
+## Explanation and Elaboration [@vandenbroucke2007]
+> It is good practice to begin the discussion with a short summary of the main findings of the study. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications offered by the authors are supported by the findings.</br>
 
 Example
 “We hypothesized that ethnic minority status would be associated with higher levels of cardiovascular disease (CVD) risk factors, but that the associations would be explained substantially by socioeconomic status (SES). Our hypothesis was

@@ -8,8 +8,8 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
-bibliography: zoterolibrary.bib
-csl: vancouver.csl
+bibliography: bibliography.bib
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -31,20 +31,33 @@ Although this is the first item in the checklist, some people find that it is th
 - The main results (e.g., "found high rates of x", " )  
 </br>
 
-## Explanation and Elaboration 
-> Readers should be able to easily identify the design that was used from the title or abstract. An explicit, commonly used term for the study design also helps ensure correct indexing of articles in electronic databases.[@benson2000]
-</br>
+## Explanation and Elaboration 1a
+> Readers should be able to easily identify the design that was used from the title or abstract. An explicit, commonly used term for the study design also helps ensure correct indexing of articles in electronic databases.[@benson2000]</br>
 
 **Examples of Good Reporting**   
-- "Leukemia incidence among workers in the shoe and boot manufacturing industry: a case-control study" [@vandenbroucke2007; @Forand2004]  
-- “The consumption of sugar-sweetened beverages was derived from 7 repeated FFQs administered between 1980 and 2002” [@hornell2017; @fung2009]
-</br>
+- "Leukemia incidence among workers in the shoe and boot manufacturing industry: a case-control study" [@vandenbroucke2007; @Forand2004]</br>  
+- “The consumption of sugar-sweetened beverages was derived from 7 repeated FFQs administered between 1980 and 2002” [@hornell2017; @fung2009]</br>
 
 **Example structures**  
-- "*Key finding/exposures*" among/in "*sample/population*" during "*time period of study/data collection*" : "*study design*"  
-- "*Study design*" investigating "*exposures*" among "*sample/population*" during "*time period of study/data collection*" found "*key findings*"    
+- "*Key finding/exposures*" among/in "*sample/population*" during "*time period of study/data collection*" : "*study design*"</br>  
+- "*Study design*" investigating "*exposures*" among "*sample/population*" during "*time period of study/data collection*" found "*key findings*"</br>
 </br>
+
+## Explanation and Elaboration 1b
+> The abstract provides key information that enables readers to understand a study and decide whether to read the article. Typical components include a statement of the research question, a short description of methods and results, and a conclusion [22]. Abstracts should summarize key details of studies and should only present information that is provided in the article. We advise presenting key results in a numerical form that includes numbers of participants, estimates of associations and appropriate measures of variability and uncertainty (e.g., odds ratios with confidence intervals). We regard it insufficient to state only that an exposure is or is not significantly associated with an outcome.</br>
+A series of headings pertaining to the background, design, conduct, and analysis of a study may help readers acquire the essential information rapidly [23]. Many journals require such structured abstracts, which tend to be of higher quality and more readily informative than unstructured summaries [24,25].
 </br>
+
+**Examples of Good Reporting**  
+“Background: The expected survival of HIV-infected patients is of major public health interest.</br>
+Objective: To estimate survival time and age-specific mortality rates of an HIV-infected population compared with that of the general population.</br>
+Design: Population-based cohort study.</br>
+Setting: All HIV-infected persons receiving care in Denmark from 1995 to 2005.</br>
+Patients: Each member of the nationwide Danish HIV Cohort Study was matched with as many as 99 persons from the general population according to sex, date of birth, and municipality of residence.</br>
+Measurements: The authors computed Kaplan–Meier life tables with age as the time scale to estimate survival from age 25 years. Patients with HIV infection and corresponding persons from the general population were observed from the date of the patient's HIV diagnosis until death, emigration, or 1 May 2005.</br>
+Results: 3990 HIV-infected patients and 379 872 persons from the general population were included in the study, yielding 22 744 (median, 5.8 y/person) and 2 689 287 (median, 8.4 years/person) person-years of observation. Three percent of participants were lost to follow-up. From age 25 years, the median survival was 19.9 years (95% CI, 18.5 to 21.3) among patients with HIV infection and 51.1 years (CI, 50.9 to 51.5) among the general population. For HIV-infected patients, survival increased to 32.5 years (CI, 29.4 to 34.7) during the 2000 to 2005 period. In the subgroup that excluded persons with known hepatitis C coinfection (16%), median survival was 38.9 years (CI, 35.4 to 40.1) during this same period. The relative mortality rates for patients with HIV infection compared with those for the general population decreased with increasing age, whereas the excess mortality rate increased with increasing age.</br>
+Limitations: The observed mortality rates are assumed to apply beyond the current maximum observation time of 10 years.</br>
+Conclusions: The estimated median survival is more than 35 years for a young person diagnosed with HIV infection in the late highly active antiretroviral therapy era. However, an ongoing effort is still needed to further reduce mortality rates for these persons compared with the general population” [21].</br>
 
 <h2> Field-specific guidance:</h2>
 **Infectious disease molecular epidemiology [@field2014]**   

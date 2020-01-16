@@ -18,43 +18,52 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:   
 - Present key elements of study design early in the paper
 
-**Some key items to consider adding:** 
+</br></br>
+The Methods section should describe what was planned and what was done in sufficient detail to allow others to understand the essential aspects of the study, to judge whether the methods were adequate to provide reliable and valid answers, and to assess whether any deviations from the original plan were reasonable.[@vandenbroucke2007]
+
+</br>
+**Some key items to consider adding:**</br>
 - The reason why the specific sampling method was chosen
 </br> 
 
 ## Explanation and Elaboration
-> We advise presenting key elements of study design early in the methods section (or at the end of the introduction) so that readers can understand the basics of the study. For example, authors should indicate that the study was a cohort study, which followed people over a particular time period, and describe the group of persons that comprised the cohort and their exposure status. Similarly, if the investigation used a case-control design, the cases and controls and their source population should be described. If the study was a cross-sectional survey, the population and the point in time at which the cross-section was taken should be mentioned.</br> 
-
-When a study is a variant of the three main study types, there is an additional need for clarity. For instance, for a casecrossover study, one of the variants of the case-control design, a succinct description of the principles was given in the example above.28
+> We advise presenting key elements of study design early in the methods section (or at the end of the introduction) so that readers can understand the basics of the study. For example, authors should indicate that the study was a cohort study, which followed people over a particular time period, and describe the group of persons that comprised the cohort and their exposure status. Similarly, if the investigation used a case-control design, the cases and controls and their source population should be described. If the study was a cross-sectional survey, the population and the point in time at which the cross-section was taken should be mentioned.
+</br> 
+When a study is a variant of the three main study types, there is an additional need for clarity. For instance, for a casecrossover study, one of the variants of the case-control design, a succinct description of the principles was given in the example above.[@mcevoy2005]
 </br>
-We recommend that authors refrain from simply calling a study ‘prospective’ or ‘retrospective’ because these terms are ill defined.29 One usage sees cohort and prospective as synonymous and reserves the word retrospective for case-control studies.30 A second usage distinguishes prospective and retrospective cohort studies according to the timing of data collection relative to when the idea for the study was developed.31 A third usage distinguishes prospective and retrospective case-control studies depending on whether the data about the exposure of interest existed when cases were selected.32 Some advise against using these terms,33 or adopting the alternatives ‘concurrent’ and ‘historical’ for describing cohort studies.34 In STROBE, we do not use the words prospective and retrospective, nor alternatives such as concurrent and historical. We recommend that, whenever authors use these words, they define what they mean. Most importantly, we recommend that authors describe exactly how and when data collection took place.
+We recommend that authors refrain from simply calling a study ‘prospective’ or ‘retrospective’ because these terms are ill defined. [@vandenbroucke2007] One usage sees cohort and prospective as synonymous and reserves the word retrospective for case-control studies.[@last2000] A second usage distinguishes prospective and retrospective cohort studies according to the timing of data collection relative to when the idea for the study was developed.31 A third usage distinguishes prospective and retrospective case-control studies depending on whether the data about the exposure of interest existed when cases were selected.[@rothman1998] Some advise against using these terms,[@macmahon1996] or adopting the alternatives ‘concurrent’ and ‘historical’ for describing cohort studies.[@lilienfeld1976] In STROBE, we do not use the words prospective and retrospective, nor alternatives such as concurrent and historical. We recommend that, whenever authors use these words, they define what they mean. Most importantly, we recommend that authors describe exactly how and when data collection took place.
 </br> 
-The first part of the methods section might also be the place to mention whether the report is one of several from a study. If a new report is in line with the original aims of the study, this is usually indicated by referring to an earlier publication and by briefly restating the salient features of the study. However, the aims of a study may also evolve over time. Researchers often use data for purposes for which they were not originally intended, including, for example, official vital statistics that were collected primarily for administrative purposes, items in questionnaires that originally were only included for completeness, or blood samples that were collected for another purpose. For example, the Physicians’ Health Study, a randomized controlled trial of aspirin and carotene, was later used to demonstrate that a point mutation in the factor V gene was associated with an increased risk of venous thrombosis but not of myocardial infarction or stroke.35 The secondary use of existing data is a creative part of observational research and does not necessarily make results less credible or less important. However, briefly restating the original aims might help readers understand the context of the research and possible limitations in the data.
-</br> 
+The first part of the methods section might also be the place to mention whether the report is one of several from a study. If a new report is in line with the original aims of the study, this is usually indicated by referring to an earlier publication and by briefly restating the salient features of the study. However, the aims of a study may also evolve over time. Researchers often use data for purposes for which they were not originally intended, including, for example, official vital statistics that were collected primarily for administrative purposes, items in questionnaires that originally were only included for completeness, or blood samples that were collected for another purpose. For example, the Physicians’ Health Study, a randomized controlled trial of aspirin and carotene, was later used to demonstrate that a point mutation in the factor V gene was associated with an increased risk of venous thrombosis but not of myocardial infarction or stroke.[@ridker1995] The secondary use of existing data is a creative part of observational research and does not necessarily make results less credible or less important. However, briefly restating the original aims might help readers understand the context of the research and possible limitations in the data.
+
+</br></br>
+**Examples of Good Reporting**</br> 
+“We used a case-crossover design, a variation of a case-control design that is appropriate when a brief exposure (driver's phone use) causes a transient rise in the risk of a rare outcome (a crash). We compared a driver's use of a mobile phone at the estimated time of a crash with the same driver's use during another suitable time period. Because drivers are their own controls, the design controls for characteristics of the driver that may affect the risk of a crash but do not change over a short period of time. As it is important that risks during control periods and crash trips are similar, we compared phone activity during the hazard interval (time immediately before the crash) with phone activity during control intervals (equivalent times during which participants were driving but did not crash) in the previous week” [@mcevoy2005].
+</br></br>  
 
 <h2>Field-specific guidance</h2>
-**Molecular epidemiology [@gallo2012]** 
-- Describe the special study designs for molecular epidemiology (in particular, nested case ⁄control and case ⁄cohort) and how they were implemented
-- Report on the setting of the biological sample collection; amount of sample; nature of collecting procedures; participant conditions; time between sample collection and relevant clinical or physiological endpoints
-- Report the half-life of the biomarker and chemical and physical characteristics (e.g. solubility)
-- Describe sample processing (centrifugation, timing, additives, etc.)
-- Describe sample storage until biomarker analysis (storage, thawing, manipulation, etc.)
+**Molecular epidemiology [@gallo2012]**  
+- Describe the special study designs for molecular epidemiology (in particular, nested case ⁄control and case ⁄cohort) and how they were implemented  
+- Report on the setting of the biological sample collection; amount of sample; nature of collecting procedures; participant conditions; time between sample collection and relevant clinical or physiological endpoints  
+- Report the half-life of the biomarker and chemical and physical characteristics (e.g. solubility)  
+- Describe sample processing (centrifugation, timing, additives, etc.)  
+- Describe sample storage until biomarker analysis (storage, thawing, manipulation, etc.)</br>
 
-**Infectious disease molecular epidemiology [@field2014]**
-- Deﬁne or cite deﬁnitions for key molecular terms used within the study (eg, strain, isolate, and clone)
-- Clearly deﬁne the molecular markers that were used with a standard nomenclature
-- Clearly state the infectious-disease case deﬁnitions
-- Describe sample collection and laboratory methods, including any methods used to minimise and measure cross-contamination, and give the criteria used to interpret strain classiﬁcation
+**Infectious disease molecular epidemiology [@field2014]**  
+- Deﬁne or cite deﬁnitions for key molecular terms used within the study (eg, strain, isolate, and clone)  
+- Clearly deﬁne the molecular markers that were used with a standard nomenclature  
+- Clearly state the infectious-disease case deﬁnitions  
+- Describe sample collection and laboratory methods, including any methods used to minimise and measure cross-contamination, and give the criteria used to interpret strain classiﬁcation</br>
 
-**Seroepidemiologic studies for influenza [@horby2017]**
-- State which specific seroepidemiologic study design was chosen and why (see Table 1)
+**Seroepidemiologic studies for influenza [@horby2017]**  
+- State which specific seroepidemiologic study design was chosen and why (see Table 1)</br>
 
-**Neonatal infections [@fitchett2016]**
-- Clearly state case ascertainment methods (eg, physician diagnosis, clinical algorithm), documenting individual clinical signs used for diagnosis of possible serious bacterial infection. Give microbiological and/or laboratory and/or radiological criteria for other infectious syndromes (eg, meningitis, sepsis, pneumonia). Include indications for clinical investigations (eg, lumbar puncture)
-- Give criteria used to diﬀ erentiate between new infection episodes and relapses
-- For facility-based studies, indicate if the study is of community and/ or hospital-acquired infections (HAI), deﬁ ning HAI using an international standard and presenting speciﬁ c HAI clinical syndromes separately
-- State whether this is an outbreak study, and if so deﬁne an outbreak, with reference to an international standard
-- Describe sampling strategy (eg, clinical indication vs routine surveillance) and sampling details (eg, minimum volumes; timing in relation to antimicrobial administration
-- Describe conventional and/or molecular microbiological methods used, with details (eg, automation, enrichment steps), and the use of controls
-- List pathogens that are likely to be identiﬁ ed by microbiological methods used
+**Neonatal infections [@fitchett2016]**  
+- Clearly state case ascertainment methods (eg, physician diagnosis, clinical algorithm), documenting individual clinical signs used for diagnosis of possible serious bacterial infection. Give microbiological and/or laboratory and/or radiological criteria for other infectious syndromes (eg, meningitis, sepsis, pneumonia). Include indications for clinical investigations (eg, lumbar puncture)  
+- Give criteria used to diﬀ erentiate between new infection episodes and relapses  
+- For facility-based studies, indicate if the study is of community and/ or hospital-acquired infections (HAI), deﬁning HAI using an international standard and presenting speciﬁc HAI clinical syndromes separately  
+- State whether this is an outbreak study, and if so deﬁne an outbreak, with reference to an international standard  
+- Describe sampling strategy (eg, clinical indication vs routine surveillance) and sampling details (eg, minimum volumes; timing in relation to antimicrobial administration  
+- Describe conventional and/or molecular microbiological methods used, with details (eg, automation, enrichment steps), and the use of controls  
+- List pathogens that are likely to be identiﬁ ed by microbiological methods used  
 - Describe antimicrobial susceptibility tests and thresholds used, with reference to an international standard (eg, CLSI or EUCAST)
+</br></br>

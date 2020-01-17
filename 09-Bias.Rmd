@@ -31,7 +31,12 @@ Consequently, the authors provide more detail about the additional data they col
 Unfortunately, authors often do not address important biases when reporting their results. Among 43 case-control
 and cohort studies published from 1990 to 1994 that investigated the risk of second cancers in patients with a history of cancer, medical surveillance bias was mentioned in only 5 articles.66 A survey of reports of mental health research published during 1998 in 3 psychiatric journals found that only 13% of 392 articles mentioned response bias.67 A survey of cohort studies in stroke research found that 14 of 49 (28%) articles published from 1999 to 2003 addressed potential selection bias in the recruitment of study participants and 35 (71%) mentioned the possibility that any type of bias may have affected results.5
 
+**Examples of Good Reporting**</br>
+</br></br>
+
 **Useful Resources - Bias**
+boffetta
+
 
 <h2> Field-specific guidance:</h2>
 **Seroepidemiologic studies for influenza [@horby2017]**

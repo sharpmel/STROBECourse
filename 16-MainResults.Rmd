@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
@@ -20,20 +20,17 @@ edit: https://github.com/sharpmel/STROBECourse
 -	Report category boundaries when continuous variables were categorized
 -	If relevant, consider translating estimates of relative risk into absolute risk for a meaningful time period
 
-Nonspecific examples from QA:
--	EULAR(A) Present both relative risks and absolute measures such as event rates per person-time, risk differences or numbers needed to treat/numbers needed to harm
-
--	EULAR(C) Present results per time period of follow-up, if applicable, so as to indicate any time dependence of the association between exposure and outcome
-
--	ROSES-I 16.2: Report methods to standardize the results from the study sample to the target population
-
--	SBR16 For assessments involving >1 rater, interrater reliability should be reported.
+**Some key items to consider adding:**</br>
+-	 Present both relative risks and absolute measures such as event rates per person-time, risk differences or numbers needed to treat/numbers needed to harm
+-	Present results per time period of follow-up, if applicable, so as to indicate any time dependence of the association between exposure and outcome
+-	Report methods to standardize the results from the study sample to the target population
+-	For assessments involving >1 rater, interrater reliability should be reported.
 
 - VET16 (a) Give unadjusted estimates and, if applicable, adjusted estimates and their precision (e.g, 95% conﬁdence interval). Make clear which confounders and interactions were adjusted. Report all relevant parameters that were part of the model
-•	STREGA16 (d) Report results of any adjustments for multiple comparisons.
-•	RDS16 (a) Give unadjusted and study design–adjusted estimates and, if applicable, confounder?adjusted estimates and their precision (e.g., 95% confidence intervals). Make clear which confounders were adjusted for and why they were included
-•	RDS16 (c) If adjustment of primary outcome leads to marked changes, report information on factors influencing the adjustments (e.g., personal network sizes, recruitment patterns by group, key confounders)
-•	EULAR(B) Provide information on crude as well as all adjusted measures of the main effect as well as the intrinsic effects of key confounders
+-	STREGA16 (d) Report results of any adjustments for multiple comparisons.
+- Make clear which confounders were adjusted for and why they were included
+- RDS16 (c) If adjustment of primary outcome leads to marked changes, report information on factors influencing the adjustments (e.g., personal network sizes, recruitment patterns by group, key confounders)
+- EULAR(B) Provide information on crude as well as all adjusted measures of the main effect as well as the intrinsic effects of key confounders
 
 ## Explanation and Elaboration [@vandenbroucke2007]
 > In many situations, authors may present the results of unadjusted or minimally adjusted analyses and those from fully adjusted analyses. We advise giving the unadjusted analyses together with the main data, for example the number of cases

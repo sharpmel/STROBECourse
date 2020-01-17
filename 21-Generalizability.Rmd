@@ -18,9 +18,8 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report: 
 -	Discuss the generalizability (external validity) of the study results
 
-## Explanation and Elaboration [@vandenbroucke2007]
-> Explanation
-Generalizability, also called external validity or applicability, is the extent to which the results of a study can
+## Explanation and Elaboration</br>
+> Generalizability, also called external validity or applicability, is the extent to which the results of a study can
 be applied to other circumstances.216 There is no external validity per se; the term is meaningful only with regard to
 clearly specified conditions.217 Can results be applied toan
 individual, groups or populations that differ from those enrolled in the study with regard to age, sex, ethnicity,
@@ -39,10 +38,11 @@ from the estimation procedure. Our database included patients from many countrie
 were included, and the major exposure categories were well represented. The severity of immunodeficiency at baseline
 ranged from not measureable to very severe, and viral load
 from undetectable to extremely high.”215
+</br></br>
 
 <h2> Field-specific guidance:</h2>
-**Anti-microbial stewardship programs [@tacconelli2016]**
+**Anti-microbial stewardship programs [@tacconelli2016]**</br>
 - Discuss study setting, type of hospital, local epidemiology for the generalisability
 
-*Simulation-based research [@cheng2016]**
+**Simulation-based research [@cheng2016]**</br>
 - Describe generalizability of simulation-based outcomes to patient-based outcomes (if applicable).

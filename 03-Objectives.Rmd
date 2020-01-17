@@ -15,7 +15,7 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Intro: Objectives (3)
-> The items from STROBE state that you should report:  
+> The item from STROBE states that you should report:  
 - State specific objectives, including any prespecified hypotheses
 
 </br></br>

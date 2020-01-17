@@ -39,6 +39,9 @@ Sensitivity analyses are helpful to investigate the influence of choices made in
 </br>
 Pocock and colleagues found that 43 out of 73 articles reporting observational studies contained subgroup analyses. The majority claimed differences across groups but only eight articles reported a formal evaluation of interaction (see item 12b).4
 
+**Examples of Good Reporting**</br>
+</br></br>
+
 <h2> Field-specific guidance:</h2>
 **Anti-microbial stewardship programs [@tacconelli2016]**
 - Report subgroup analysis by type of patients and type of microorganism, if applicable </br>

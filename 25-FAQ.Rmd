@@ -18,7 +18,7 @@ edit: https://github.com/sharpmel/STROBECourse
 <h2> How can I contribute? </h2>   
 There are three main ways that you can contribute.  
 
-  1. If you know RMarkdown and GitHub you can contribute directly via GitHub pull requests. Basically, navigate to the Rmd file that you want to change, edit the content, and submit the changes for approval. The repository owner  [Melissa Sharp](http://melissaksharp.wordpress.com) will choose to integrate your comments by merging the changes into a new version.  
+  1. If you know RMarkdown and GitHub you can contribute directly via GitHub pull requests. Basically, navigate to the Rmd file that you want to change, edit the content, and submit the changes for approval. The repository owner, [Melissa Sharp](http://melissaksharp.wordpress.com), will choose to integrate your comments by merging the changes into a new version.  
   2. Each page should also be set up with a Disqus comment section where you can share any comments, concerns, or questions. If you don't have a Disqus account already, you may need to make one prior to commenting. 
   
   3. Lastly,  the main author is reachable via [e-mail](mailto:melissaksharp@gmail.com) or [Twitter](https://twitter.com/sharpmelk). When contact is made via these mechanisms it will be reported as such in the documentation. 

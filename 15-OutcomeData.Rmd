@@ -20,17 +20,20 @@ edit: https://github.com/sharpmel/STROBECourse
 - Case-control study Report numbers in each exposure category, or summary measures of exposure
 - Cross-sectional study Report numbers of outcome events or summary measures
 
-Nonspecific examples from QA:
-- EULAR Consider the use of a tabular or graphical presentation (Kaplan–Meier, cumulative incidence plot) of the outcome over time for the exposed and comparison cohort
-- VET15 (a) Report outcomes as appropriate for the study design and summarize at all relevant levels of organization
-- VET15 (b) For proportions and rates, report the numerator and denominator
-- VET15 (c) For continuous outcomes, report the number of observations and a measure of variability
+**Some key items to consider adding:**</br>
+- Consider the use of a tabular or graphical presentation (Kaplan–Meier, cumulative incidence plot) of the outcome over time for the exposed and comparison cohort
+- Report outcomes as appropriate for the study design and summarize at all relevant levels of organization
+- For proportions and rates, report the numerator and denominator
+- For continuous outcomes, report the number of observations and a measure of variability
 
 ## Explanation and Elaboration [@vandenbroucke2007]
-Before addressing the possible association between exposures (risk factors) and outcomes, authors should report relevant descriptive data. It may be possible and meaningful to present measures of association in the same table that presents the descriptive data (see item 14a). In a cohort study with events as outcomes, report the numbers of events for each outcome of interest. Consider reporting the event rate per person-year of follow-up. If the risk of an event changes over follow-up time, present the numbers and rates of events in appropriate intervals of follow-up or as a Kaplan-Meier life table or plot. It might be preferable to show plots as cumulative incidence that go up from 0% rather than down from 100%, especially if the event rate is lower than, say, 30%.153 Consider presenting such information separately for participants in different exposure categories of interest. If a cohort study is investigating other time-related outcomes (eg, quantitative disease markers such as blood pressure), present appropriate summary measures (eg, means and standard deviations) over time, perhaps in a table or figure.
+> Before addressing the possible association between exposures (risk factors) and outcomes, authors should report relevant descriptive data. It may be possible and meaningful to present measures of association in the same table that presents the descriptive data (see item 14a). In a cohort study with events as outcomes, report the numbers of events for each outcome of interest. Consider reporting the event rate per person-year of follow-up. If the risk of an event changes over follow-up time, present the numbers and rates of events in appropriate intervals of follow-up or as a Kaplan-Meier life table or plot. It might be preferable to show plots as cumulative incidence that go up from 0% rather than down from 100%, especially if the event rate is lower than, say, 30%.153 Consider presenting such information separately for participants in different exposure categories of interest. If a cohort study is investigating other time-related outcomes (eg, quantitative disease markers such as blood pressure), present appropriate summary measures (eg, means and standard deviations) over time, perhaps in a table or figure.
 </br>
 For cross-sectional studies, we recommend presenting the same type of information on prevalent outcome events or summary
 measures. For case-control studies, the focus will be on reporting exposures separately for cases and controls as frequencies or quantitative summaries.154 For all designs, it may be helpful also to tabulate continuous outcomes or exposures in categories, even if the data are not analyzed as such.
+
+**Examples of Good Reporting**</br>
+</br></br>
 
 <h2> Field-specific guidance:</h2>
 **Genetic association studies [@little2009]**

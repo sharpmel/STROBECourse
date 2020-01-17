@@ -8,7 +8,7 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
-bibliography: zoterolibrary.bib
+bibliography: bibliography.bib
 csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
@@ -27,7 +27,7 @@ Nonspecific examples from QA:
 -	RDS14 Report unweighted sample size and percentages, estimated population proportions or means with estimated precision (e.g., 95% confidence interval)  
 -	VET14 (c) Summarize follow-up time (e.g, average and total amount), if appropriate to the study design  
 
-## Explanation and Elaboration [@vandenbroucke2007]
+## Explanation and Elaboration
 > Readers need descriptions of study participants and their exposures to judge the generalizability of the findings. Information about potential confounders, including whether and how they were measured, influences judgments about study validity. We advise authors to summarize continuous variables for each study group by giving the mean and standard deviation, or when the data have an asymmetrical distribution, as is often the case, the median and percentile range (eg, 25th and 75th percentiles). Variables that make up a small number of ordered categories (such as stages of disease I to IV) should not be presented as continuous variables; it is preferable to give numbers and proportions for each category (see also box 4). In studies that compare groups, the descriptive characteristics and numbers should be given by group, as in the example above.
 </br>
 Inferential measures such as standard errors and confidence intervals should not be used to describe the variability of characteristics, and significance tests should be avoided in descriptive tables. Also, P values are not an appropriate criterion for selecting which confounders to adjust for in analysis; even small differences in a confounder that has a strong effect on the outcome can be important.144,145
@@ -38,6 +38,8 @@ In case-control studies potential confounders cannot be judged by comparing case
 </br>
 As missing data may bias or affect generalizability of results, authors should tell readers amounts of missing data for exposures, potential confounders, and other important characteristics of patients (see also item 12c and box 6). In a cohort study, authors should report the extent of loss to follow-up (with reasons), since incomplete follow-up may bias findings (see also items 12d and 13).148 We advise authors to use their tables and figures to enumerate amounts of missing data. Readers need to know the duration and extent of follow- up for the available outcome data. Authors can present a summary of the average follow-up with either the mean or median follow-up time or both. The mean allows a reader to calculate the total number of person-years by multiplying it with the number of study participants. Authors also may present minimum and maximum times or percentiles of the distribution to show readers the spread of follow-up times. They may report total person-years of follow-up or some indication of the proportion of potential data that was captured. 148 All such information may be presented separately for participants in two or more exposure categories. Almost half of 132 articles in cancer journals (mostly cohort studies) did not give any summary of length of follow-up.37
 
+**Examples of Good Reporting**</br>
+</br></br>
 
 <h2> Field-specific guidance:</h2>
 **Anti-microbial stewardship programs [@tacconelli2016]**

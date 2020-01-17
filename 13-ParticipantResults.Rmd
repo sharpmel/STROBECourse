@@ -15,19 +15,24 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Results: Participants (13)
-> The items from STROBE state that you should report: 
--	Report the numbers of individuals at each stage of the study e.g., numbers potentially eligible, examined for eligibility, confirmed eligible, included in the study, completing follow up, and analyzed
--	Give reasons for nonparticipation at each stage
--	Consider use of a flow diagram
+> The items from STROBE state that you should report: </br>
+-	Report the numbers of individuals at each stage of the study e.g., numbers potentially eligible, examined for eligibility, confirmed eligible, included in the study, completing follow up, and analyzed</br>
+-	Give reasons for nonparticipation at each stage</br>
+-	Consider use of a flow diagram</br>
 
-Nonspecific examples from QA:
-- ME-13 Give reason for loss of biological samples at each stage   
-- nut-13. Report the number of individuals excluded based on missing, incomplete, or implausible dietary/nutritional data.  
-- RDS(g) Consider reporting estimated design effect for outcomes of interest  
-- 13 (c) Consider use of a ﬂow diagram, a diagram of the organizational structure or both  
+</br></br>
+The Results section should give a factual account of what was found, from the recruitment of study participants, the description of the study population to the main results and ancillary analyses. It should be free of interpretations and discursive text reflecting the authors' views and opinions.
+</br></br>
 
-## Explanation and Elaboration [@vandenbroucke2007]
-Detailed information on the process of recruiting study participants is important for several reasons. Those included
+**Some key items to consider adding:** </br>
+- The reasons for loss of data and/or participants at each stage</br>
+- The number of individuals excluded based on missing, incomplete, or implausible data</br>
+- The estimated design effect for outcomes of interest</br>
+- The use of an organizational structure diagram if you have dealing with related or matched participants (e.g., families, cases and controls)</br>
+
+</br></br>
+## Explanation and Elaboration 
+> Detailed information on the process of recruiting study participants is important for several reasons. Those included
 in a study often differ in relevant ways from the target population to which results are applied. This may result in
 estimates of prevalence or incidence that do not reflect the experience of the target population. For example, people who agreed to participate in a postal survey of sexual behaviour attended church less often, had less conservative sexual attitudes and earlier age at first sexual intercourse, and were more likely to smoke cigarettes and drink alcohol than people who refused.130 These differences suggest that postal surveys may overestimate sexual liberalism and activity in the population.
 </br>
@@ -47,32 +52,34 @@ require a lengthy description,142 as in the example above. The diagram may usefu
 such as the number of events for the primary outcome. While we recommend the use of a flow diagram, particularly for
 complex observational studies, we do not propose a specific format for the diagram.
 
+**Examples of Good Reporting**</br>
+"Of the 105 freestanding bars and taverns sampled, 13 establishments were no longer in business and 9 were located in restaurants, leaving 83 eligible businesses. In 22 cases, the owner could not be reached by telephone despite 6 or more attempts. The owners of 36 bars declined study participation. (...) The 25 participating bars and taverns employed 124 bartenders, with 67 bartenders working at least 1 weekly daytime shift. Fifty-four of the daytime bartenders (81%) completed baseline interviews and spirometry; 53 of these subjects (98%) completed follow-up“ [129]</br></br>
 
 <h2> Field-specific guidance:</h2>
-**Genetic association studies [@little2009]**
-- Report numbers of individuals in whom genotyping was attempted and numbers of individuals in whom genotyping was successful. 
+**Genetic association studies [@little2009]**</br>
+- Report numbers of individuals in whom genotyping was attempted and numbers of individuals in whom genotyping was successful.</br>
 
 **Infectious disease molecular epidemiology [@field2014]** 
-- Report numbers of participants and samples at each stage of the study, including the number of samples obtained, the number typed, and the number yielding data  
-- If the study investigates groups of genetically indistinguishable pathogens (molecular clusters), state the sampling fraction, the distribution of cluster sizes, and the study population turnover, if known </br>  
+- Report numbers of participants and samples at each stage of the study, including the number of samples obtained, the number typed, and the number yielding data</br>
+- If the study investigates groups of genetically indistinguishable pathogens (molecular clusters), state the sampling fraction, the distribution of cluster sizes, and the study population turnover, if known</br>  
 
-**Medical abortion [@creinin2016]**
-- Report the number of participants who started medical abortion treatment and the number who did not complete any follow-up for each cohort and by gestational age.  
-- Report the number of participants used in the denominator for outcome evaluation for each cohort and by gestational age, which most commonly will be the number of women with any follow-up.  
-- Include a description of the number of women who used the drug(s) as planned in the protocol (treatment adherence)
-- When more than one drug is used (e.g. mifepristone and a prostaglandin analog), the actual time interval between the agents should be reported, preferably in hours 
+**Medical abortion [@creinin2016]**</br>
+- Report the number of participants who started medical abortion treatment and the number who did not complete any follow-up for each cohort and by gestational age.</br>
+- Report the number of participants used in the denominator for outcome evaluation for each cohort and by gestational age, which most commonly will be the number of women with any follow-up.</br>
+- Include a description of the number of women who used the drug(s) as planned in the protocol (treatment adherence)</br>
+- When more than one drug is used (e.g. mifepristone and a prostaglandin analog), the actual time interval between the agents should be reported, preferably in hours</br> 
 
-**Neonatal infections [@fitchett2016]**
-- See ﬁgure 2 for suggested components of a ﬂow diagram for neonatal infections  
+**Neonatal infections [@fitchett2016]**</br>
+- See ﬁgure 2 for suggested components of a ﬂow diagram for neonatal infections</br>  
 
-**Response-driven sampling [@white2015]**  
-- Report number of coupons issued and returned  
-- Report number of recruits by seed and number of RDS recruitment waves for each seed. Consider showing graph of entire recruitment network  
-- Report recruitment challenges (e.g., commercial exchange of coupons, imposters, duplicate recruits) and how addressed  
+**Response-driven sampling [@white2015]**</br>  
+- Report number of coupons issued and returned</br>  
+- Report number of recruits by seed and number of RDS recruitment waves for each seed. Consider showing graph of entire recruitment network</br>
+- Report recruitment challenges (e.g., commercial exchange of coupons, imposters, duplicate recruits) and how addressed</br>  
 
-**Routinely collected health data [@benchimol2015]**
-- Describe in detail the selection of the persons included in the study (i.e., study population selection), including ﬁltering based on data quality, data availability, and linkage. The selection of included persons can be described in the text and/or by means of the study ﬂow diagram
+**Routinely collected health data [@benchimol2015]**</br>
+- Describe in detail the selection of the persons included in the study (i.e., study population selection), including ﬁltering based on data quality, data availability, and linkage. The selection of included persons can be described in the text and/or by means of the study ﬂow diagram</br>
 
-**Veterinary epidemiology [@oconnor2016]**
-- Report the numbers of owners/managers and animals at each stage of study and at each relevant level of organization - e.g, numbers eligible, included in the study, completing follow-up, and analyzed  
+**Veterinary epidemiology [@oconnor2016]**</br>
+- Report the numbers of owners/managers and animals at each stage of study and at each relevant level of organization - e.g, numbers eligible, included in the study, completing follow-up, and analyzed</br>
 - Give reasons for non-participation at each stage and at each relevant level of organization  

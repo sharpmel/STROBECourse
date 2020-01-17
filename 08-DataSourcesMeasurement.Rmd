@@ -34,6 +34,8 @@ edit: https://github.com/sharpmel/STROBECourse
 </br>
 In addition, it is important to know if groups being compared differed with respect to the way in which the data were collected. This may be important for laboratory examinations (as in the second example) and other situations. For instance, if an interviewer first questions all the cases and then the controls, or vice versa, bias is possible because of the learning curve; solutions such as randomizing the order of interviewing may avoid this problem. Information bias may also arise if the compared groups are not given the same diagnostic tests or if one group receives more tests of the same kind than another (see also item 9).</br>
 
+**Examples of Good Reporting**</br>
+</br></br>
 
 <h2> Field-specific guidance:</h2>
 **Anti-microbial stewardship programs [@tacconelli2016]**

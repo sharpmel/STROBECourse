@@ -9,7 +9,7 @@ output:
     includes: 
       after_body: disqus.html
 bibliography: bibliography.bib
-csl: vancouver.csl
+csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---

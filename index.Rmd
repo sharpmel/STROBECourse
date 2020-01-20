@@ -8,11 +8,14 @@ output:
   bookdown::gitbook:
     number_sections: false 
     includes: 
-      after_body: 
+      after_body: disqus.html
 bibliography: bibliography.bib
 csl: apa-annotated.csl
 link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
+description: "This site is a public, open-source repository for epidemiological research methods and reporting skills for observational studies. We aim to be as inclusive as possible but this site is based on the Strengthening the Reporting of Observational studies in Epidemiology Statement."
+github-repo: "sharpmel/STROBECourse"
+cover-image: "images/checklistlifejacket.jpg"
 ---
 
 # Introduction {- #intro}
@@ -22,7 +25,7 @@ The purpose of this site is to create a public, open-source repository for epide
 > This site is uses the [R Bookdown package](https://bookdown.org/), which is built using [R Markdown](http://rmarkdown.rstudio.com). All content is stored in the [GitHub repository](https://github.com/sharpmel/STROBECourse) of [Melissa Sharp](http://melssaksharp.wordpress.com), a doctoral student who worked on observational research methods. Please [contact her](mailto:melissaksharp@gmail.com) if you have any comments, questions, or concerns. 
 
 ## Structure {-}
-We aim to be as inclusive as possible but are structuring this site on the **[Strengthening the Reporting of Observational studies in Epidemiology (STROBE) reporting guideline](http://strobe-statement.com).** STROBE was created in 2007 and is comprised of a 22-item checklist of essential items to report when discussing the results from a cohort, cross-sectional, or case-control study [@vonelm2007; @vandenbroucke2007]. It has been endorsed by the [International Commitee of Medcial Journal Editors](www.icmje.org/) and hundreds of journals and has spawned at least another 13 field- or -method specific extensions. [@benchimol2015; @cheng2016; @creinin2016 ;@field2014; @horby2017; @gallo2012; @hornell2017; @lachat2016; @little2009; @oconnor2016; @tacconelli2016; @white2015; @zavada2014]
+We aim to be as inclusive as possible but are structuring this site on the **[Strengthening the Reporting of Observational studies in Epidemiology (STROBE) reporting guideline](http://strobe-statement.com).** STROBE was created in 2007 and is comprised of a 22-item checklist of essential items to report when discussing the results from a cohort, cross-sectional, or case-control study [@vonelm2007; @vandenbroucke2007]. It has been endorsed by the [International Commitee of Medcial Journal Editors](www.icmje.org/) and hundreds of journals and has spawned at least another 13 field- or method-specific extensions. [@benchimol2015; @cheng2016; @creinin2016 ;@field2014; @horby2017; @gallo2012; @hornell2017; @lachat2016; @little2009; @oconnor2016; @tacconelli2016; @white2015; @zavada2014]
 </br>
 
 ```{r STROBEChecklist, echo=FALSE, fig.cap="STROBE Checklist", out.width = '100%'}

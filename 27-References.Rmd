@@ -1,0 +1,17 @@
+---
+title: "References"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+edit: https://github.com/sharpmel/STROBECourse
+bibliography: bibliography.bib
+csl: apa-annotated.csl
+link-citations: yes
+---
+
+# References

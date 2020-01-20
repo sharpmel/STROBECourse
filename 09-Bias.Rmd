@@ -18,7 +18,7 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report: </br>
 - Describe any efforts to address potential sources of bias
 
--	STROME-ID 9.1: describe any eﬀorts made to address discovery or ascertainment bias  
+-	Describe any eﬀorts made to address discovery or ascertainment bias  
 -	strega9 (b) For quantitative outcome variables, specify if any investigation of potential bias resulting from pharmacotherapy was undertaken. If relevant, describe the nature and magnitude of the potential bias, and explain what approach was used to deal with this.  
 -	nut-9. Report how bias in dietary or nutritional assessment was addressed, e.g., misreporting, changes in habits as a result of being measured, or data imputation from other sources.  
 -	vet9 Describe any eﬀorts to address potential sources of bias due to confounding, selection, or information bias  
@@ -36,6 +36,7 @@ and cohort studies published from 1990 to 1994 that investigated the risk of sec
 
 **Useful Resources - Bias**
 boffetta
+catalog of bias
 
 
 <h2> Field-specific guidance:</h2>

@@ -32,8 +32,8 @@ edit: https://github.com/sharpmel/STROBECourse
 -	VET7 (b) Describe the level of organization at which each variable was measured  
  
 
-## Explanation and Elaboration [@vandenbroucke2007]
->Authors should define all variables considered for and included in the analysis, including outcomes, exposures,
+## Explanation and Elaboration
+> Authors should define all variables considered for and included in the analysis, including outcomes, exposures,
 predictors, potential confounders and potential effect modifiers. Disease outcomes require adequately detailed description of the diagnostic criteria. This applies to criteria for cases in a case-control study, disease events during follow-up in a cohort study and prevalent disease in a cross-sectional study.
 </br>
 Clear definitions and steps taken to adhere to them are particularly important for any disease condition of primary interest in the study. For some studies, ‘determinant’ or ‘predictor’ may be appropriate terms for exposure variables and outcomes may  be called ‘endpoints’. In multivariable models, authors sometimes use ‘dependent variable’ for an outcome and ‘independent variable’ or ‘explanatory variable’ for exposure and confounding variables. The latter is not precise as it does not distinguish exposures from confounders.
@@ -82,10 +82,9 @@ providing a list with details on each variable in an appendix, additional table 
 -	A complete list of codes and algorithms used to classify exposures, outcomes, confounders, and effect modiﬁers should be provided. If these cannot be reported, an explanation should be provided.</br>
 
 **Seroepidemiologic studies for influenza [@horby2017]**</br>  
--	Describe any known or potential immunological cross- reactivity that may bias the outcome measures</br>
+-	Describe any known or potential immunological cross* reactivity that may bias the outcome measures</br>
 
 ### Useful Resources</br>
 Beginner's Guide to Confounding</br>
 https://www.students4bestevidence.net/blog/2018/10/01/a-beginners-guide-to-confounding/?utm_source=S4BE+Contributors&utm_campaign=8ddeb7e39a-November+2019+S4BE+newsletter_COPY_01&utm_medium=email&utm_term=0_161fc8fd57-8ddeb7e39a-108747505&mc_cid=8ddeb7e39a&mc_eid=0e472ae39a
-[@Vanderweele2019]
-
+[@vanderweele2019]

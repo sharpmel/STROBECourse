@@ -15,19 +15,17 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Additional Information 
-- Describe informed consent proceduers and and approval from ethical committee(s). if not, specify reason (e.g., public health outbreak response/non-research designation)
---	STROBE-NI 23.1: report any ethical considerations, including the recruitment of young mothers (minors), and the consent process for early recruitment of neonates after delivery.
-Specify whether samples were anonymous, anonymized or identiﬁable
--  report any ethical considerations with speciﬁc implications for infectious-disease molecular epidemiology
-- 	 Authors should provide information on how to access any supplemental information such as the study protocol, raw data, or programming code.
+- Describe informed consent proceduers and and approval from ethical committee(s). 
 
-- 	nut-22.2. Provide data collection tools and data as online material or explain how they can be accessed.
--	
+if not, specify reason (e.g., public health outbreak response/non-research designation)
+- report any ethical considerations, including the recruitment of young mothers (minors), and the consent process for early recruitment of neonates after delivery.
 
+
+- Specify whether data/samples were anonymous, anonymized or identiﬁable
+- Provide information on how to access supplemental information, the study protocol, data collection tools, raw data, and/or code
 -	Describe any conﬂicts of interest, or lack thereof, for each author(c)
-- Describe the authors’ roles— 
--	vet22 e) Quality standards—
-Describe any quality standards used in the conduct of the research
+- Describe the authors’ roles (CREDIT and/or ICMJE criteria)
+- Describe any quality standards used in the conduct of the research
 
 ## Explanation and Elaboration [@vandenbroucke2007]
 > Concluding Remarks </br>

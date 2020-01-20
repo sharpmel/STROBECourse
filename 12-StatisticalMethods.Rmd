@@ -131,7 +131,8 @@ In 1959 Cornfield et al famously showed that a relative risk of 9 for cigarette 
 -	Describe the sample type—serum or plasma. If plasma is used, specify the anticoagulant used (heparin, sodium citrate, EDTA, etc.)  
 -	Describe the specimen storage conditions (4°C, −20 °C, −80 °C). If frozen prior to the analysis, describe the time to freezing and the number of freeze/thaw cycles prior to testing  
 -	Specify the assay type (e.g., hemagglutination inhibition; virus neutralization/microneutralization; ELISA; other) and methods used to determine the endpoint titer  
--	Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials  -	ROSES-I 12a.5: State what is known about the determinants of the variability of the antibody detection assay being used  
+-	Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials
+- State what is known about the determinants of the variability of the antibody detection assay being used  
 -	Specify the antigen(s) used in the assay, including virus strain name, subtype, lineage or clade, with standardized nomenclature and reference; specify whether live virus or inactivated virus was used (where applicable)  
 -	Report if antigen(s) from potentially cross-reactive pathogens/strains were used in order to identify cross-reactivity, and specify which antigen was used, including virus name, subtype, strain, lineage and clade, with standardized nomenclature and reference  
 -	If red blood cells were used for a hemagglutinin inhibition assay, specify the animal species from which they were obtained and concentration (v/v) used  

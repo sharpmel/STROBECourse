@@ -14,17 +14,17 @@ link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
-# Results: Other Analyses (17)
+# Results: Other Analyses (17) {item17}
 > The items from STROBE state that you should report: 
 -	Report other analyses done e.g., analyses of subgroups and interactions, and sensitivity analyses
 
--	EULAR(A) Consider performing analyses to explore possible effect modiﬁcation
--	EULAR(B) Consider performing sensitivity analyses for differing deﬁnitions of exposure (item 12A) and outcome or different statistical models, if applicable
--	strega17 (c) If detailed results are available elsewhere, state how they can be accessed.
--	nut-17. Report any sensitivity analysis (e.g., exclusion of misreporters or outliers) and data imputation, if applicable.
--	vet17 Report other analyses done, such as sensitivity/ robustness analysis and analysis of subgroups
+-	Consider performing analyses to explore possible effect modiﬁcation
+-	Consider performing sensitivity analyses for differing deﬁnitions of exposure (item 12A) and outcome or different statistical models, if applicable
+-	If detailed results are available elsewhere, state how they can be accessed.
+-	Report any sensitivity analysis (e.g., exclusion of misreporters or outliers) and data imputation, if applicable.
+-	Report other analyses done, such as sensitivity/ robustness analysis and analysis of subgroups
 
-## Explanation and Elaboration [@vandenbroucke2007]
+## Explanation
 > In addition to the main analysis other analyses are often done in observational studies. They may address specific subgroups, the potential interaction between risk factors, the calculation of attributable risks, or use alternative definitions of study variables in sensitivity analyses.
 </br>
 There is debate about the dangers associated with subgroup analyses, and multiplicity of analyses in general. 4,104 In our opinion, there is too great a tendency to look for evidence of subgroup-specific associations, or effect-measure modification, when overall results appear to suggest little or no effect. On the other hand, there is value in exploring 
@@ -37,12 +37,13 @@ Confidence intervals for separate and joint effects may help the reader to judge
 </br>
 Sensitivity analyses are helpful to investigate the influence of choices made in the statistical analysis, or to investigate the robustness of the findings to missing data or possible biases (see also item 12b). Judgement is needed regarding the level of reporting of such analyses. If many sensitivity analyses were performed, it may be impractical to present detailed findings for them all. It may sometimes be sufficient to report that sensitivity analyses were carried out and that they were consistent with the main results presented. Detailed presentation is more appropriate if the issue investigated is of major concern, or if effect estimates vary considerably.59,186
 </br>
-Pocock and colleagues found that 43 out of 73 articles reporting observational studies contained subgroup analyses. The majority claimed differences across groups but only eight articles reported a formal evaluation of interaction (see item 12b).4
+Pocock and colleagues found that 43 out of 73 articles reporting observational studies contained subgroup analyses. The majority claimed differences across groups but only eight articles reported a formal evaluation of interaction (see item 12b).4 [@vandenbroucke2007]
 
-**Examples of Good Reporting**</br>
+## Examples  
+
 </br></br>
 
-<h2> Field-specific guidance:</h2>
+## Field-specific guidance
 **Anti-microbial stewardship programs [@tacconelli2016]**
 - Report subgroup analysis by type of patients and type of microorganism, if applicable </br>
 
@@ -51,3 +52,7 @@ Pocock and colleagues found that 43 out of 73 articles reporting observational s
 
 **Response-driven sampling [@white2015]**
 - Report other analyses done—for example, analyses of subgroups and interactions, sensitivity analyses, different RDS estimators and definitions of personal network size </br>
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 

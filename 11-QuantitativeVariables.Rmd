@@ -26,10 +26,11 @@ edit: https://github.com/sharpmel/STROBECourse
 Investigators might model an exposure as continuous in order to retain all the information. In making this choice, one needs to consider the nature of the relationship of the exposure to the outcome. As it may be wrong to assume a linear relation automatically, possible departures from linearity should be investigated. Authors could mention alternative models they explored during analyses (eg, using log transformation, quadratic terms or spline functions). Several methods exist for fitting a nonlinear relation between the exposure and outcome.82–84 Also, it may be informative to present both continuous and grouped analyses for a quantitative exposure of prime interest.</br>
 In a recent survey, two thirds of epidemiological publications studied quantitative exposure variables.4 In 42 of 50 articles (84%) exposures were grouped into several ordered categories, but often without any stated rationale for the choices made. Fifteen articles used linear associations to model continuous exposure but only 2 reported checking for linearity. In another survey, of the psychological literature, dichotomization was justified in only 22 of 110 articles (20%).85</br>
 
-**Examples of Good Reporting**</br>
+## Example 
+“Patients with a Glasgow Coma Scale less than 8 are considered to be seriously injured. A GCS of 9 or more indicates less serious brain injury. We examined the association of GCS in these two categories with the occurrence of death within 12 months from injury” [80].
 </br></br>
 
-<h2> Field-specific guidance:</h2>
+## Field-specific guidance:
 **Anti-microbial stewardship programs [@tacconelli2016]**
 - 	Provide subgroup analyses for immunocompromised, surgical/medical patients and patients in intensive care units, if applicable </br>
 

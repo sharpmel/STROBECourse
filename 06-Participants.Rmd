@@ -25,10 +25,11 @@ edit: https://github.com/sharpmel/STROBECourse
 *Cross-sectional study*  
     - Give the eligibility criteria, and the sources and methods of selection of participants  
 
-</br></br>
+</br>
+
 **Some key items to consider adding:**</br>  
 -	Define the unit analysed (person, family, twin pairs, department, school, etc.)  
-- Report the source of participants (e.g., if the participants were a subset from a larger study, source of clinical specimens)  
+- Report the source of participants/clinical specimens (e.g., if the participants were a subset from a larger study)  
 - Clearly describe sampling frame and strategy  
 -	Report inclusion *and* exclusion criteria (psychological, dietary/nutritional, physiological, clinical conditions) etc. *especially if* they might affect key indicators or surrogate endpoints (e.g., biomarkers)
 -	Clear deﬁnitions of exposed and nonexposed cohorts. Justify the choice of comparator  
@@ -39,32 +40,32 @@ edit: https://github.com/sharpmel/STROBECourse
 -	For matched studies, describe matching criteria and the reasons (epidemiological and clinical) for this criteria. 
 - For matched studies, detail the number of matched individuals per subject (e.g, number of controls per case)  
 
-## Explanation and Elaboration 6a 
+## Explanation 6a 
 > Detailed descriptions of the study participants help readers understand the applicability of the results. Investigators usually restrict a study population by defining clinical, demographic and other characteristics of eligible participants. Typical eligibility criteria relate to age, gender, diagnosis and comorbid conditions. Despite their importance, eligibility criteria often are not reported adequately. In a survey of observational stroke research, 17 of 49 reports (35%) did not specify eligibility criteria.[@tooth2005]
 </br>
 Eligibility criteria may be presented as inclusion and exclusion criteria, although this distinction is not always necessary or useful. Regardless, we advise authors to report all eligibility criteria and also to describe the group from which the study population was selected (eg, the general population of a region or country), and the method of recruitment (eg, referral or self-selection through advertisements). 
 </br>
-Knowing details about follow-up procedures, including whether procedures minimized nonresponse and loss to follow-up and whether the procedures were similar for all participants, informs judgments about the validity of results. For example, in a study that used IgM antibodies to detect acute infections, readers needed to know the interval between blood tests for IgM antibodies so that they could judge whether some infections likely were missed because the interval between blood tests was too long.41 In other studies where follow-up procedures differed between exposed and unexposed groups, readers might recognize substantial bias due to unequal ascertainment of events or differences in nonresponse or loss to follow-up.42 Accordingly, we advise that researchers describe the methods used for following participants and whether those methods were the same for all participants, and that they describe the completeness of ascertainment of variables (see also item 14).
+Knowing details about follow-up procedures, including whether procedures minimized nonresponse and loss to follow-up and whether the procedures were similar for all participants, informs judgments about the validity of results. For example, in a study that used IgM antibodies to detect acute infections, readers needed to know the interval between blood tests for IgM antibodies so that they could judge whether some infections likely were missed because the interval between blood tests was too long.[@metzkor-cotter2003] In other studies where follow-up procedures differed between exposed and unexposed groups, readers might recognize substantial bias due to unequal ascertainment of events or differences in nonresponse or loss to follow-up.[@johnson1990] Accordingly, we advise that researchers describe the methods used for following participants and whether those methods were the same for all participants, and that they describe the completeness of ascertainment of variables (see also item 14).
 </br>
-In case-control studies, the choice of cases and controls is crucial to interpreting the results, and the method of their selection has major implications for study validity. In general controls should reflect the population from which the cases arose. Various methods are used to sample controls, all with advantages and disadvantages: for cases that arise from a general population, population roster sampling, random digit dialling, neighborhood or friend controls are used. Neighborhood or friend controls may present intrinsic matching on exposure.[@rothman1998] Controls with other diseases may have advantages over population-based controls, in particular for hospital-based cases, because they better reflect the catchment population of a hospital, have greater comparability of recall and ease of recruitment. However, they can present problems if the exposure of interest affects the risk of developing or being hospitalized for the control condition(s).43,44 To remedy this problem often a mixture of the best defensible control diseases is used.45
+In case-control studies, the choice of cases and controls is crucial to interpreting the results, and the method of their selection has major implications for study validity. In general controls should reflect the population from which the cases arose. Various methods are used to sample controls, all with advantages and disadvantages: for cases that arise from a general population, population roster sampling, random digit dialling, neighborhood or friend controls are used. Neighborhood or friend controls may present intrinsic matching on exposure.[@rothman1998] Controls with other diseases may have advantages over population-based controls, in particular for hospital-based cases, because they better reflect the catchment population of a hospital, have greater comparability of recall and ease of recruitment. However, they can present problems if the exposure of interest affects the risk of developing or being hospitalized for the control condition(s).[@berkson1946; feinstein1986] To remedy this problem often a mixture of the best defensible control diseases is used.[@jick1978; @vandenbroucke2007]
+
 </br></br>
 
-**Examples of Good Reporting**</br>
-**Cohort Studies**</br>
+## Examples 6a 
+**Cohort Studies**  
 “Participants in the Iowa Women’s Health Study were a random sample of all women ages 55 to 69 years derived from the state of Iowa automobile driver’s license list in 1985, which represented approximately 94% of Iowa women in that age
-group. (. . .) Follow-up questionnaires were mailed in October 1987 and August 1989 to assess vital status and address changes. (. . .) Incident cancers, except for nonmelanoma skin cancers, were ascertained by the State Health Registry of Iowa (. . .). The Iowa Women’s Health Study cohort was matched to the registry with combinations of first, last, and maiden names, zip code, birthdate, and social security number.”38</br>
+group. (. . .) Follow-up questionnaires were mailed in October 1987 and August 1989 to assess vital status and address changes. (. . .) Incident cancers, except for nonmelanoma skin cancers, were ascertained by the State Health Registry of Iowa (. . .). The Iowa Women’s Health Study cohort was matched to the registry with combinations of first, last, and maiden names, zip code, birthdate, and social security number.”[@canto2000]</br>
 
-**Case-Control Studies**</br>
-“Cutaneous melanoma cases diagnosed in 1999 and 2000 were ascertained through the Iowa Cancer Registry(. . .). Controls, also identified through the Iowa Cancer Registry, were colorectal cancer patients diagnosed during the same time. Colorectal cancer controls were selected because they are common and have a relatively long survival, and because arsenic exposure has not been conclusively linked to the incidence of colorectal cancer.”39</br>
+**Case-Control Studies**  
+“Cutaneous melanoma cases diagnosed in 1999 and 2000 were ascertained through the Iowa Cancer Registry(. . .). Controls, also identified through the Iowa Cancer Registry, were colorectal cancer patients diagnosed during the same time. Colorectal cancer controls were selected because they are common and have a relatively long survival, and because arsenic exposure has not been conclusively linked to the incidence of colorectal cancer.”[@beanefreeman2004]</br>
 
-**Cross-Sectional Studies**</br>
+**Cross-Sectional Studies**  
 “We retrospectively identified patients with a principal diagnosis of myocardial infarction (code 410) according to
-the International Classification of Diseases, 9th Revision, Clinical Modification, from codes designating discharge diagnoses, excluding the codes with a fifth digit of 2, which designates a subsequent episode of care (. . .). A random
-sample of the entire Medicare cohort with myocardial infarction from February 1994 to July 1995 was selected (. . .). To
-be eligible, patients had to present to the hospital after at least 30 minutes but less than 12 hours of chest pain and had to have ST-segment elevation of at least 1 mm on two contiguous leads on the initial electrocardiogram.”40
-</br></br>
+the International Classification of Diseases, 9th Revision, Clinical Modification, from codes designating discharge diagnoses, excluding the codes with a fifth digit of 2, which designates a subsequent episode of care (. . .). A random sample of the entire Medicare cohort with myocardial infarction from February 1994 to July 1995 was selected (. . .). To be eligible, patients had to present to the hospital after at least 30 minutes but less than 12 hours of chest pain and had to have ST-segment elevation of at least 1 mm on two contiguous leads on the initial electrocardiogram.”[@canto2000]
 
-## Explanation and Elaboration 6b 
+</br>
+
+## Explanation 6b 
 > Matching is much more common in case-control studies, but occasionally, investigators use matching in cohort studies to make groups comparable at the start of follow-up. Matching in cohort studies presents fewer intricacies than with case-control studies. For example, it is not necessary to take the matching into account for the estimation of the relative risk.48 Because matching in cohort studies may increase statistical precision investigators might allow for the matching in their analyses and thus obtain narrower confidence intervals.
 </br>
 In case-control studies matching is done to increase a study’s efficiency by ensuring similarity in the distribution of variables between cases and controls, in particular the distribution of potential confounding variables.48,49 Because matching can be done in various ways, with one or more controls per case, the rationale for the choice of matching variables and the details of the method used should be described. Commonly used forms of matching are frequency matching (also called group matching) and individual matching. In frequency matching, investigators choose controls so that the distribution of matching variables becomes identical or similar to that of cases. Individual matching involves matching one or several controls to each case. Although intuitively appealing and sometimes useful, matching in case-control studies has a number of disadvantages, is not always appropriate, and needs to be taken into account in the analysis (see box 2).
@@ -72,17 +73,16 @@ In case-control studies matching is done to increase a study’s efficiency by e
 Even apparently simple matching procedures may be poorly reported. For example, authors may state that controls were matched to cases ‘within five years’, or using ‘five year age bands’. Does this mean that, if a case was 54 years old, the respective control needed to be in the five-year age band 50 to 54, or aged 49 to 59, which is within five years of age 54? If a wide (eg, 10-year) age band is chosen, there is a danger of residual confounding by age (see also box 4), for example because controls may then be younger than cases on average.
 </br>
 
-**Examples of Good Reporting**</br>
+## Examples 6b
 **Cohort Studies**</br>
-“For each patient who initially received a statin, we used propensity-based matching to identify one control who did not receive a statin according to the following protocol. First, propensity scores were calculated for each patient in the
-entire cohort on the basis of an extensive list of factors potentially related to the use of statins or the risk of sepsis. Second, each statin user was matched to a smaller pool of nonstatin-users by sex, age (plus or minus 1 year), and index date (plus or minus 3 months). Third, we selected the control with the closest propensity score (within 0.2 SD) to each statin user in a 1:1 fashion and discarded the remaining controls.”46</br>
+“For each patient who initially received a statin, we used propensity-based matching to identify one control who did not receive a statin according to the following protocol. First, propensity scores were calculated for each patient in the entire cohort on the basis of an extensive list of factors potentially related to the use of statins or the risk of sepsis. Second, each statin user was matched to a smaller pool of nonstatin-users by sex, age (plus or minus 1 year), and index date (plus or minus 3 months). Third, we selected the control with the closest propensity score (within 0.2 SD) to each statin user in a 1:1 fashion and discarded the remaining controls.”46</br>
 
 **Case-Control Studies**</br>
-“We aimed to select five controls for every case from among individuals in the study population who had no diagnosis of autism or other pervasive developmental disorders (PDD) recorded in their general practice record and who were alive and
-registered with a participating practice on the date of the PDD diagnosis in the case. Controls were individually matched to cases by year of birth (up to 1 year older or younger), sex, and general practice. For each of 300 cases, five controls could be identified who met all the matching criteria. For the remaining 994, one or more controls was excluded . . .”47</br>
+“We aimed to select five controls for every case from among individuals in the study population who had no diagnosis of autism or other pervasive developmental disorders (PDD) recorded in their general practice record and who were alive and registered with a participating practice on the date of the PDD diagnosis in the case. Controls were individually matched to cases by year of birth (up to 1 year older or younger), sex, and general practice. For each of 300 cases, five controls could be identified who met all the matching criteria. For the remaining 994, one or more controls was excluded . . .”47</br>
 
-</br></br>
-<h2> Field-specific guidance:</h2>
+</br>
+
+## Field-specific guidance
 **Rheumatology [@zavada2014]**  
 -	Describe whether treatment reﬂects ﬁrst start until ﬁrst stop of therapy or multiple treatment episodes. If the latter, discuss deﬁnition of duration of exposure and any implications for combining treatment intervals</br>  
 
@@ -110,4 +110,8 @@ registered with a participating practice on the date of the PDD diagnosis in the
 
 **Veterinary epidemiology [@oconnor2016]**  
 -	Describe the sources and methods of selection for the owners/managers and for the animals, at each relevant level of organization  
--	Describe the eligibility criteria for the owners/ managers and for the animals, at each relevant level of organization  
+-	Describe the eligibility criteria for the owners/ managers and for the animals, at each relevant level of organization  </br>
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 

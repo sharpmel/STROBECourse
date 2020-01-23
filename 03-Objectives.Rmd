@@ -28,24 +28,27 @@ edit: https://github.com/sharpmel/STROBECourse
 > Objectives are the detailed aims of the study. Well crafted objectives specify populations, exposures and outcomes, and parameters that will be estimated. They may be formulated as specific hypotheses or as questions that the study was designed to address. In some situations objectives may be less specific, for example, in early discovery phases.</br> 
 Regardless, the report should clearly reflect the investigators’ intentions. For example, if important subgroups or additional analyses were not the original aim of the study but arose during data analysis, they should be described accordingly (see also items 4, 17 and 20).</br> 
 
+</br>
 
-</br></br>
-**Examples of Good Reporting**</br> 
+## Example  
 “Our primary objectives were to 1) determine the prevalence of domestic violence among female patients presenting to four community-based, primary care, adult medicine practices that serve patients of diverse socioeconomic background and 2) identify demographic and clinical differences between currently abused patients and patients not currently being abused ” [@mccauley1995].</br></br>  
 
-<h2> Field-specific guidance:</h2>
-**Molecular epidemiology [@gallo2012]**   
+## Field-specific guidance  
+**Molecular epidemiology [@gallo2012]**  
 - A priori hypothesis: if one or more biomarkers are used as proxy measures, state the a priori hypothesis on the expected values of the biomarker(s)</br>  
 
 **Infectious disease molecular epidemiology [@field2014]**  
-- State the epidemiological objectives of using molecular typing</br>
+- State the epidemiological objectives of using molecular typing  
 
-**Genetic association studies [@little2009]**
-- State if the study is the first report of a genetic association, a replication effort, or both.</br>
+**Genetic association studies [@little2009]**  
+- State if the study is the first report of a genetic association, a replication effort, or both.  
 
-**Seroepidemiologic studies for influenza [@horby2017]**
-- State the specific measure of occurrence that is being estimated, for example, point seroprevalence, cumulative incidence of infection, secondary infection risk </br>  
+**Seroepidemiologic studies for influenza [@horby2017]**  
+- State the specific measure of occurrence that is being estimated, for example, point seroprevalence, cumulative incidence of infection, secondary infection risk   
 
-**Veterinary epidemiology [oconnor2016]**
-- Ensure that the level of organization is clear for each objective and hypothesis
-</br></br>  
+**Veterinary epidemiology [oconnor2016]**  
+- Ensure that the level of organization is clear for each objective and hypothesis  
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 

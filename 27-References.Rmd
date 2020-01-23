@@ -14,4 +14,10 @@ csl: apa-annotated.csl
 link-citations: yes
 ---
 
-# References
+# General Resources
+Rothman Epi book
+Galea/Keyes epi book? 
+Boston University PH site
+writing aid tool
+
+## References

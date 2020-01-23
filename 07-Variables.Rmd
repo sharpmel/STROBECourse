@@ -19,20 +19,19 @@ edit: https://github.com/sharpmel/STROBECourse
 -	Clearly define all outcomes, exposures, predictors, potential confounders, and effect modifiers. Give diagnostic criteria, if applicable.
 
 **Some key items to consider adding:** 
--	EULAR Clearly deﬁne start and stop of therapy    
--	ROSES-I 7.1 The median age and range for each exposure group should be reported   
--	SBR7 Describe the theoretical and/or conceptual rationale for the design of the intervention/ exposure  
--	SBR7 Describe the intervention/exposure with sufficient detail to permit replication  
--	SBR7 Clearly describe all simulation-specific exposures, potential confounders, and effect modifiers  
--	AMS7.6 Include description of potential confounders (other than epidemiological variables)  
--	correlates
--	VET7 (c) For hypothesis-driven studies, the putative causal structure among variables should be described (a diagram is strongly encouraged)  
--	7 (a) For each variable of interest, give sources of data and details of methods of assessment (measurement). If applicable, describe comparability of assessment methods among groups and over time  
--	For each variable of interest, give sources of data and details of methods of assessment (measurement). Describe comparability of assessment methods if there is more than one group  
--	VET7 (b) Describe the level of organization at which each variable was measured  
+-	The start and stop of any therapies or treatment </br>
+- The mean, median, and range for each exposure group </br>
+- The theoretical/conceptual rationale for the design of the intervention/ exposure</br>
+-	Describe the intervention/exposure with sufficient detail to permit replication  </br>
+-	SBR7 Clearly describe all simulation-specific exposures, potential confounders, and effect modifiers  </br>
+-	Description of potential confounders (other than epidemiological variables)  </br>
+-	correlates</br>
+-	For hypothesis-driven studies, the putative causal structure (consider a diagram like a directed acyclic graph)</br>
+-	Sources of data and methods of assessment for each variable </br>
+- Comparability of assessment methods among groups and over time  </br>
+-	The level of organization at which each variable was measured  </br>
  
-
-## Explanation and Elaboration
+## Explanation 
 > Authors should define all variables considered for and included in the analysis, including outcomes, exposures,
 predictors, potential confounders and potential effect modifiers. Disease outcomes require adequately detailed description of the diagnostic criteria. This applies to criteria for cases in a case-control study, disease events during follow-up in a cohort study and prevalent disease in a cross-sectional study.
 </br>
@@ -41,50 +40,51 @@ Clear definitions and steps taken to adhere to them are particularly important f
 If many variables have been measured and included in exploratory analyses in an early discovery phase, consider
 providing a list with details on each variable in an appendix, additional table or separate publication. Of note, the International Journal of Epidemiology recently launched a new section with ‘cohort profiles’, that includes detailed information on what was measured at different points in time in particular studies.56,57 Finally, we advise that authors declare all ‘candidate variables’ considered for statistical analysis, rather than selectively reporting only those included in the final models (see also item 16a).58,59</br>
 
-**Examples of Good Reporting**</br>
+## Examples
+</br>
 “Only major congenital malformations were included in the analyses. Minor anomalies were excluded according to the exclusion list of European Registration of Congenital Anomalies (EUROCAT). If a child had more than one major congenital malformation of one organ system, those malformations were treated as one outcome in the analyses by organ system (…) In the statistical analyses, factors considered potential confounders were maternal age at delivery and number of previous parities. Factors considered potential effect modifiers were maternal age at reimbursement for antiepileptic medication and maternal age at delivery” [55].
 
 </br></br>
-<h2> Field-specific guidance:</h2>  
-**Anti-microbial stewardship programs [@tacconelli2016]**</br>
--	Specify antimicrobial usage according to: type, dosage, duration and route of administration</br>
--	Provide information using defined daily dosages (DDDs) and, in addition, other definitions closer to local reality (packages, prescriptions). Provide justification for the measurement presented</br>
--	Address antimicrobial combinations</br>
--	Explain rationale for grouping of antimicrobials</br>
--	Define time at risk for antimicrobial exposure and for resistance development</br>
--	Provide definition of resistance, multidrug resistance, including pattern of co-resistance; whether studies performed to identify location or resistance eg, plasmid, chromosome, integron, transposon</br>
+## Field-specific guidance 
+**Anti-microbial stewardship programs [@tacconelli2016]**  
+-	Specify antimicrobial usage according to: type, dosage, duration and route of administration  
+-	Provide information using defined daily dosages (DDDs) and, in addition, other definitions closer to local reality (packages, prescriptions). Provide justification for the measurement presented  
+-	Address antimicrobial combinations  
+-	Explain rationale for grouping of antimicrobials  
+-	Define time at risk for antimicrobial exposure and for resistance development  
+-	Provide definition of resistance, multidrug resistance, including pattern of co-resistance; whether studies performed to identify location or resistance eg, plasmid, chromosome, integron, transposon  
 -	Definition of infection and/or colonisation. If not a validated reference, provide evidence of robustness of the new definition</br>
 
-**Genetic association studies [@little2009]**</br>
+**Genetic association studies [@little2009]**  
 -	Clearly define genetic exposures (genetic variants) using a widely-used nomenclature system. Identify variables likely to be associated with population stratification (confounding by ethnic origin)</br>
 
-**Medical Abortion [@creinin2016]**</br>
--	Exposure: Detail the medications used, including dose(s) and route(s) of administration. If more than one medication is used, state the planned time interval between medications, preferably in hours</br>
--	Outcome: Define successful medical abortion (should most commonly be considered as successful expulsion of the intrauterine pregnancy without need for surgical intervention).</br>
+**Medical Abortion [@creinin2016]**  
+-	Exposure: Detail the medications used, including dose(s) and route(s) of administration. If more than one medication is used, state the planned time interval between medications, preferably in hours  
+-	Outcome: Define successful medical abortion (should most commonly be considered as successful expulsion of the intrauterine pregnancy without need for surgical intervention)  
 -	Outcome: Define the types of medical abortion failure (e.g., ongoing pregnancy, incomplete abortion, participant symptoms). Continuing pregnancy should be defined as a viable pregnancy following treatment (to be differentiated from a non-viable [i.e., retained gestational sac]).</br>
 
-**Neonatal infections [@fitchett2016]**</br>
+**Neonatal infections [@fitchett2016]**  
 -	State criteria used to deﬁne clinically signiﬁcant organisms for each sample type </br>
 
-**Nutritional data [@lachat2016]**</br>
+**Nutritional data [@lachat2016]**  
 -	Clearly deﬁne foods, food groups, nutrients, or other food components.</br>  
 -	When using dietary patterns or indices, describe the methods to obtain them and their nutritional properties. </br>
 
-**Seroepidemiologic studies for influenza [@horby2017]**</br>
+**Seroepidemiologic studies for influenza [@horby2017]**  
 -	Describe illness definitions and methods for ascertaining the presence or absence of clinical illness in subjects</br>
 -	Describe the potential for immunization (specify vaccine and timing of vaccination in relationship to collection of serum), if applicable, to affect the outcome measures</br>
 -	Describe any known or potential immunological cross-reactivity that may bias the outcome measures </br>
 
-**Response-driven sampling [@white2015]**</br>
+**Response-driven sampling [@white2015]**  
 -	State how recruiter–recruit relationship was tracked  </br>
 
-**Routinely collected health data [@benchimol2015]**</br>  
+**Routinely collected health data [@benchimol2015]**    
 -	A complete list of codes and algorithms used to classify exposures, outcomes, confounders, and effect modiﬁers should be provided. If these cannot be reported, an explanation should be provided.</br>
 
-**Seroepidemiologic studies for influenza [@horby2017]**</br>  
--	Describe any known or potential immunological cross* reactivity that may bias the outcome measures</br>
+**Seroepidemiologic studies for influenza [@horby2017]**    
+-	Describe any known or potential immunological cross* reactivity that may bias the outcome measures </br>
 
-### Useful Resources</br>
-Beginner's Guide to Confounding</br>
-https://www.students4bestevidence.net/blog/2018/10/01/a-beginners-guide-to-confounding/?utm_source=S4BE+Contributors&utm_campaign=8ddeb7e39a-November+2019+S4BE+newsletter_COPY_01&utm_medium=email&utm_term=0_161fc8fd57-8ddeb7e39a-108747505&mc_cid=8ddeb7e39a&mc_eid=0e472ae39a
-[@vanderweele2019]
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 
+[@shrier2008; @students4bestevidence2018; @vanderweele2019]

@@ -26,15 +26,21 @@ The sample size needed for a study depends on many factors including the size of
 - How non-independence of measurements was incorporated into sample-size considerations
 -	The parameters, assumptions, methods, and effect size justification of the sample size calculation 
 
-## Explanation and Elaboration [@vandenbroucke2007]
+## Explanation and Elaboration 
 > A study should be large enough to obtain a point estimate with a sufficiently narrow confidence interval to meaningfully answer a research question. Large samples are needed to distinguish a small association from no association. Small studies often provide valuable information, but wide confidence intervals may indicate that they contribute less to current knowledge in comparison with studies providing estimates with narrower confidence intervals. Also, small studies that show ‘interesting’ or ‘statistically significant’ associations are published more frequently than small studies that do not have ‘significant’  findings. While these studies may provide an early signal in the context of discovery, readers should be informed of their potential weaknesses.</br>
 The importance of sample size determination in observational studies depends on the context. If an analysis is performed on data that were already available for other purposes, the main question is whether the analysis of the data will produce results with sufficient statistical precision to contribute substantially to the literature, and sample size considerations will be informal. Formal, a priori calculation of sample size may be useful when planning a new study.75,76 Such calculations are associated with more uncertainty than implied by the single number that is generally produced. For example, estimates of the rate of the event of interest or other assumptions central to calculations are commonly imprecise, if not guesswork.77 The precision obtained in the final analysis can often not be determined beforehand because it will be reduced by inclusion of confounding variables in multivariable analyses,78 the degree of precision with which key variables can be measured,79 and the exclusion of some individuals.</br>
-Few epidemiological studies explain or report deliberations about sample size.4,5 We encourage investigators to report pertinent formal sample size calculations if they were done. In other situations they should indicate the considerations that determined the study size (eg, a fixed available sample, as in the first example above). If the observational study was stopped early when statistical significance was achieved, readers should be told. Do not bother readers with post hoc justifications for study size or retrospective power calculations.77 From the point of view of the reader, confidence intervals indicate the statistical precision that was ultimately obtained. It should be realized that confidence intervals reflect statistical uncertainty only, and not all uncertainty that may be present in a study (see item 20).</br>
+Few epidemiological studies explain or report deliberations about sample size.4,5 We encourage investigators to report pertinent formal sample size calculations if they were done. In other situations they should indicate the considerations that determined the study size (eg, a fixed available sample, as in the first example above). If the observational study was stopped early when statistical significance was achieved, readers should be told. Do not bother readers with post hoc justifications for study size or retrospective power calculations.77 From the point of view of the reader, confidence intervals indicate the statistical precision that was ultimately obtained. It should be realized that confidence intervals reflect statistical uncertainty only, and not all uncertainty that may be present in a study (see item 20).[@vandenbroucke2007]</br>
 
-**Examples of Good Reporting**</br>
-</br></br>
+## Examples  
+Example 1.  
+“The number of cases in the area during the study period determined the sample size” [73].
 
-<h2> Field-specific guidance:</h2>
+Example 2.  
+“A survey of postnatal depression in the region had documented a prevalence of 19.8%. Assuming depression in mothers with normal weight children to be 20% and an odds ratio of 3 for depression in mothers with a malnourished child we needed 72 case-control sets (one case to one control) with an 80% power and 5% significance” [74].
+
+</br>
+
+## Field-specific guidance
 **Seroepidemiologic studies for influenza [@horby2017]**
 - Describe the baseline estimated seroprevalence at given antibody titers or incidence of infection and cite published literature to support these estimates </br>
 

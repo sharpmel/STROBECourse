@@ -5,8 +5,8 @@ account: melissaksharp
 server: bookdown.org
 hostUrl: https://bookdown.org/__api__
 appId: 3621
-bundleId: 17560
+bundleId: 17581
 url: https://bookdown.org/melissaksharp/STROBECourse/
-when: 1579550054.54093
+when: 1579621860.36266
 asMultiple: FALSE
 asStatic: FALSE

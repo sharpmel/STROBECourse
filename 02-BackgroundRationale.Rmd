@@ -18,35 +18,40 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:  
 - Explain the scientific background and rationale for the investigation being reported  
 
-</br></br>
+</br>
+
 The Introduction section should describe why the study was done and what questions and hypotheses it addresses. It should allow others to understand the study’s context and judge its potential contribution to current knowledge. [@vandenbroucke2007]
-</br></br> 
+
+</br> 
 
 **Some key items to consider adding:**  
-- Cite/discuss systematic reviews and meta-analyses if possible.  
-- Highlight the gap in research that your work is aiming to fill.
-</br></br>   
+- Cite/discuss systematic reviews and meta-analyses
+- Highlight the gap in research that your work is aiming to fill  
 
-## Explanation and Elaboration </br>
-> The scientific background of the study provides important context for readers. It sets the stage for the study and describes its focus. It gives an overview of what is known on a topic and what gaps in current knowledge are addressed by the study. Background material should note recent pertinent studies and any systematic reviews of pertinent studies.
+</br>   
 
-</br></br>
-## Example 
-- “Concerns about the rising prevalence of obesity in children and adolescents have focused on the well documented associations between childhood obesity and increased cardiovascular risk and mortality in adulthood. Childhood obesity has considerable social and psychological consequences within childhood and adolescence, yet little is known about social, socioeconomic, and psychological consequences in adult life. A recent systematic review found no longitudinal studies on the outcomes of childhood obesity other than physical health outcomes and only two longitudinal studies of the socioeconomic effects of obesity in adolescence. Gortmaker et al. found that US women who had been obese in late adolescence in 1981 were less likely to be married and had lower incomes seven years later than women who had not been overweight, while men who had been overweight were less likely to be married. Sargent et al. found that UK women, but not men, who had been obese at 16 years in 1974 earned 7.4% less than their non-obese peers at age 23. (…) We used longitudinal data from the 1970 British birth cohort to examine the adult socioeconomic, educational, social, and psychological outcomes of childhood obesity” [@viner2005].</br></br>
+## Explanation 
+> The scientific background of the study provides important context for readers. It sets the stage for the study and describes its focus. It gives an overview of what is known on a topic and what gaps in current knowledge are addressed by the study. Background material should note recent pertinent studies and any systematic reviews of pertinent studies.[@vandenbroucke2007]
 
-<h2> Field-specific guidance:</h2>
+</br>
+
+## Example  
+“Concerns about the rising prevalence of obesity in children and adolescents have focused on the well documented associations between childhood obesity and increased cardiovascular risk and mortality in adulthood. Childhood obesity has considerable social and psychological consequences within childhood and adolescence, yet little is known about social, socioeconomic, and psychological consequences in adult life. A recent systematic review found no longitudinal studies on the outcomes of childhood obesity other than physical health outcomes and only two longitudinal studies of the socioeconomic effects of obesity in adolescence. Gortmaker et al. found that US women who had been obese in late adolescence in 1981 were less likely to be married and had lower incomes seven years later than women who had not been overweight, while men who had been overweight were less likely to be married. Sargent et al. found that UK women, but not men, who had been obese at 16 years in 1974 earned 7.4% less than their non-obese peers at age 23. (…) We used longitudinal data from the 1970 British birth cohort to examine the adult socioeconomic, educational, social, and psychological outcomes of childhood obesity” [@viner2005; @vandenbroucke2007].</br></br>
+
+## Field-specific guidance  
 **Molecular epidemiology [@gallo2012]**   
 -	Explain in the scientiﬁc background of the paper how ⁄why the speciﬁc biomarker(s) have been chosen, potentially among many others (e.g. others are studied but reported elsewhere or not studied at all)  
-</br>
 
 **Infectious disease molecular epidemiology [@field2014]**   
 -	Provide background information about the pathogen population and the distribution of pathogen strains within the host population at risk  
-</br>
 
 **Seroepidemiologic studies for influenza [@horby2017]**  
 -	State what is known about the kinetics of antibody rise, decay, and persistence following infection for the particular virus being studied and the justification for threshold antibody titers or changes in titers used to define evidence of infection  
 -	State what is known about the sensitivity and specificity of the antibody detection assay being used  
-</br>
 
 **Simulation-based research [@cheng2016]**  
--	Clarify whether simulation is subject of research or investigational method for research
+-	Clarify whether simulation is subject of research or investigational method for research  
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 

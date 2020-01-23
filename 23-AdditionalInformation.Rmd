@@ -15,28 +15,29 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Additional Information 
-- Describe informed consent proceduers and and approval from ethical committee(s). 
-
-if not, specify reason (e.g., public health outbreak response/non-research designation)
-- report any ethical considerations, including the recruitment of young mothers (minors), and the consent process for early recruitment of neonates after delivery.
-
-
-- Specify whether data/samples were anonymous, anonymized or identiﬁable
+- Describe informed consent proceduers and and approval from ethical committee(s)  
+ - If ethical approval was not obtained, explain the reason why not (e.g., public health outbreak response/non-research designation)  
+_ Report any special ethical considerations (e.g., recruitment of minors, children, nenoates, etc.)
+- Specify whether data/samples were anonymous, anonymized, or identiﬁable
 - Provide information on how to access supplemental information, the study protocol, data collection tools, raw data, and/or code
 -	Describe any conﬂicts of interest, or lack thereof, for each author(c)
 - Describe the authors’ roles (CREDIT and/or ICMJE criteria)
-- Describe any quality standards used in the conduct of the research
+- Describe any quality standards used in the conduct of the research </br>
 
-## Explanation and Elaboration [@vandenbroucke2007]
-> Concluding Remarks </br>
-STROBE Statement aims to provide helpful recommendations for reporting observational studies in epidemiology. Good reporting reveals the strengths and weaknesses of a study and facilitates sound interpretation and application of study results. The STROBE Statement may also aid in planning observational studies, and guide peer reviewers and editors in their evaluation of manuscripts.
+## Explanation  
+> Concluding Remarks  
+STROBE Statement aims to provide helpful recommendations for reporting observational studies in epidemiology. Good reporting reveals the strengths and weaknesses of a study and facilitates sound interpretation and application of study results. The STROBE Statement may also aid in planning observational studies, and guide peer reviewers and editors in their evaluation of manuscripts.  
 </br>
-We wrote this explanatory article to discuss the importance of transparent and complete reporting of observational studies, to explain the rationale behind the different items included in the checklist, and to give examples from published articles of what we consider good reporting. We hope that the material presented here will assist authors and editors in using STROBE.
+We wrote this explanatory article to discuss the importance of transparent and complete reporting of observational studies, to explain the rationale behind the different items included in the checklist, and to give examples from published articles of what we consider good reporting. We hope that the material presented here will assist authors and editors in using STROBE.  
 </br>
-We stress that STROBE and other recommendations on the reporting of research13,233,234 should be seen as evolving documents that require continual assessment, refinement, and, if necessary, change.235,236 For example, the CONSORT Statement for the reporting of parallel-group randomized trials was first developed in the mid 1990s.237 Since then members of the group have met regularly to review the need to revise the recommendations; a revised version appeared in 2001233 and a further version is in development. Similarly, the principles presented in this article and the STROBE checklist are open to change as new evidence and critical comments accumulate. The STROBE web site (http://www.strobe-statement.org) provides a forum for discussion and suggestions for improvements of the checklist, this explanatory document and information about the good reporting of epidemiological studies.
+We stress that STROBE and other recommendations on the reporting of research13,233,234 should be seen as evolving documents that require continual assessment, refinement, and, if necessary, change.235,236 For example, the CONSORT Statement for the reporting of parallel-group randomized trials was first developed in the mid 1990s.237 Since then members of the group have met regularly to review the need to revise the recommendations; a revised version appeared in 2001233 and a further version is in development. Similarly, the principles presented in this article and the STROBE checklist are open to change as new evidence and critical comments accumulate. The [STROBE web site] (http://www.strobe-statement.org) provides a forum for discussion and suggestions for improvements of the checklist, this explanatory document and information about the good reporting of epidemiological studies.  
 </br>
-Several journals ask authors to follow the STROBE Statement in their instructions to authors (see web site for current list). We invite other journals to adopt the STROBE Statement and contact us through our web site to let us know.The journals publishing the STROBE recommendations provide open access. The STROBE Statement is therefore widely accessible to the biomedical community.
+Several journals ask authors to follow the STROBE Statement in their instructions to authors (see web site for current list). We invite other journals to adopt the STROBE Statement and contact us through our web site to let us know.The journals publishing the STROBE recommendations provide open access. The STROBE Statement is therefore widely accessible to the biomedical community.[@vandenbroucke2007]
 
-<h2> Field-specific guidance:</h2>
-**Simulation-based research [@cheng2016]**
-- List simulator brand and if conflict of interest for intellectual property exists.
+## Field-specific guidance  
+**Simulation-based research [@cheng2016]**  
+- List simulator brand and if conflict of interest for intellectual property exists.</br> 
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 

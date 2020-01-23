@@ -26,7 +26,7 @@ Due to the complex design and conduct of observational studies, they have been d
 Due to a high prevalence of observational studies in biomedical research, widespread poor reporting means that an enormous amount of the medical literature has issues. Research has shown that items concerning the methodology and results of observational studies are particularly poorly reported reported [@irani2018; @jeelani2014; @kim2012; @langan2010; @papathanasiou2010; @poorolajal2011]. Details about participants, data collection methods, and analyses are common problems. Missing details on how many people were eligible to participate, consented, and lost to follow-up questions the generalizability of results. Whereas, missing data, the reliability of the data collection instruments used, how the data was analyzed, and missing disclosures of funding sources can be worrying as motives for certain narratives or results may be hidden. Therefore, a reporting guideline for observational research is critically needed to reinforce replicability and reproducibility and instill greater confidence in the trustworthiness of results. 
 </br>
 
-## What is STROBE and how can I use it? {-}
+## What is STROBE? {-}
 The STrengthening the Reporting of OBservational studies in Epidemiology (STROBE) Statement is a 22-item checklist that details the key information needed when reporting the results of an observational study [@vonelm2007] (Figure 1). It is also accompanied by an Explanation and Elaboration (E&E) document that provides further details for each checklist item and gives examples of good reporting [@vandenbroucke2007]. 
 </br>
 

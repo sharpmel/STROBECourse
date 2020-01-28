@@ -15,47 +15,45 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Methods: Statistical Methods (12)
-> The items from STROBE state that you should report: 
--	Describe all statistical methods, including those used to control for confounding
--	Describe any methods used to examine subgroups and interactions
--	Explain how missing data were addressed
--	Cohort study If applicable, explain how loss to follow up was addressed
--	Case-control study If applicable, explain how matching of cases and controls was addressed
--	Cross-sectional study If applicable, describe analytical methods taking account of sampling strategy
--	(e) Describe any sensitivity analyses
+> The items from STROBE state that you should report:   
+-	Describe all statistical methods, including those used to control for confounding  
+-	Describe any methods used to examine subgroups and interactions  
+-	Explain how missing data were addressed  
+-	Cohort study If applicable, explain how loss to follow up was addressed  
+-	Case-control study If applicable, explain how matching of cases and controls was addressed  
+-	Cross-sectional study If applicable, describe analytical methods taking account of sampling strategy  
+-	(e) Describe any sensitivity analyses  
 
-**Some key items to consider adding:** 
--	How non-independence (i.e. relatedness) of data was managed and corrected for
+**Some key items to consider adding:**  
+-	How non-independence (i.e. relatedness) of data was managed and corrected for  
 - The validity and reliability of any measurements used 
-- If any internatl or external validation was done
-- How items were introduced into statistical models
-- How missing data was addressed
-- Data cleaning methods 
+- If any interntl or external validation was done  
+- How items were introduced into statistical models  
+- How missing data was addressed  
+- Data cleaning methods   
 - Methods to address multiple comparisons 
-- Adjustements for measurement error
-- Methods to assess or address population stratification
-- Data analysis software version and options/settings used 
-- Methods used to assess robustness of analyses (e.g, sensitivity analyses or quantitative bias assessment)
-- All statistical methods for each objective,
-  - At a level of detail suﬃcient for a knowledgeable reader to replicate the methods
-  - Includning those to account for sampling strategy (e.g., estimator used)
-  - Those to control for confounding
+- Adjustements for measurement error  
+- Methods to assess or address population stratification  
+- Data analysis software version and options/settings used   
+- Methods used to assess robustness of analyses (e.g, sensitivity analyses or quantitative bias assessment)  
+- All statistical methods for each objective  
+  - At a level of detail suﬃcient for a knowledgeable reader to replicate the methods  
+  - Includning those to account for sampling strategy (e.g., estimator used)  
+  - Those to control for confounding  
   - Approaches to variable selection  
-  - Methods used to control for confounding, 
-  - Methods used to control for non-independence
-  
-
+  - Methods used to control for confounding,  
+  - Methods used to control for non-independence  
+  - Methods to address multiple comparisons or to control for the risk of false positive findings
+  - Methods to combine data 
 -	If the same association under study has previously been published, consider using a similar analysis model and deﬁnitions for replicative purposes  
--	Whether the study included person level, institutional-level, or other data linkage across two or more databases. The methods of linkage and methods of linkage quality evaluation should be provided.  
--	Describe any methods used to address multiple comparisons or to control risk of false positive findings. 
--	nut-12.1. Describe any statistical method used to combine dietary or nutritional data, if applicable.  
--	nut-12.3. Report any adjustments for measurement error, i.e., from a validity or calibration study.  
--	SBR12 Clearly indicate the unit of analysis (e.g., individual, team, system), 
+-	Whether the study included person level, institutional-level, or other data linkage across two or more databases. The methods of linkage and methods of linkage quality evaluation should be provided  
+-  Report any adjustments for measurement error, i.e., from a validity or calibration study.  
+-	 Clearly indicate the unit of analysis (e.g., individual, team, system), 
 - identify repeated measures on subjects, and describe how these issues were addressed.  
--	VET12 (b) Describe the rationale for examining subgroups and interactions and the methods used  
+-	Describe the rationale for examining subgroups and interactions and the methods used
 -	analytical approach to loss to follow-up, matching, complex sampling, and multiplicity of analyses  
 
-
+</br>
 ## Explanation 12a
 > In general, there is no one correct statistical analysis but, rather, several possibilities that may address the same question, but make different assumptions. Regardless, investigators should pre-determine analyses at least for the primary study objectives in a study protocol. Often additional analyses are needed, either instead of, or as well as, those originally envisaged, and these may sometimes be motivated by the data. When a study is reported, authors should tell readers whether particular analyses were suggested by data inspection. Even though the distinction between pre-specified and exploratory analyses may sometimes be blurred, authors should clarify reasons for particular analyses.
 </br>
@@ -69,15 +67,15 @@ In an empirical study, only 93 of 169 articles (55%) reporting adjustment for co
 </br></br>
 
 ## Explanation 12b
-> As discussed in detail under item 17, many debate the use and value of analyses restricted to subgroups of the study population.4,104 Subgroup analyses are nevertheless often done.4 Readers need to know which subgroup analyses were planned in advance, and which arose while analyzing the data. Also, it is important to explain what methods were used to examine whether effects or associations differed across groups (see item 17).
+> As discussed in detail under [item 17][Results: Other Analyses (17)], many debate the use and value of analyses restricted to subgroups of the study population.4,104 Subgroup analyses are nevertheless often done.4 Readers need to know which subgroup analyses were planned in advance, and which arose while analyzing the data. Also, it is important to explain what methods were used to examine whether effects or associations differed across groups (see [item 17][Results: Other Analyses (17)]).
 </br>
 Interaction relates to the situation when one factor modifies the effect of another (therefore also called ‘effect modification’). The joint action of two factors can be characterized in two ways: on an additive scale, in terms of risk differences; or on a multiplicative scale, in terms of relative risk (see box 8). Many authors and readers may have their own preference about the way interactions should be analyzed. Still, they may be interested to know to what extent the joint effect of exposures differs from the separate effects. There is consensus that the additive scale, which uses absolute risks, is more appropriate for public health and clinical decision making.105 Whatever view is taken, this should be clearly presented to the reader, as is done in the example above.103 A lay-out presenting separate effects of both exposures as well as their joint effect, each relative to no exposure, might be most informative. It is presented in the example for interaction under item 17, and the calculations on the different scales are explained in box 8. 
 </br>
 
 ## Examples 12b
-“Sex differences in susceptibility to the 3 lifestyle-related risk factors studied were explored by testing for biological interaction according to Rothman: a new composite variable with 4 categories (a−b−, a−b+, a+b−, and a+b+) was redefined for sex and a dichotomous exposure of interest where a− and b− denote absence of exposure. RR was calculated for each category after adjustment for age. An interaction effect is defined as departure from additivity of absolute effects, and excess RR caused by interaction (RERI) was calculated:
+“Sex differences in susceptibility to the 3 lifestyle-related risk factors studied were explored by testing for biological interaction according to Rothman: a new composite variable with 4 categories (a−b−, a−b+, a+b−, and a+b+) was redefined for sex and a dichotomous exposure of interest where a− and b− denote absence of exposure. RR was calculated for each category after adjustment for age. An interaction effect is defined as departure from additivity of absolute effects, and excess RR caused by interaction (RERI) was calculated:  
 
-where RR(a+b+) denotes RR among those exposed to both factors where RR(a−b−) is used as reference category (RR = 1.0). Ninety-five percent CIs were calculated as proposed by Hosmer and Lemeshow. RERI of 0 means no interaction” [103].
+where RR(a+b+) denotes RR among those exposed to both factors where RR(a−b−) is used as reference category (RR = 1.0). Ninety-five percent CIs were calculated as proposed by Hosmer and Lemeshow. RERI of 0 means no interaction” [103].  
 
 
 
@@ -101,45 +99,44 @@ It is important to distinguish persons who reach the end of the study from those
 
 
 ## Explanation 12d Cross-sectional
-> Most cross-sectional studies use a pre-specified sampling strategy to select participants from a source population. Sampling may be more complex than taking a simple random sample, however. It may include several stages and clustering of participants (eg, in districts or villages). Proportionate stratification may ensure that subgroups with a specific characteristic are correctly represented. Disproportionate stratification may be useful to over-sample a subgroup of particular interest. 
+> Most cross-sectional studies use a pre-specified sampling strategy to select participants from a source population. Sampling may be more complex than taking a simple random sample, however. It may include several stages and clustering of participants (eg, in districts or villages). Proportionate stratification may ensure that subgroups with a specific characteristic are correctly represented. Disproportionate stratification may be useful to over-sample a subgroup of particular interest.   
 </br>
-An estimate of association derived from a complex sample may be more or less precise than that derived from a simple random sample. Measures of precision such as standard error or confidence interval should be corrected using the design effect, a ratio measure that describes how much precision is gained or lost if a more complex sampling strategy is used instead of simple random sampling.119 Most complex sampling techniques lead to a decrease of precision, resulting in a design effect greater than 1. 
+An estimate of association derived from a complex sample may be more or less precise than that derived from a simple random sample. Measures of precision such as standard error or confidence interval should be corrected using the design effect, a ratio measure that describes how much precision is gained or lost if a more complex sampling strategy is used instead of simple random sampling.119 Most complex sampling techniques lead to a decrease of precision, resulting in a design effect greater than 1.   
 </br>
-We advise that authors clearly state the method used to adjust for complex sampling strategies so that readers may understand how the chosen sampling method influenced the precision of the obtained estimates. For instance, with clustered sampling, the implicit trade-off between easier data collection and loss of precision is transparent if the design effect is reported. In the example, the calculated design effects of 1.9 for men indicates that the actual sample size would need to be 1.9 times greater than with simple random sampling for the resulting estimates to have equal precision. 
+We advise that authors clearly state the method used to adjust for complex sampling strategies so that readers may understand how the chosen sampling method influenced the precision of the obtained estimates. For instance, with clustered sampling, the implicit trade-off between easier data collection and loss of precision is transparent if the design effect is reported. In the example, the calculated design effects of 1.9 for men indicates that the actual sample size would need to be 1.9 times greater than with simple random sampling for the resulting estimates to have equal precision.   
 
 
-## Explanation 12e {#item12e}
-> Sensitivity analyses are useful to investigate whether or not the main results are consistent with those obtained with alternative analysis strategies or assumptions.121 Issues that may be examined include the criteria for inclusion in analyses, the definitions of exposures or outcomes,122 which confounding variables merit adjustment, the handling of missing data,120,123 possible selection bias or bias from inaccurate or inconsistent measurement of exposure, disease and other variables, and specific analysis choices, such as the treatment of quantitative variables (see item 11). Sophisticated methods are increasingly used to simultaneously model the influence of several biases or assumptions.124–126 
+## Explanation 12e  
+> Sensitivity analyses are useful to investigate whether or not the main results are consistent with those obtained with alternative analysis strategies or assumptions.121 Issues that may be examined include the criteria for inclusion in analyses, the definitions of exposures or outcomes,122 which confounding variables merit adjustment, the handling of missing data,120,123 possible selection bias or bias from inaccurate or inconsistent measurement of exposure, disease and other variables, and specific analysis choices, such as the treatment of quantitative variables (see item 11). Sophisticated methods are increasingly used to simultaneously model the influence of several biases or assumptions.124–126  
 </br> 
-In 1959 Cornfield et al famously showed that a relative risk of 9 for cigarette smoking and lung cancer was extremely unlikely to be due to any conceivable confounder, since the confounder would need to be at least nine times as prevalent in smokers as in non-smokers.127 This analysis did not rule out the possibility that such a factor was present, but it did identify the prevalence such a factor would need to have. The same approach was recently used to identify plausible confounding factors that could explain the association between childhood leukemia and living near electric power lines.128 More generally, sensitivity analyses can be used to identify the degree of confounding, selection bias, or information bias required to distort an association. One important, perhaps under recognized, use of sensitivity analysis is when a study shows little or no association between an exposure and an outcome and it is plausible that confounding or other biases toward the null are present. 
-</br></br>
+In 1959 Cornfield et al famously showed that a relative risk of 9 for cigarette smoking and lung cancer was extremely unlikely to be due to any conceivable confounder, since the confounder would need to be at least nine times as prevalent in smokers as in non-smokers.127 This analysis did not rule out the possibility that such a factor was present, but it did identify the prevalence such a factor would need to have. The same approach was recently used to identify plausible confounding factors that could explain the association between childhood leukemia and living near electric power lines.128 More generally, sensitivity analyses can be used to identify the degree of confounding, selection bias, or information bias required to distort an association. One important, perhaps under recognized, use of sensitivity analysis is when a study shows little or no association between an exposure and an outcome and it is plausible that confounding or other biases toward the null are present.  
 </br></br>
 
 ## Field-specific guidance 
 **Genetic association studies [@little2009]**  
--	State whether Hardy-Weinberg equilibrium was considered and, if so, how.
--	Describe any methods used for inferring genotypes or haplotypes. </br> 
+-	State whether Hardy-Weinberg equilibrium was considered and, if so, how  
+-	Describe any methods used for inferring genotypes or haplotypes  </br> 
 
 **Nutritional data [@lachat2016]**  
--	Describe and justify the method for energy adjustments, intake modeling, and use of weighting factors, if applicable. </br>
+-	Describe and justify the method for energy adjustments, intake modeling, and use of weighting factors, if applicable  </br>
 
 **Response-driven sampling [@white2015]**  
 -	Report any criteria used to support statements on whether estimator conditions or assumptions were appropriate  
--	Explain how seeds were handled in analysis. </br>
+-	Explain how seeds were handled in analysis  </br>
 
 **Rheumatology[@zavada2014]**  
 -	Deﬁne and justify the risk window. Whenever possible, categorise as (1) on drug, (2) on drug + lag window or (3) ever treated  
--	The use of multiple risk attribution models and lag windows is encouraged if appropriate, but needs to be accompanied by a description of numbers and relative risks for each model. </br>
+-	The use of multiple risk attribution models and lag windows is encouraged if appropriate, but needs to be accompanied by a description of numbers and relative risks for each model  </br>
 
 **Routinely collected health data [@benchimol2015]**  
--	Authors should describe the extent to which the investigators had access to the database population used to create the study population. </br>
+-	Authors should describe the extent to which the investigators had access to the database population used to create the study population  </br>
 
 **Seroepidemiologic studies for influenza [@horby2017]**  
 - If relevant, report methods used to account for the probability of seropositivity or seroconversion if infected, and to account for decay in antibody titers over time  
 -	Describe the sample type—serum or plasma. If plasma is used, specify the anticoagulant used (heparin, sodium citrate, EDTA, etc.)  
 -	Describe the specimen storage conditions (4°C, −20 °C, −80 °C). If frozen prior to the analysis, describe the time to freezing and the number of freeze/thaw cycles prior to testing  
 -	Specify the assay type (e.g., hemagglutination inhibition; virus neutralization/microneutralization; ELISA; other) and methods used to determine the endpoint titer  
--	Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials
+-	Reference a previously published, CONSISE consensus serologic assay or WHO protocol if used, and any modifications of the protocol. If a previously published protocol is not used, provide full details in supplementary materials  
 - State what is known about the determinants of the variability of the antibody detection assay being used  
 -	Specify the antigen(s) used in the assay, including virus strain name, subtype, lineage or clade, with standardized nomenclature and reference; specify whether live virus or inactivated virus was used (where applicable)  
 -	Report if antigen(s) from potentially cross-reactive pathogens/strains were used in order to identify cross-reactivity, and specify which antigen was used, including virus name, subtype, strain, lineage and clade, with standardized nomenclature and reference  
@@ -152,6 +149,9 @@ In 1959 Cornfield et al famously showed that a relative risk of 9 for cigarette 
 -	Specify international standards used, if appropriate  
 
 ## Additional Resources {-}
-van smeden 2019 https://academic.oup.com/ije/advance-article/doi/10.1093/ije/dyz251/5671729?guestAccessKey=561d355c-6d73-4a80-8e9f-5e6155afce87
-Reflection on modern methods: five myths about measurement error in epidemiological research
-Jonas Kristoffer Lindeløv https://lindeloev.github.io/tests-as-linear/
+[@vansmeden2019]
+[@lindelov2020]
+
+</br>
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).

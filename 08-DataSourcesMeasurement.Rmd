@@ -16,8 +16,7 @@ edit: https://github.com/sharpmel/STROBECourse
 
 # Methods: Data/Measurement (8)  
 > The items from STROBE state that you should report:  
--	For each variable of interest, give sources of data and details of methods of assessment (measurement). Describe comparability of assessment methods if there is more than one group.   
-
+-	For each variable of interest, give sources of data and details of methods of assessment (measurement). Describe comparability of assessment methods if there is more than one group. 
 </br> 
 
 **Some key items to consider adding:**  
@@ -27,15 +26,16 @@ edit: https://github.com/sharpmel/STROBECourse
 - Any methods used to support data integrity or the accuracy of the data (e.g., double-entry, methods for "data cleaning")  
 - Any methods used to enhance the quality of measurements   
 - Comparability of assessment methods among groups and over time   
-
-
-## Explanation 
->The way in which exposures, confounders and outcomes were measured affects the reliability and validity of a study. Measurement error and misclassification of exposures or outcomes can make it more difficult to detect cause-effect relationships, or may produce spurious relationships. Error in measurement of potential confounders can increase the risk of residual confounding.[@becher1992; @brenner1997]. It is helpful, therefore, if authors report the findings of any studies of the validity or reliability of assessments or measurements, including details of the reference standard that was used. Rather than simply citing validation studies (as in the first example), we advise that authors give the estimated validity or reliability, which can then be used for measurement error adjustment or sensitivity analyses (see items [12e](#Explanation 12e) and [17](item17)).
 </br>
-In addition, it is important to know if groups being compared differed with respect to the way in which the data were collected. This may be important for laboratory examinations (as in the second example) and other situations. For instance, if an interviewer first questions all the cases and then the controls, or vice versa, bias is possible because of the learning curve; solutions such as randomizing the order of interviewing may avoid this problem. Information bias may also arise if the compared groups are not given the same diagnostic tests or if one group receives more tests of the same kind than another (see also [item 9](item9)).</br>
 
-## Examples   
-Example 1.    
+## Explanation  
+> The way in which exposures, confounders and outcomes were measured affects the reliability and validity of a study. Measurement error and misclassification of exposures or outcomes can make it more difficult to detect cause-effect relationships, or may produce spurious relationships. Error in measurement of potential confounders can increase the risk of residual confounding. [@becher1992; @brenner1997]. It is helpful, therefore, if authors report the findings of any studies of the validity or reliability of assessments or measurements, including details of the reference standard that was used. Rather than simply citing validation studies (as in the first example), we advise that authors give the estimated validity or reliability, which can then be used for measurement error adjustment or sensitivity analyses (see items [12e][Explanation-12e] and [17][Results:-Other-Analyses-(17)]). 
+</br>
+In addition, it is important to know if groups being compared differed with respect to the way in which the data were collected. This may be important for laboratory examinations (as in the second example) and other situations. For instance, if an interviewer first questions all the cases and then the controls, or vice versa, bias is possible because of the learning curve; solutions such as randomizing the order of interviewing may avoid this problem. Information bias may also arise if the compared groups are not given the same diagnostic tests or if one group receives more tests of the same kind than another (see also [item 9][Methods: Bias (9)]).
+</br>
+
+## Examples 
+Example 1.  
 “Total caffeine intake was calculated primarily using US Department of Agriculture food composition sources. In these calculations, it was assumed that the content of caffeine was 137 mg per cup of coffee, 47 mg per cup of tea, 46 mg per can or bottle of cola beverage, and 7 mg per serving of chocolate candy. This method of measuring (caffeine) intake was shown to be valid in both the NHS I cohort and a similar cohort study of male health professionals (...) Self-reported diagnosis of hypertension was found to be reliable in the NHS I cohort” [@winkelmayer2005; @vandenbroucke2007].  
 </br> 
 Example 2.  
@@ -50,10 +50,10 @@ Example 2.
 -	Laboratory methods: report type of assay used, detection limit, quantity of biological sample used, outliers, timing in the assay procedures (when applicable) and calibration procedures or any standard used  </br>
 
 **Genetic association studies [@little2009]**  
--	Describe laboratory methods, including source and storage of DNA, genotyping methods and platforms (including the allele calling algorithm used, and its version), error rates and call rates.  
-- State the laboratory/centre where genotyping was done.  
-- Describe comparability of laboratory methods if there is more than one group.  
-- Specify whether genotypes were assigned using all of the data from the study simultaneously or in smaller batches.  </br>
+-	Describe laboratory methods, including source and storage of DNA, genotyping methods and platforms (including the allele calling algorithm used, and its version), error rates and call rates  
+- State the laboratory/centre where genotyping was done  
+- Describe comparability of laboratory methods if there is more than one group  
+- Specify whether genotypes were assigned using all of the data from the study simultaneously or in smaller batches  </br>
 
 **Infectious disease molecular epidemiology [@field2014]**  
 - Describe any methods used to detect multiple-strain infections and measure their eﬀect on the study ﬁndings  </br>
@@ -62,8 +62,8 @@ Example 2.
 -	Describe the dietary assessment method(s), e.g., portion size estimation, number of days and items recorded, how it was developed and administered, and how quality was assured. Report if and how supplement intake was assessed  
 -	 Describe and justify food composition data used. Explain the procedure to match food composition with consumption data. Describe the use of conversion factors, if applicable.  
 -	Describe the nutrient requirements, recommendations, or dietary guidelines and the evaluation approach used to compare intake with the dietary reference values, if applicable.  
--	When using nutritional biomarkers, additionally use the STROBE Extension for Molecular Epidemiology (STROBE-ME). Report the type of biomarkers used and their usefulness as dietary exposure markers.  
--	Describe the assessment of nondietary data (e.g., nutritional status and inﬂuencing factors) and timing of the assessment of these variables in relation to dietary assessment.  </br>
+-	When using nutritional biomarkers, additionally use the STROBE Extension for Molecular Epidemiology (STROBE-ME). Report the type of biomarkers used and their usefulness as dietary exposure markers  
+-	Describe the assessment of nondietary data (e.g., nutritional status and inﬂuencing factors) and timing of the assessment of these variables in relation to dietary assessment  </br>
 
 **Seroepidemiologic studies for influenza [@horby2017]**  
 -	If relevant, describe measures taken to identify and record immunization history  </br>
@@ -73,5 +73,4 @@ Example 2.
 
 ## Resources  
 Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
-</br> 
-
+</br>  

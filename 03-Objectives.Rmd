@@ -24,7 +24,7 @@ edit: https://github.com/sharpmel/STROBECourse
 - If the research is exploratory in nature, state it
 </br> 
 
-## Explanation and Elaboration
+## Explanation
 > Objectives are the detailed aims of the study. Well crafted objectives specify populations, exposures and outcomes, and parameters that will be estimated. They may be formulated as specific hypotheses or as questions that the study was designed to address. In some situations objectives may be less specific, for example, in early discovery phases.</br> 
 Regardless, the report should clearly reflect the investigators’ intentions. For example, if important subgroups or additional analyses were not the original aim of the study but arose during data analysis, they should be described accordingly (see also items 4, 17 and 20).</br> 
 

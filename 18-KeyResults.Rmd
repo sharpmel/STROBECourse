@@ -18,7 +18,7 @@ edit: https://github.com/sharpmel/STROBECourse
 > The items from STROBE state that you should report:   
 -	Summarize key results with reference to study objectives  
 
-##Discussion  
+## Discussion  
 The discussion section addresses the central issues of validity and meaning of the study [191]. Surveys have found that discussion sections are often dominated by incomplete or biased assessments of the study's results and their implications, and rhetoric supporting the authors' findings [192,193]. Structuring the discussion may help authors avoid unwarranted speculation and over-interpretation of results while guiding readers through the text [194,195]. For example, Annals of Internal Medicine [196] recommends that authors structure the discussion section by presenting the following: (1) a brief synopsis of the key findings; (2) consideration of possible mechanisms and explanations; (3) comparison with relevant findings from other published studies; (4) limitations of the study; and (5) a brief section that summarizes the implications of the work for practice and research. Others have made similar suggestions [191,194]. The section on research recommendations and the section on limitations of the study should be closely linked to each other. Investigators should suggest ways in which subsequent research can improve on their studies rather than blandly stating ‘more research is needed' [197,198]. We recommend that authors structure their discussion sections, perhaps also using suitable [@vandenbroucke2007]
 </br> 
 
@@ -27,7 +27,7 @@ The discussion section addresses the central issues of validity and meaning of t
 </br>
 
 ## Examples  
-“We hypothesized that ethnic minority status would be associated with higher levels of cardiovascular disease (CVD) risk factors, but that the associations would be explained substantially by socioeconomic status (SES). Our hypothesis was not confirmed. After adjustment for age and SES, highly significant differences in body mass index, blood pressure, diabetes, and physical inactivity remained between white women and both black and Mexican American women. In addition, we found large differences in CVD risk factors by SES, a finding that illustrates the high-risk status of both ethnic minority women as well as white women with low SES.”199 [@vandenbroucke2007]
+“We hypothesized that ethnic minority status would be associated with higher levels of cardiovascular disease (CVD) risk factors, but that the associations would be explained substantially by socioeconomic status (SES). Our hypothesis was not confirmed. After adjustment for age and SES, highly significant differences in body mass index, blood pressure, diabetes, and physical inactivity remained between white women and both black and Mexican American women. In addition, we found large differences in CVD risk factors by SES, a finding that illustrates the high-risk status of both ethnic minority women as well as white women with low SES.”199 [@vandenbroucke2007]  
 </br></br>
 
 ## Resources  

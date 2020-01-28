@@ -83,3 +83,7 @@ complex observational studies, we do not propose a specific format for the diagr
 **Veterinary epidemiology [@oconnor2016]**</br>
 - Report the numbers of owners/managers and animals at each stage of study and at each relevant level of organization - e.g, numbers eligible, included in the study, completing follow-up, and analyzed</br>
 - Give reasons for non-participation at each stage and at each relevant level of organization  
+</br>
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).

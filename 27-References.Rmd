@@ -18,6 +18,19 @@ link-citations: yes
 Rothman Epi book
 Galea/Keyes epi book? 
 Boston University PH site
-writing aid tool
+General Epidemiology 
+[@hopkins2020]
+
+
+<h2> Writing Resources </h2>
+**Writing Aid Tool**  
+[@lachat2019; @hawwash2019]
+**Others**
+[@perneger2004]
+
+<h2> Teaching Epidemiology </h2>
+https://www.amazon.co.uk/Teaching-Epidemiology-Teachers-Clinical-Medicine/dp/0199239479
+Teaching Epidemiology at the Undergraduate Level: Considerations and Approaches 
+https://academic.oup.com/aje/article/180/7/661/150653
 
 ## References

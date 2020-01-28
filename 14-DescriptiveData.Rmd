@@ -56,26 +56,30 @@ In case-control studies potential confounders cannot be judged by comparing case
 </br></br>
 ## Field-specific guidance  
 **Anti-microbial stewardship programs [@tacconelli2016]**  
--	Specify among the exposure: previous stay in long-term care facilities, nursing home and other healthcare settings </br>
+-	Specify among the exposure: previous stay in long-term care facilities, nursing home and other healthcare settings  </br>
 
 **Genetic association studies [@little2009]**  
--	STREGA14a Consider giving information by genotype.</br>
+-	STREGA14a Consider giving information by genotype  </br>
 
 **Infectious disease molecular epidemiology [@field2014]**  
-- Give information by strain type if appropriate, with use of standardised nomenclature </br>
+- Give information by strain type if appropriate, with use of standardised nomenclature  </br>
 
 **Neonatal infections [@fitchett2016]**  
 -	Describe maternal infections (clinical or on screening—eg, group B streptococcus or HIV) or risk factors for infection (eg, premature rupture of membranes, peripartum fever)  
 -	Describe key neonatal characteristics, including sex, postnatal and gestational age categories (range and median), birthweight categories (range and median), birth place, feeding (breastmilk or other), and comorbidities  
 -	Report data on occurrence of individual signs, according to case deﬁnitions  
--	Give proportion of mothers and neonates with peripartum antibiotic exposure (with or without pre-admission exposusure for neonates). Report details of antimicrobial drugs (or supportive care) given during the study </br> 
+-	Give proportion of mothers and neonates with peripartum antibiotic exposure (with or without pre-admission exposusure for neonates). Report details of antimicrobial drugs (or supportive care) given during the study  </br> 
 
 **Nutritional data [@lachat2016]**  
--	Give the distribution of participant characteristics across the exposure variables if applicable. Specify if food consumption of total population or consumers only were used to obtain results. </br> 
+-	Give the distribution of participant characteristics across the exposure variables if applicable. Specify if food consumption of total population or consumers only were used to obtain results  </br> 
 
 **Simulation-based research [@cheng2016]**  
--	In describing characteristics of study participants, include their previous experience with simulation and other relevant features as related to the intervention(s). </br>
+-	In describing characteristics of study participants, include their previous experience with simulation and other relevant features as related to the intervention(s)  </br>
 
 **Veterinary epidemiology [@oconnor2016]**  
 -	Give characteristics of study participants (e.g, demographic, clinical, social) and information on exposures and potential confounders by group and level of organization, if applicable   
--	Indicate number of participants with missing data for each variable of interest and at all relevant levels of organization</br>
+-	Indicate number of participants with missing data for each variable of interest and at all relevant levels of organization  
+
+</br>
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).

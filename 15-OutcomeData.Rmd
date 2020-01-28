@@ -15,10 +15,10 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Results: Outcome Data (15)
->The items from STROBE state that you should report: 
-- Cohort study Report numbers of outcome events or summary measures over time
-- Case-control study Report numbers in each exposure category, or summary measures of exposure
-- Cross-sectional study Report numbers of outcome events or summary measures
+>The items from STROBE state that you should report:  
+- Cohort study Report numbers of outcome events or summary measures over time  
+- Case-control study Report numbers in each exposure category, or summary measures of exposure  
+- Cross-sectional study Report numbers of outcome events or summary measures  
 
 </br> 
 
@@ -30,10 +30,10 @@ edit: https://github.com/sharpmel/STROBECourse
 
 </br> 
 
-## Explanation
-> Before addressing the possible association between exposures (risk factors) and outcomes, authors should report relevant descriptive data. It may be possible and meaningful to present measures of association in the same table that presents the descriptive data (see item 14a). In a cohort study with events as outcomes, report the numbers of events for each outcome of interest. Consider reporting the event rate per person-year of follow-up. If the risk of an event changes over follow-up time, present the numbers and rates of events in appropriate intervals of follow-up or as a Kaplan-Meier life table or plot. It might be preferable to show plots as cumulative incidence that go up from 0% rather than down from 100%, especially if the event rate is lower than, say, 30%.153 Consider presenting such information separately for participants in different exposure categories of interest. If a cohort study is investigating other time-related outcomes (eg, quantitative disease markers such as blood pressure), present appropriate summary measures (eg, means and standard deviations) over time, perhaps in a table or figure.
+## Explanation  
+> Before addressing the possible association between exposures (risk factors) and outcomes, authors should report relevant descriptive data. It may be possible and meaningful to present measures of association in the same table that presents the descriptive data (see item 14a). In a cohort study with events as outcomes, report the numbers of events for each outcome of interest. Consider reporting the event rate per person-year of follow-up. If the risk of an event changes over follow-up time, present the numbers and rates of events in appropriate intervals of follow-up or as a Kaplan-Meier life table or plot. It might be preferable to show plots as cumulative incidence that go up from 0% rather than down from 100%, especially if the event rate is lower than, say, 30%.153 Consider presenting such information separately for participants in different exposure categories of interest. If a cohort study is investigating other time-related outcomes (eg, quantitative disease markers such as blood pressure), present appropriate summary measures (eg, means and standard deviations) over time, perhaps in a table or figure.  
 </br>
-For cross-sectional studies, we recommend presenting the same type of information on prevalent outcome events or summary measures. For case-control studies, the focus will be on reporting exposures separately for cases and controls as frequencies or quantitative summaries.154 For all designs, it may be helpful also to tabulate continuous outcomes or exposures in categories, even if the data are not analyzed as such.[@vandenbroucke2007]
+For cross-sectional studies, we recommend presenting the same type of information on prevalent outcome events or summary measures. For case-control studies, the focus will be on reporting exposures separately for cases and controls as frequencies or quantitative summaries.154 For all designs, it may be helpful also to tabulate continuous outcomes or exposures in categories, even if the data are not analyzed as such.[@vandenbroucke2007]  
 
 ## Examples
 
@@ -41,12 +41,16 @@ For cross-sectional studies, we recommend presenting the same type of informatio
 
 ## Field-specific guidance
 **Genetic association studies [@little2009]**  
-- cohort Report outcomes (phenotypes) for each genotype category over time  
+- Cohort: Report outcomes (phenotypes) for each genotype category over time  
 - Report numbers in each genotype category  
-- cross-sectional Report outcomes (phenotypes) for each genotype category</br> 
+- Cross-sectional: Report outcomes (phenotypes) for each genotype category</br> 
 
 **Neonatal infections [@fitchett2016]**  
 - Report the number (and the proportion) of samples microbiologically tested (including lumbar punctures for meningitis cases); the number (and the proportion) that were positive (including thresholds for detection, where applicable); all isolates obtained (including clinically signiﬁcant and nonsigniﬁcant); and antimicrobial susceptibilities of pathogens, where done  
 - Report the number (and the proportion) of babies with microbiologically proven infection (and number of infections per baby), and include this in the ﬂ ow chart (see ﬁgure 2)  
 - Report infections by day, for days 0–6. State age categories, if used, deﬁning early-onset and late-onset infection (eg, <72 h and ≥72 h, respectively)  
 - Report deaths and any subanalyses by risk groups  
+
+</br>
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).

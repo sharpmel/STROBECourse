@@ -32,7 +32,7 @@ edit: https://github.com/sharpmel/STROBECourse
 </br>
 There is debate about the dangers associated with subgroup analyses, and multiplicity of analyses in general. 4,104 In our opinion, there is too great a tendency to look for evidence of subgroup-specific associations, or effect-measure modification, when overall results appear to suggest little or no effect. On the other hand, there is value in exploring  whether an overall association appears consistent across several, preferably pre-specified subgroups especially when a study is large enough to have sufficient data in each subgroup. A second area of debate is about interesting subgroups that arose during the data analysis. They might be important findings, but might also arise by chance. Some argue that it is neither possible nor necessary to inform the reader about all subgroup analyses done as future analyses of other data will tell to what extent the early exciting findings stand the test of time.9 We advise authors to report which analyses were planned, and which were not (see also items 4, 12b and 20). This will allow readers to judge the implications of multiplicity, taking into account the study’s position on the continuum from discovery to verification or refutation.  
 </br>
-A third area of debate is how joint effects and interactions between risk factors should be evaluated: on additive or  multiplicative scales, or should the scale be determined by the statistical model that fits best (see also item 12b and box 8)? A sensible approach is to report the separate effect of each exposure as well as the joint effect – if possible in a table, as in the first example above,183 or in the study by Martinelli et al.185 Such a table gives the reader sufficient information to evaluate additive as well as multiplicative interaction (how these calculations are done is shown in box 8).  
+A third area of debate is how joint effects and interactions between risk factors should be evaluated: on additive or  multiplicative scales, or should the scale be determined by the statistical model that fits best (see also item 12b and [box 8][Box 8. Interaction (effect modification) ])? A sensible approach is to report the separate effect of each exposure as well as the joint effect – if possible in a table, as in the first example above,183 or in the study by Martinelli et al.185 Such a table gives the reader sufficient information to evaluate additive as well as multiplicative interaction (how these calculations are done is shown in [box 8][Box 8. Interaction (effect modification)]).  
 </br>
 Confidence intervals for separate and joint effects may help the reader to judge the strength of the data. In addition, confidence intervals around measures of interaction, such as the Relative Excess Risk from Interaction (RERI) relate to tests of interaction or homogeneity tests. One recurrent problem is that authors use comparisons of P values across subgroups, which lead to erroneous claims about an effect modifier. For instance, a statistically significant association in one category (eg, men), but not in the other (eg, women) does not in itself provide evidence of effect modification. Similarly, the confidence intervals for each point estimate are sometimes inappropriately used to infer that there is no interaction whintervals overlap. A more valid inference is achieved by directly evaluating whether the magnitude of an association differs across subgroups.  
 </br>
@@ -41,9 +41,19 @@ Sensitivity analyses are helpful to investigate the influence of choices made in
 Pocock and colleagues found that 43 out of 73 articles reporting observational studies contained subgroup analyses. The majority claimed differences across groups but only eight articles reported a formal evaluation of interaction (see item 12b).4 [@vandenbroucke2007]  
 
 ## Examples  
+Table.
 
+Analysis of Oral Contraceptive Use, Presence of Factor V Leiden Allele, and Risk for Venous Thromboembolism
 
-## Box 8. Interaction (effect modification):  
+https://doi.org/10.1371/journal.pmed.0040297.t009
+
+Table.
+
+Sensitivity of the Rate Ratio for Cardiovascular Outcome to an Unmeasured Confounder
+
+https://doi.org/10.1371/journal.pmed.0040297.t010
+
+## Box 8. Interaction (effect modification)  
 - The analysis of joint effects  
 Interaction exists when the association of an exposure with the risk of disease differs in the presence of another exposure. One problem in evaluating and reporting interactions is that the effect of an exposure can be measured in two ways: as a relative risk (or rate ratio) or as a risk difference (or rate difference). The use of the relative risk leads to a multiplicative model, while the use of the risk difference corresponds to an additive model [187,188]. A distinction is sometimes made between ‘statistical interaction' which can be a departure from either a multiplicative or additive model, and ‘biologic interaction' which is measured by departure from an additive model [189]. However, neither additive nor multiplicative models point to a particular biologic mechanism.  
 </br>

@@ -14,7 +14,7 @@ link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
-# Additional Information 
+# Additional Information  
 - Describe informed consent proceduers and and approval from ethical committee(s)  
  - If ethical approval was not obtained, explain the reason why not (e.g., public health outbreak response/non-research designation)  
 - Report any special ethical considerations (e.g., recruitment of minors, children, nenoates, etc.)  
@@ -23,7 +23,6 @@ edit: https://github.com/sharpmel/STROBECourse
 - Provide information on how to access supplemental information, the study protocol, data collection tools, raw data, and/or code  
 -	Describe any conﬂicts of interest, or lack thereof, for each author  
 - Describe the authors’ roles (CRediT and/or ICMJE criteria)  
-
 </br>
 
 ## Concluding Remarks  
@@ -38,7 +37,8 @@ Several journals ask authors to follow the STROBE Statement in their instruction
 
 ## Field-specific guidance  
 **Simulation-based research [@cheng2016]**  
-- List simulator brand and if conflict of interest for intellectual property exists.</br> 
+- List simulator brand and if conflict of interest for intellectual property exists.  
+</br> 
 
 ## Resources  
 Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).

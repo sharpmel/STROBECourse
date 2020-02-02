@@ -34,7 +34,7 @@ Unfortunately, authors often do not address important biases when reporting thei
 
 ## Examples  
 - Example 1.  
-“In most case-control studies of suicide, the control group comprises living individuals but we decided to have a control group of people who had died of other causes (…). With a control group of deceased individuals, the sources of information used to assess risk factors are informants who have recently experienced the death of a family member or close associate - and are therefore more comparable to the sources of information in the suicide group than if living controls were used” [Box 3. Bias].  
+“In most case-control studies of suicide, the control group comprises living individuals but we decided to have a control group of people who had died of other causes (…). With a control group of deceased individuals, the sources of information used to assess risk factors are informants who have recently experienced the death of a family member or close associate - and are therefore more comparable to the sources of information in the suicide group than if living controls were used” [@phillips2002].  
 </br>
 - Example 2.  
 “Detection bias could influence the association between Type 2 diabetes mellitus (T2DM) and primary open-angle glaucoma (POAG) if women with T2DM were under closer ophthalmic surveillance than women without this condition. We compared the mean number of eye examinations reported by women with and without diabetes. We also recalculated the relative risk for POAG with additional control for covariates associated with more careful ocular surveillance (a self-report of cataract, macular degeneration, number of eye examinations, and number of physical examinations).” [@pasquale2006; @vandenbroucke2007]

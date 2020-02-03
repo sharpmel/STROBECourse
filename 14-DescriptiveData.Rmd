@@ -15,15 +15,15 @@ edit: https://github.com/sharpmel/STROBECourse
 ---
 
 # Results: Descriptive Data (14)
-> The items from STROBE state that you should report: 
--	Give characteristics of study participants (e.g., demographic, clinical, social) and information on exposures and potential confounders
+> The items from STROBE state that you should report:  
+-	Give characteristics of study participants (e.g., demographic, clinical, social) and information on exposures and potential confounders  
 -	Indicate the number of participants with missing data for each variable of interest
 -	Cohort study Summarize follow-up time (e.g., average and total amount)
 
 **Some key items to consider adding:**  
 - Give the distribution of the biomarker measurement (including mean, median, range and variance)  
 - Average treatment duration for all groups  
-- Any subjects that changed exposure status
+- Any subjects that changed exposure status  
 - Numbers eligible for follow-up, numbers with completed follow-up and numbers remaining on treatment and/or in analysis at relevant time points during follow-up (eg, at yearly intervals). 
 -	Summarize follow-up time (e.g, average and total amount), if appropriate to the study design  
 - The use of tabular or graphical presentations of numbers exposed, outcomes and relative risks over time is encouraged

@@ -21,7 +21,7 @@ edit: https://github.com/sharpmel/STROBECourse
 -	Consider use of a flow diagram (13c)  
 
 </br>
-The Results section should give a factual account of what was found, from the recruitment of study participants, the description of the study population to the main results and ancillary analyses. It should be free of interpretations and discursive text reflecting the authors' views and opinions.  
+The Results section should give a factual account of what was found, from the recruitment of study participants, the description of the study population to the main results and ancillary analyses. It should be free of interpretations and discursive text reflecting the authors' views and opinions.[@vandenbroucke2007] 
 </br>
 
 **Some key items to consider adding:**  
@@ -36,26 +36,26 @@ The Results section should give a factual account of what was found, from the re
 </br>
 Ideally, investigators should give an account of the numbers of individuals considered at each stage of recruiting study participants, from the choice of a target population to the inclusion of participants’ data in the analysis. Depending on the type of study, this may include the number of individuals considered to be potentially eligible, the number assessed for eligibility, the number found to be eligible, the number included in the study, the number examined, the number followed up and the number included in the analysis. Information on different sampling units may be required, if sampling of study participants is carried out in two or more stages as in the example above (multistage sampling). In case-control studies, we advise that authors describe the flow of participants separately for case and control groups.[@schulz2002] Controls can sometimes be selected from several sources, including, for example, hospitalized patients and community dwellers. In this case, we recommend a separate account of the numbers of participants for each type of control group. Olson and colleagues proposed useful reporting guidelines for controls recruited through random-digit dialling and other methods.[@olson2002] 
 </br>
-A recent survey of epidemiological studies published in 10 general epidemiology, public health and medical journals found that some information regarding participation was provided in 47 of 107 case-control studies (59%), 49 of 154 cohort studies (32%), and 51 of 86 cross-sectional studies (59%).[@morton2006] Incomplete or absent reporting of participation and nonparticipation in epidemiological studies was also documented in two other surveys of the literature.[@pocock2004; @tooth2005] Finally, there is evidence that participation in epidemiological studies may have declined in recent decades,[@morton2006; @olson2001] which underscores the need for transparent reporting.[@sandler2002]
+A recent survey of epidemiological studies published in 10 general epidemiology, public health and medical journals found that some information regarding participation was provided in 47 of 107 case-control studies (59%), 49 of 154 cohort studies (32%), and 51 of 86 cross-sectional studies (59%).[@morton2006] Incomplete or absent reporting of participation and nonparticipation in epidemiological studies was also documented in two other surveys of the literature.[@pocock2004; @tooth2005] Finally, there is evidence that participation in epidemiological studies may have declined in recent decades,[@morton2006; @olson2001] which underscores the need for transparent reporting.[@sandler2002; @vandenbroucke2007]
 </br>
 
-## Example  
-- Of the 105 freestanding bars and taverns sampled, 13 establishments were no longer in business and 9 were located in restaurants, leaving 83 eligible businesses. In 22 cases, the owner could not be reached by telephone despite 6 or more attempts. The owners of 36 bars declined study participation. (...) The 25 participating bars and taverns employed 124 bartenders, with 67 bartenders working at least 1 weekly daytime shift. Fifty-four of the daytime bartenders (81%) completed baseline interviews and spirometry; 53 of these subjects (98%) completed follow-up [@eisner1998; @vandenbroucke2007]
+## Example 13a  
+- "Of the 105 freestanding bars and taverns sampled, 13 establishments were no longer in business and 9 were located in restaurants, leaving 83 eligible businesses. In 22 cases, the owner could not be reached by telephone despite 6 or more attempts. The owners of 36 bars declined study participation. (...) The 25 participating bars and taverns employed 124 bartenders, with 67 bartenders working at least 1 weekly daytime shift. Fifty-four of the daytime bartenders (81%) completed baseline interviews and spirometry; 53 of these subjects (98%) completed follow-up." [@eisner1998; @vandenbroucke2007]
 </br> 
 
 ## Explanation 13b  
-> Explaining the reasons why people no longer participated in a study or why they were excluded from statistical analyses helps readers judge whether the study population was representative of the target population and whether bias was possibly introduced. For example, in a cross-sectional health survey, non-participation due to reasons unlikely to be related to health status (for example, the letter of invitation was not delivered because of an incorrect address) will affect the precision of estimates but will probably not introduce bias. Conversely, if many individuals opt out of the survey because of illness, or perceived good health, results may underestimate or overestimate the prevalence of ill health in the population.  
+> Explaining the reasons why people no longer participated in a study or why they were excluded from statistical analyses helps readers judge whether the study population was representative of the target population and whether bias was possibly introduced. For example, in a cross-sectional health survey, non-participation due to reasons unlikely to be related to health status (for example, the letter of invitation was not delivered because of an incorrect address) will affect the precision of estimates but will probably not introduce bias. Conversely, if many individuals opt out of the survey because of illness, or perceived good health, results may underestimate or overestimate the prevalence of ill health in the population. [@vandenbroucke2007]  
 </br>
 
-## Example  
-- “The main reasons for non-participation were the participant was too ill or had died before interview (cases 30%, controls < 1%), nonresponse (cases 2%, controls 21%), refusal (cases 10%, controls 29%), and other reasons (refusal by consultant or general practitioner, non-English speaking, mental impairment) (cases 7%, controls 5%)” [140]
+## Example 13b  
+- “The main reasons for non-participation were the participant was too ill or had died before interview (cases 30%, controls < 1%), nonresponse (cases 2%, controls 21%), refusal (cases 10%, controls 29%), and other reasons (refusal by consultant or general practitioner, non-English speaking, mental impairment) (cases 7%, controls 5%).” [@hepworth2006; @vandenbroucke2007]
 </br> 
 
 ## Explanation 13c  
-An informative and well-structured flow diagram can readily and transparently convey information that might otherwise require a lengthy description,[@egger2001] as in the example above. The diagram may usefully include the main results, such as the number of events for the primary outcome. While we recommend the use of a flow diagram, particularly for complex observational studies, we do not propose a specific format for the diagram.[@vandenbroucke2007]  
+> An informative and well-structured flow diagram can readily and transparently convey information that might otherwise require a lengthy description,[@egger2001] as in the example above. The diagram may usefully include the main results, such as the number of events for the primary outcome. While we recommend the use of a flow diagram, particularly for complex observational studies, we do not propose a specific format for the diagram.[@vandenbroucke2007]  
 </br>
 
-## Example   
+## Example 13c   
 Flow diagram from Hay et al. [141].
 https://doi.org/10.1371/journal.pmed.0040297.g001
 </br></br>

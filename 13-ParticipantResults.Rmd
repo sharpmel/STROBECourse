@@ -55,9 +55,10 @@ A recent survey of epidemiological studies published in 10 general epidemiology,
 > An informative and well-structured flow diagram can readily and transparently convey information that might otherwise require a lengthy description,[@egger2001] as in the example above. The diagram may usefully include the main results, such as the number of events for the primary outcome. While we recommend the use of a flow diagram, particularly for complex observational studies, we do not propose a specific format for the diagram.[@vandenbroucke2007]  
 </br>
 
-## Example 13c   
-Flow diagram from Hay et al. [141].
-https://doi.org/10.1371/journal.pmed.0040297.g001
+## Example 13c 
+<img align="right" src="images/16aex2.png" style="float:right" alt="Flow diagram from Hay et al.">
+**Flow diagram from Hay et al. [@hay2003].**    
+**https://doi.org/10.1371/journal.pmed.0040297.g001**
 </br></br>
 
 ## Field-specific guidance  

@@ -14,20 +14,23 @@ link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
-# Discussion: Key Results (18)
-> The items from STROBE state that you should report:   
+# Discussion: Key Results (18)  
+> The items from STROBE state that you should report:  
 -	Summarize key results with reference to study objectives  
 
+</br> 
+
 ## Discussion  
-The discussion section addresses the central issues of validity and meaning of the study [191]. Surveys have found that discussion sections are often dominated by incomplete or biased assessments of the study's results and their implications, and rhetoric supporting the authors' findings [192,193]. Structuring the discussion may help authors avoid unwarranted speculation and over-interpretation of results while guiding readers through the text [194,195]. For example, Annals of Internal Medicine [196] recommends that authors structure the discussion section by presenting the following: (1) a brief synopsis of the key findings; (2) consideration of possible mechanisms and explanations; (3) comparison with relevant findings from other published studies; (4) limitations of the study; and (5) a brief section that summarizes the implications of the work for practice and research. Others have made similar suggestions [191,194]. The section on research recommendations and the section on limitations of the study should be closely linked to each other. Investigators should suggest ways in which subsequent research can improve on their studies rather than blandly stating ‘more research is needed' [197,198]. We recommend that authors structure their discussion sections, perhaps also using suitable [@vandenbroucke2007]
+The discussion section addresses the central issues of validity and meaning of the study [@hess2004]. Surveys have found that discussion sections are often dominated by incomplete or biased assessments of the study's results and their implications, and rhetoric supporting the authors' findings [@horton2002; @horton2002]. Structuring the discussion may help authors avoid unwarranted speculation and over-interpretation of results while guiding readers through the text [@docherty1999; @perneger2004]. For example, Annals of Internal Medicine [@annals2007] recommends that authors structure the discussion section by presenting the following: (1) a brief synopsis of the key findings; (2) consideration of possible mechanisms and explanations; (3) comparison with relevant findings from other published studies; (4) limitations of the study; and (5) a brief section that summarizes the implications of the work for practice and research. Others have made similar suggestions [@hess2004; @docherty1999]. The section on research recommendations and the section on limitations of the study should be closely linked to each other. Investigators should suggest ways in which subsequent research can improve on their studies rather than blandly stating ‘more research is needed' [@maldonado1999; @phillips2001]. We recommend that authors structure their discussion sections, perhaps also using suitable [@vandenbroucke2007]
 </br> 
 
 ## Explanation  
-> It is good practice to begin the discussion with a short summary of the main findings of the study. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications offered by the authors are supported by the findings.[@vandenbroucke2007]
+> It is good practice to begin the discussion with a short summary of the main findings of the study. The short summary reminds readers of the main findings and may help them assess whether the subsequent interpretation and implications offered by the authors are supported by the findings. [@vandenbroucke2007]  
+
 </br>  
 
 ## Examples  
-“We hypothesized that ethnic minority status would be associated with higher levels of cardiovascular disease (CVD) risk factors, but that the associations would be explained substantially by socioeconomic status (SES). Our hypothesis was not confirmed. After adjustment for age and SES, highly significant differences in body mass index, blood pressure, diabetes, and physical inactivity remained between white women and both black and Mexican American women. In addition, we found large differences in CVD risk factors by SES, a finding that illustrates the high-risk status of both ethnic minority women as well as white women with low SES.”199 [@vandenbroucke2007]  
+“We hypothesized that ethnic minority status would be associated with higher levels of cardiovascular disease (CVD) risk factors, but that the associations would be explained substantially by socioeconomic status (SES). Our hypothesis was not confirmed. After adjustment for age and SES, highly significant differences in body mass index, blood pressure, diabetes, and physical inactivity remained between white women and both black and Mexican American women. In addition, we found large differences in CVD risk factors by SES, a finding that illustrates the high-risk status of both ethnic minority women as well as white women with low SES.” [@winkleby1998; @vandenbroucke2007]  
 </br></br>
 
 ## Resources  

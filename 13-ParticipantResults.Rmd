@@ -56,7 +56,7 @@ A recent survey of epidemiological studies published in 10 general epidemiology,
 </br>
 
 ## Example 13c 
-<img align="right" src="images/16aex2.png" style="float:right" alt="Flow diagram from Hay et al.">
+<img align="right" src="images/13c.png" style="float:right" alt="Flow diagram from Hay et al.">
 **Flow diagram from Hay et al. [@hay2003].**    
 **https://doi.org/10.1371/journal.pmed.0040297.g001**
 </br></br>

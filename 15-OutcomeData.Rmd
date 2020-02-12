@@ -35,31 +35,27 @@ edit: https://github.com/sharpmel/STROBECourse
 </br>
 For cross-sectional studies, we recommend presenting the same type of information on prevalent outcome events or summary measures. For case-control studies, the focus will be on reporting exposures separately for cases and controls as frequencies or quantitative summaries.154 For all designs, it may be helpful also to tabulate continuous outcomes or exposures in categories, even if the data are not analyzed as such.[@vandenbroucke2007]  
 
+## Examples
 ## 15 cohort example
 Table.
-
+<img align="right" src="images/15cohort.png" style="float:right" alt="Rates of HIV-1 Seroconversion by Selected Sociodemographic Variables: 1990–1993">
 Rates of HIV-1 Seroconversion by Selected Sociodemographic Variables: 1990–1993
-
 https://doi.org/10.1371/journal.pmed.0040297.t004
 
+##case-control study
 Table.
-
+<img align="right" src="images/15caco.png" style="float:right" alt="Exposure among Liver Cirrhosis Cases and Controls">
 Exposure among Liver Cirrhosis Cases and Controls
-
 https://doi.org/10.1371/journal.pmed.0040297.t006
 
 ## cross-sectional
 Table.
-
-
+<img align="right" src="images/15cross.png" style="float:right" alt="Prevalence of Current Asthma and Diagnosed Hay Fever by Average Alternaria alternata Antigen Level in the Household">
 Prevalence of Current Asthma and Diagnosed Hay Fever by Average Alternaria alternata Antigen Level in the Household
-
 https://doi.org/10.1371/journal.pmed.0040297.t007
-## Examples
-
 </br></br>
 
-## Field-specific guidance
+## Field-specific guidance  
 **Genetic association studies [@little2009]**  
 - Cohort: Report outcomes (phenotypes) for each genotype category over time  
 - Report numbers in each genotype category  

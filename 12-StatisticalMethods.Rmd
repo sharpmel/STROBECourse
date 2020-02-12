@@ -34,19 +34,19 @@ edit: https://github.com/sharpmel/STROBECourse
 - Data analysis software version and options/settings used   
 - If the same association under study has previously been published, consider using a similar analysis model and deﬁnitions for replicative purposes  
 - Methods used to   
- - Assess robustness of analyses (e.g, sensitivity analyses, quantitative bias assessment)
- - Adjust for measurement error, (i.e., from a validity or calibration study)  
- - Account for sampling strategy (e.g., estimator used)  
- - Address missing data or loss-to-follow-up  
- - Control for confounding  
- - Manage and correct for for non-independence (i.e., relatedness) of data  
- - Address multiple comparisons or to control for the risk of false positive findings  
- - Assess and address population stratification  
- - Identify and address repeated measures on subjects
- - Clean data 
- - Combine or link data (person/individual/dataset level linkages) and an evaluation of the linkage quality
- - matching, complex sampling
--	Describe the rationale for examining subgroups and interactions and the methods used
+ -- Assess robustness of analyses (e.g, sensitivity analyses, quantitative bias assessment)
+ -- Adjust for measurement error, (i.e., from a validity or calibration study)  
+ -- Account for sampling strategy (e.g., estimator used)  
+ -- Address missing data or loss-to-follow-up  
+ -- Control for confounding  
+ -- Manage and correct for for non-independence (i.e., relatedness) of data  
+ -- Address multiple comparisons or to control for the risk of false positive findings  
+ -- Assess and address population stratification  
+ -- Identify and address repeated measures on subjects
+ -- Clean data  
+ -- Combine or link data (person/individual/dataset level linkages) and an evaluation of the linkage quality  
+ -- matching, complex sampling  
+ --	Describe the rationale for examining subgroups and interactions and the methods used
 
 </br>
 

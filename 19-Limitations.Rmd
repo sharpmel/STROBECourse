@@ -14,37 +14,33 @@ link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
-# Discussion: Limitations (19)
-> The items from STROBE state that you should report: 
--	Discuss limitations of the study, taking into account sources of potential bias or imprecision.
--	Discuss both direction and magnitude of any potential bias
+# Discussion: Limitations (19)  
+> The items from STROBE state that you should report:   
+-	Discuss limitations of the study, taking into account sources of potential bias or imprecision.  
+-	Discuss both direction and magnitude of any potential bias  
 
-</br> 
+</br>  
 **Some key items to consider adding:**  
 - Describe the main limitations of the data sources and assessment methods (e.g., laboratory or collection procedures) used and implications for the interpretation of the ﬁndings  
--	Specifically discuss the limitations of SBR  
-- Discuss strengths and limitations of the study, taking into account sources of potential bias or imprecision. Discuss both direction and magnitude of any potential bias  
-- Selection factors for treatment should be considered and discussed  
--	Discuss implication of unmeasured/residual confounding  
-- Discuss the implications of using data that were not created or collected to answer the speciﬁc research question(s).  
-- Include discussion of misclassiﬁcation bias, unmeasured confounding, missing data, and changing eligibility over time, as they pertain to the study being reported  
+- Discuss implications of misclassiﬁcation bias, unmeasured/residual confounding, missing data, and , selection factors for treatment, and changing eligibility over time  
+- Discuss the implications of using data that were not created or collected to answer the speciﬁc research question(s)  
 
 </br>
 
 ## Explanation  
-> The identification and discussion of the limitations of a study are an essential part of scientific reporting. It is important not only to identify the sources of bias and confounding that could have affected results, but also to discuss the relative importance of different biases, including the likely direction and magnitude of any potential bias (see also box 3, item 9).  
+> The identification and discussion of the limitations of a study are an essential part of scientific reporting. It is important not only to identify the sources of bias and confounding that could have affected results, but also to discuss the relative importance of different biases, including the likely direction and magnitude of any potential bias (see also [box 3][Box 3. Bias], [item 9][Methods: Bias (9)]).  
 </br>
-Authors should also discuss any imprecision of the results. Imprecision may arise in connection with several aspects of a study, including the study size (item 10) and the measurement of exposures, confounders and outcomes (item 8). The inability to precisely measure true values of an exposure tends to result in bias towards unity: the less precisely a risk factor is measured, the greater the bias. This effect has been described as ‘attenuation’,201,202 or more recently as ‘regression dilution bias’.203 However, when correlated risk factors are measured with different degrees of imprecision, the adjusted relative risk associated with them can be biased towards or away from unity.204–206  
+Authors should also discuss any imprecision of the results. Imprecision may arise in connection with several aspects of a study, including the study size ([item 10][Methods: Study Size (10)]) and the measurement of exposures, confounders and outcomes ([item 8][Methods: Data/Measurement (8)]). The inability to precisely measure true values of an exposure tends to result in bias towards unity: the less precisely a risk factor is measured, the greater the bias. This effect has been described as ‘attenuation’, [@spearman1904; @fuller1978] or more recently as ‘regression dilution bias’. [@macmahon1990] However, when correlated risk factors are measured with different degrees of imprecision, the adjusted relative risk associated with them can be biased towards or away from unity. [@phillips1991; @phillips1992; @greenland1980]   
 </br> 
-When discussing limitations, authors may compare the study being presented with other studies in the literature in terms of validity, generalizability and precision. In this approach, each study can be viewed as contribution to the literature, not as a stand-alone basis for inference and action. 207 
-</br>
-Surprisingly, the discussion of important limitations of a study is sometimes omitted from published reports. A survey of authors who had published original research articles in The Lancet found that important weaknesses of the study were reported by the investigators in the survey questionnaires, but not in the published article.192 [@vandenbroucke2007]  
+When discussing limitations, authors may compare the study being presented with other studies in the literature in terms of validity, generalizability and precision. In this approach, each study can be viewed as contribution to the literature, not as a stand-alone basis for inference and action. [@poole2003] Surprisingly, the discussion of important limitations of a study is sometimes omitted from published reports. A survey of authors who had published original research articles in <i>The Lancet</i> found that important weaknesses of the study were reported by the investigators in the survey questionnaires, but not in the published article. [@horton2002; @vandenbroucke2007]  
+
 </br></br> 
 
 ## Example  
-- “Since the prevalence of counseling increases with increasing levels of obesity, our estimates may overestimate the true prevalence. Telephone surveys also may overestimate the true prevalence of counseling. Although persons without telephones have similar levels of overweight as persons with telephones, persons without telephones tend to be less educated, a factor associated with lower levels of counseling in our study. Also, of concern is the potential bias caused by those who refused to participate as well as those who refused to respond to questions about weight. Furthermore, because data were collected cross-sectionally, we cannot infer that counseling preceded a patient’s attempt to lose weight.”[@galuska1999; @vandenbroucke2007]
+- “Since the prevalence of counseling increases with increasing levels of obesity, our estimates may overestimate the true prevalence. Telephone surveys also may overestimate the true prevalence of counseling. Although persons without telephones have similar levels of overweight as persons with telephones, persons without telephones tend to be less educated, a factor associated with lower levels of counseling in our study. Also, of concern is the potential bias caused by those who refused to participate as well as those who refused to respond to questions about weight. Furthermore, because data were collected cross-sectionally, we cannot infer that counseling preceded a patient’s attempt to lose weight.” [@galuska1999; @vandenbroucke2007]  
 
 </br> </br> 
+
 ## Field-specific guidance  
 **Anti-microbial stewardship programs [@tacconelli2016]**  
 - Provide description of sources of selection bias, including infection control measures, audit and confounding </br> 
@@ -53,10 +49,10 @@ Surprisingly, the discussion of important limitations of a study is sometimes om
 - Consider alternative explanations for ﬁndings when transmission chains are being investigated, and report the consistency between molecular and epidemiological evidence </br> 
 
 **Neonatal infections [@fitchett2016]**  
-- Discuss sources of recruitment bias, particularly regarding the period of time shortly after birth. State source of denominator data and discuss possible related biases</br> 
+- Discuss sources of recruitment bias, particularly regarding the period of time shortly after birth. State source of denominator data and discuss possible related  </br> 
 
-**Seroepidemiologic studies for influenza [@horby2017]  
-- Discuss limitations and strengths of the study with reference to Table 1</br> 
+**Seroepidemiologic studies for influenza [@horby2017]**  
+- Discuss limitations and strengths of the study with reference to Table 1 </br> 
 
 ## Resources  
 Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).

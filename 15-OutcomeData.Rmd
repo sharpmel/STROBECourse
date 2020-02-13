@@ -14,7 +14,7 @@ link-citations: yes
 edit: https://github.com/sharpmel/STROBECourse
 ---
 
-# Results: Outcome Data (15)
+# Results: Outcome Data (15)  
 >The items from STROBE state that you should report:  
 - Cohort study: Report numbers of outcome events or summary measures over time  
 - Case-control study: Report numbers in each exposure category, or summary measures of exposure  

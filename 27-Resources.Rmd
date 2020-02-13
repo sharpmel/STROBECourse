@@ -1,0 +1,50 @@
+---
+title: "References"
+author: "Melissa K Sharp"
+delete_merged_file: true
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    number_sections: false 
+    includes: 
+      after_body: disqus.html
+edit: https://github.com/sharpmel/STROBECourse
+bibliography: bibliography.bib
+csl: apa-annotated.csl
+link-citations: yes
+---
+
+# General Resources
+- Rothman, K. J., Greenland, S., & Lash, T. L. (2008). Modern Epidemiology. Lippincott Williams & Wilkins. [@rothman2008]  
+- Boston University Schol of Public Health. MPH Online Learning Modules. Retrieved February 13, 2020, from http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/index.html [@busph2020]  
+- Johns Hopkins Bloomberg School of Public Health.  Fundamentals of Epidemiology I : Lecture Materials. In JHSPHOPEN coursewear. Retrieved January 27, 2020, from http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/FundEpi/coursePage/lectureNotes/ [@hopkins2020]  
+
+</br> 
+
+## Writing Resources
+**Writing Aid Tool**  
+- Lachat, C. (2019). Contribute to carllachat/WritingAidTool development by creating an account on GitHub. https://github.com/carllachat/WritingAidTool
+original-date: 2019-02-07T17:29:24Z [@lachat2019]  
+- Hawwash, D., Sharp, M. K., Argaw, A., Kolsteren, P., & Lachat, C. (2019). Usefulness of applying research reporting guidelines as Writing Aid software: A crossover randomised controlled trial. BMJ Open, 9(11). https://doi.org/10.1136/bmjopen-2019-030943 [@hawwash2019]  
+
+</br> 
+
+**Others**  
+- Perneger, T. V., & Hudelson, P. M. (2004). Writing a research article: Advice to beginners. International Journal for Quality in Health Care, 16(3), 191–192. https://doi.org/10.1093/intqhc/mzh053 [@perneger2004]  
+</br> 
+
+## Teaching Epidemiology  
+- Trichopolous, D. (Ed.). (2010). Teaching epidemiology: A guide for teachers in epidemiology, public health and clinical medicine. Oxford University Press. https://www.amazon.co.uk/Teaching-Epidemiology-Teachers-Clinical-Medicine/dp/0199239479 [@trichopolous2010]  
+- Keyes, K. M., & Galea, S. (2014). Current Practices in Teaching Introductory Epidemiology: How We Got Here, Where to Go. American Journal of Epidemiology, 180(7), 661–668. https://doi.org/10.1093/aje/kwu219 [@keyes2014]  
+
+</br> 
+
+## Statistics and Coding  
+- Datamethods Discussion Forum. Retrieved February 13, 2020, from  https://discourse.datamethods.org/ [@datamethods2020]  
+- Stack Overflow - Where Developers Learn, Share, & Build Careers. In Stack Overflow. Retrieved February 13, 2020, from https://stackoverflow.com/ [@stackoverflow2020]  
+
+</br> 
+
+## Resources  
+Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).
+</br> 

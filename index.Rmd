@@ -49,6 +49,6 @@ The content in this book will appeal to those who work in observational research
 We hope to help you develop your understanding of study designs, data collection, statistical analysis, and interpretation of results. This site will not cover key aspects of the conduct of research, such as the skills needed for personal interactions with patients and participants, detailed analytical skills, regulatory frameworks, nor science communication skills needed to disseminate your work to the general public. All are important areas influencing items covered in this course but the breadth is too great to go over each area in depth. Rather, we aim to provide supplementary information along the way that will help you explore and grow in these areas if you so wish.
 </br>
 
-<h2> Funding Satement and Licensing </h2>
-*This site is a project of the Methods in Research on Research programme, supported by the European Union Horizon 2020 research and innovation program. The online version of this book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).* 
+<h2> Funding Statement and Licensing </h2>
+*This site is a project of the Methods in Research on Research (MiRoR) project, supported by the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 676207.The online version of this book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).* 
 </br>

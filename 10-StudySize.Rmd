@@ -8,6 +8,7 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
+      in_header: analytics.html 
 bibliography: bibliography.bib
 csl: apa-annotated.csl
 link-citations: yes
@@ -34,7 +35,7 @@ Example 1.
 “The number of cases in the area during the study period determined the sample size” [@yadon2003; @vandenbroucke2007].  
 </br>  
 Example 2.  
-“A survey of postnatal depression in the region had documented a prevalence of 19.8%. Assuming depression in mothers with normal weight children to be 20% and an odds ratio of 3 for depression in mothers with a malnourished child we needed 72 case-control sets (one case to one control) with an 80% power and 5% significance” [@anoop204; @vandenbroucke2007].
+“A survey of postnatal depression in the region had documented a prevalence of 19.8%. Assuming depression in mothers with normal weight children to be 20% and an odds ratio of 3 for depression in mothers with a malnourished child we needed 72 case-control sets (one case to one control) with an 80% power and 5% significance” [@anoop2004; @vandenbroucke2007].
 </br>
 
 ## Explanation  

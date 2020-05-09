@@ -6,8 +6,7 @@ site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
     number_sections: false
-    includes: 
-      in_header: analytics.html  
+ 
 edit: https://github.com/sharpmel/STROBECourse
 ---
 

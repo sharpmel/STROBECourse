@@ -8,7 +8,6 @@ output:
   bookdown::gitbook:
     number_sections: false 
     includes: 
-      in_header: analytics.html
       after_body: disqus.html
 bibliography: bibliography.bib
 csl: apa-annotated.csl

@@ -8,7 +8,6 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
-      in_header: analytics.html 
 bibliography: bibliography.bib
 csl: apa-annotated.csl
 link-citations: yes
@@ -75,7 +74,7 @@ Interaction relates to the situation when one factor modifies the effect of anot
 - “Sex differences in susceptibility to the 3 lifestyle-related risk factors studied were explored by testing for biological interaction according to Rothman: a new composite variable with 4 categories (a−b−, a−b+, a+b−, and a+b+) was redefined for sex and a dichotomous exposure of interest where a− and b− denote absence of exposure. RR was calculated for each category after adjustment for age. An interaction effect is defined as departure from additivity of absolute effects, and excess RR caused by interaction (RERI) was calculated:  
 </br>
 
-<img align="right" src="images/12b.PNG" alt = "RERI"></img> 
+<img align="right" src="images/12b.png" alt = "RERI"></img> 
 
 </br>
 - where RR(a+b+) denotes RR among those exposed to both factors where RR(a−b−) is used as reference category (RR = 1.0). Ninety-five percent CIs were calculated as proposed by Hosmer and Lemeshow. RERI of 0 means no interaction” [@hallan2006; @vandenbroucke2007].  

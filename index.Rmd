@@ -9,6 +9,7 @@ output:
     number_sections: false 
     includes: 
       after_body: disqus.html
+      in_header: analytics.html
 bibliography: bibliography.bib
 csl: apa-annotated.csl
 link-citations: yes
@@ -16,6 +17,7 @@ edit: https://github.com/sharpmel/STROBECourse
 description: "This site is a public, open-source repository for epidemiological research methods and reporting skills for observational studies. We aim to be as inclusive as possible but this site is based on the Strengthening the Reporting of Observational studies in Epidemiology Statement."
 github-repo: "sharpmel/STROBECourse"
 cover-image: "images/checklistlifejacket.jpg"
+output_dir: "/STROBE_eduexpansion"
 ---
 
 # Introduction {- #intro}

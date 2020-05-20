@@ -172,6 +172,7 @@ In 1959 Cornfield et al famously showed that a relative risk of 9 for cigarette 
 </br>
 
 ## Resources   
+</br>
 Do you know of any good guidance or resources related to this item? Suggest them via comments below, [Twitter](https://twitter.com/sharpmelk), [GitHub](https://github.com/sharpmel/STROBECourse), or [e-mail](mailto:melissaksharp@gmail.com).  
 - 
 Bland, J. M., & Altman, D. G. (1997). Statistics notes: Cronbach’s alpha. BMJ, 314(7080), 572. https://doi.org/10.1136/bmj.314.7080.572 [@bland1997]  

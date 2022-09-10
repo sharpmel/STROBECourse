@@ -14,10 +14,25 @@ csl: apa-annotated.csl
 link-citations: yes
 ---
 
-# General Resources
-- Rothman, K. J., Greenland, S., & Lash, T. L. (2008). Modern Epidemiology. Lippincott Williams & Wilkins. [@rothman2008]  
-- Boston University Schol of Public Health. MPH Online Learning Modules. Retrieved February 13, 2020, from http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/index.html [@busph2020]  
-- Johns Hopkins Bloomberg School of Public Health.  Fundamentals of Epidemiology I : Lecture Materials. In JHSPHOPEN coursewear. Retrieved January 27, 2020, from http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/FundEpi/coursePage/lectureNotes/ [@hopkins2020]  
+# Books
+**Introductory textbooks**
+- Dicker, R. C., Coronado, F., Koo, D., & Parrish, R. G. (2006). Principles of epidemiology in public health practice; an introduction to applied epidemiology and biostatistics. 3rd ed. https://stacks.cdc.gov/view/cdc/6914
+- Rothman, K. J. (2012). Epidemiology: an introduction, 2nd edition. Oxford University Press.
+Note. Dr Kenneth Rothman provides the rationale for this introductory textbook on this podcast: 
+https://seriousepi.blubrry.net/2021/09/07/s2e1-modern-epidemiology-an-interview-with-dr-kenneth-rothman/
+- Webb, P., Bain, C., & Page, A. (2019). Essential epidemiology: an introduction for students and health professionals, 4th edition. Cambridge University Press.
+
+**Advanced textbooks**
+Lash, T. J., VanderWheele, T. J., Haneuse, S., & Rothman, K. J. Modern Epidemiology, 4th edition. Wolters Kluwer, 2021
+Note. Dr Kenneth Rothman discusses the history of this book in this podcast episode: 
+https://seriousepi.blubrry.net/2021/09/07/s2e1-modern-epidemiology-an-interview-with-dr-kenneth-rothman/
+
+# Online Learning Modules
+- Boston University School of Public Health. MPH Online Learning Modules. Retrieved February 13, 2020, from http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/index.html [@busph2020]  
+- Johns Hopkins Bloomberg School of Public Health. Fundamentals of Epidemiology I : Lecture Materials. In JHSPH OpenCourseWare. Retrieved January 27, 2020, from http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/FundEpi/coursePage/lectureNotes/ [@hopkins2020]  
+
+# Online journal articles with educational aims
+- International Journal of Epidemiology: The Education Corner. (2022). Retrieved September 10, 2022, from https://academic.oup.com/ije/pages/Education_Corner
 
 </br> 
 
@@ -35,12 +50,20 @@ original-date: 2019-02-07T17:29:24Z [@lachat2019]
 
 ## Teaching Epidemiology  
 - Trichopolous, D. (Ed.). (2010). Teaching epidemiology: A guide for teachers in epidemiology, public health and clinical medicine. Oxford University Press. https://www.amazon.co.uk/Teaching-Epidemiology-Teachers-Clinical-Medicine/dp/0199239479 [@trichopolous2010]  
-- Keyes, K. M., & Galea, S. (2014). Current Practices in Teaching Introductory Epidemiology: How We Got Here, Where to Go. American Journal of Epidemiology, 180(7), 661–668. https://doi.org/10.1093/aje/kwu219 [@keyes2014]  
+- Keyes, K. M., & Galea, S. (2014). Current Practices in Teaching Introductory Epidemiology: How We Got Here, Where to Go. American Journal of Epidemiology, 180(7), 661–668. https://doi.org/10.1093/aje/kwu219 [@keyes2014]
+- Pai Global TB Group. (2022). TeachEpi. Toronto, Canada: McGill University. https://www.teachepi.org/
+
+## Podcasts
+Society for Epidemiological Research (SER). (2022). SERious Epi. Retrieved on September 10, 2022 from https://seriousepi.blubrry.net/
+Society for Epidemiological Research (SER). (2022). Epidemiology counts: Retrieved on September 10, 2022 from https://serepidemiologycounts.blubrry.net/
+McGowan, L. D., & Murray, E. (2022). Casual Inference. Retrieved on September 10, 2022 from https://casualinfer.libsyn.com/
 
 </br> 
 
-## Statistics and Coding  
-- Datamethods Discussion Forum. Retrieved February 13, 2020, from  https://discourse.datamethods.org/ [@datamethods2020]  
+## Statistics and Coding
+- BMJ Statistics Notes. Retrieved September 10, 2022, from https://www.bmj.com/specialties/statistics-notes
+- Datamethods Discussion Forum. Retrieved February 13, 2020, from  https://discourse.datamethods.org/ [@datamethods2020]
+- JAMA Network Guide to Statistics and Medicine. Retrieved September 10, 2022, from https://jamanetwork.com/collections/44042/guide-to-statistics-and-medicine
 - Stack Overflow - Where Developers Learn, Share, & Build Careers. In Stack Overflow. Retrieved February 13, 2020, from https://stackoverflow.com/ [@stackoverflow2020]  
 
 </br> 

@@ -29,10 +29,17 @@ https://seriousepi.blubrry.net/2021/09/07/s2e1-modern-epidemiology-an-interview-
 
 # Online Learning Modules
 - Boston University School of Public Health. MPH Online Learning Modules. Retrieved February 13, 2020, from http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Menu/index.html [@busph2020]  
-- Johns Hopkins Bloomberg School of Public Health. Fundamentals of Epidemiology I : Lecture Materials. In JHSPH OpenCourseWare. Retrieved January 27, 2020, from http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/FundEpi/coursePage/lectureNotes/ [@hopkins2020]  
+- Johns Hopkins Bloomberg School of Public Health. Fundamentals of Epidemiology I : Lecture Materials. In JHSPH OpenCourseWare. Retrieved January 27, 2020, from http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/FundEpi/coursePage/lectureNotes/ [@hopkins2020]
+
+# Online groups
+- The STRATOS (STRengthening Analytical Thinking for Observational Studies) Initiative: https://stratos-initiative.org/
+Note: The background for this group is described in Sauerbrei, W., Abrahamowicz, M., Altman, D. G., le Cessie, S., Carpenter, J., & STRATOS initiative. (2014). STRengthening analytical thinking for observational studies: the STRATOS initiative. Statistics in medicine, 33(30), 5413-5432.
 
 # Online journal articles with educational aims
 - International Journal of Epidemiology: The Education Corner. (2022). Retrieved September 10, 2022, from https://academic.oup.com/ije/pages/Education_Corner
+
+# Definitional issues
+Frérot, M., Lefebvre, A., Aho, S., Callier, P., Astruc, K., & Aho Glélé, L. S. (2018). What is epidemiology? Changing definitions of epidemiology 1978-2017. PloS one, 13(12), e0208442.
 
 </br> 
 
